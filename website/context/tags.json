@@ -1,0 +1,1382 @@
+{
+    "arrow-left": {
+        "category": "Arrows",
+        "tags": ["arrow", "left", "back"],
+        "version": "1.0.0"
+    },
+    "arrow-up-left": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "left"],
+        "version": "1.0.0"
+    },
+    "arrow-up": {
+        "category": "Arrows",
+        "tags": ["arrow", "up"],
+        "version": "1.0.0"
+    },
+    "arrow-up-right": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "right"],
+        "version": "1.0.0"
+    },
+    "arrow-right": {
+        "category": "Arrows",
+        "tags": ["arrow", "right", "next"],
+        "version": "1.0.0"
+    },
+    "arrow-down-right": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "right"],
+        "version": "1.0.0"
+    },
+    "arrow-down": {
+        "category": "Arrows",
+        "tags": ["arrow", "down"],
+        "version": "1.0.0"
+    },
+    "arrow-down-left": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "left"],
+        "version": "1.0.0"
+    },
+    "arrow-left-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "left", "back", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-up-left-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "left", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-up-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-up-right-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "right", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-right-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "right", "next", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-down-right-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "right", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-down-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "narrow"],
+        "version": "1.0.0"
+    },
+    "arrow-down-left-narrow": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "left", "narrow"],
+        "version": "1.0.0"
+    },
+    "chevron-left": {
+        "category": "Arrows",
+        "tags": ["chevron", "left", "back"],
+        "version": "1.0.0"
+    },
+    "chevron-up-left": {
+        "category": "Arrows",
+        "tags": ["chevron", "up", "left"],
+        "version": "1.0.0"
+    },
+    "chevron-up": {
+        "category": "Arrows",
+        "tags": ["chevron", "up"],
+        "version": "1.0.0"
+    },
+    "chevron-up-right": {
+        "category": "Arrows",
+        "tags": ["chevron", "up", "right"],
+        "version": "1.0.0"
+    },
+    "chevron-right": {
+        "category": "Arrows",
+        "tags": ["chevron", "right", "next"],
+        "version": "1.0.0"
+    },
+    "chevron-down-right": {
+        "category": "Arrows",
+        "tags": ["chevron", "down", "right"],
+        "version": "1.0.0"
+    },
+    "chevron-down": {
+        "category": "Arrows",
+        "tags": ["chevron", "down"],
+        "version": "1.0.0"
+    },
+    "chevron-down-left": {
+        "category": "Arrows",
+        "tags": ["chevron", "down", "left"],
+        "version": "1.0.0"
+    },
+    "chevrons-left": {
+        "category": "Arrows",
+        "tags": ["chevrons", "left", "back"],
+        "version": "1.0.0"
+    },
+    "chevrons-up-left": {
+        "category": "Arrows",
+        "tags": ["chevrons", "up", "left"],
+        "version": "1.0.0"
+    },
+    "chevrons-up": {
+        "category": "Arrows",
+        "tags": ["chevrons", "up"],
+        "version": "1.0.0"
+    },
+    "chevrons-up-right": {
+        "category": "Arrows",
+        "tags": ["chevrons", "up", "right"],
+        "version": "1.0.0"
+    },
+    "chevrons-right": {
+        "category": "Arrows",
+        "tags": ["chevrons", "right", "next"],
+        "version": "1.0.0"
+    },
+    "chevrons-down-right": {
+        "category": "Arrows",
+        "tags": ["chevrons", "down", "right"],
+        "version": "1.0.0"
+    },
+    "chevrons-down": {
+        "category": "Arrows",
+        "tags": ["chevrons", "down"],
+        "version": "1.0.0"
+    },
+    "chevrons-down-left": {
+        "category": "Arrows",
+        "tags": ["chevrons", "down", "left"],
+        "version": "1.0.0"
+    },
+    "arrow-left-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "left", "back", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-up-left-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "left", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-up-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-up-right-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "up", "right", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-right-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "right", "next", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-down-right-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "right", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-down-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "circle"],
+        "version": "1.0.0"
+    },
+    "arrow-down-left-circle": {
+        "category": "Arrows",
+        "tags": ["arrow", "down", "left", "circle"],
+        "version": "1.0.0"
+    },
+    "arrows-expand": {
+        "category": "Arrows",
+        "tags": ["arrows", "expand", "maximize", "fullscreen"],
+        "version": "1.0.0"
+    },
+    "upload": {
+        "category": "Arrows",
+        "tags": ["arrow", "upload"],
+        "version": "1.0.0"
+    },
+    "switch-horizontal": {
+        "category": "Arrows",
+        "tags": ["arrows", "switch", "horizontal", "left", "right"],
+        "version": "1.0.0"
+    },
+    "switch-vertical": {
+        "category": "Arrows",
+        "tags": ["arrows", "switch", "vertical", "up", "down"],
+        "version": "1.0.0"
+    },
+    "square": {
+        "category": "Shapes",
+        "tags": ["square"],
+        "version": "1.0.0"
+    },
+    "circle": {
+        "category": "Shapes",
+        "tags": ["circle"],
+        "version": "1.0.0"
+    },
+    "check": {
+        "category": "System",
+        "tags": ["check", "tick", "confirm"],
+        "version": "1.0.0"
+    },
+    "dots-horizontal": {
+        "category": "System",
+        "tags": ["dots", "more", "horizontal"],
+        "version": "1.0.0"
+    },
+    "dots-vertical": {
+        "category": "System",
+        "tags": ["dots", "more", "vertical"],
+        "version": "1.0.0"
+    },
+    "dots-diagonal": {
+        "category": "System",
+        "tags": ["dots", "more", "diagonal"],
+        "version": "1.0.0"
+    },
+    "dots-diagonal-2": {
+        "category": "System",
+        "tags": ["dots", "more", "diagonal", "2"],
+        "version": "1.0.0"
+    },
+    "menu": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation"],
+        "version": "1.0.0"
+    },
+    "menu-2": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "2"],
+        "version": "1.0.0"
+    },
+    "menu-3": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "3"],
+        "version": "1.0.0"
+    },
+    "menu-4": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "4"],
+        "version": "1.0.0"
+    },
+    "menu-5": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "5"],
+        "version": "1.0.0"
+    },
+    "menu-6": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "6"],
+        "version": "1.0.0"
+    },
+    "menu-7": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "7"],
+        "version": "1.0.0"
+    },
+    "menu-8": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "8"],
+        "version": "1.0.0"
+    },
+    "menu-9": {
+        "category": "System",
+        "tags": ["menu", "bars", "burger", "hamburger", "navigation", "9"],
+        "version": "1.0.0"
+    },
+    "exclamation-circle": {
+        "category": "System",
+        "tags": ["exclamation", "alert", "circle", "warning", "danger"],
+        "version": "1.0.0"
+    },
+    "minus-circle": {
+        "category": "System",
+        "tags": ["circle", "minus", "remove", "delete"],
+        "version": "1.0.0"
+    },
+    "plus-circle": {
+        "category": "System",
+        "tags": ["circle", "plus", "add", "create", "new"],
+        "version": "1.0.0"
+    },
+    "ban": {
+        "category": "System",
+        "tags": ["ban", "reject", "restriction", "prohibited"],
+        "version": "1.0.0"
+    },
+    "x-circle": {
+        "category": "System",
+        "tags": ["circle", "x", "cancel"],
+        "version": "1.0.0"
+    },
+    "half-horizontal-circle": {
+        "category": "System",
+        "tags": ["circle", "half", "horizontal"],
+        "version": "1.0.0"
+    },
+    "half-vertical-circle": {
+        "category": "System",
+        "tags": ["circle", "half", "vertical"],
+        "version": "1.0.0"
+    },
+    "clock": {
+        "category": "System",
+        "tags": ["clock", "time", "watch", "alarm"],
+        "version": "1.0.0"
+    },
+    "align-center": {
+        "category": "Text",
+        "tags": ["align", "text", "center", "position", "alignment"],
+        "version": "1.0.0"
+    },
+    "align-justified": {
+        "category": "Text",
+        "tags": ["align", "text", "justified", "position", "alignment"],
+        "version": "1.0.0"
+    },
+    "align-left": {
+        "category": "Text",
+        "tags": ["align", "text", "left", "position", "alignment"],
+        "version": "1.0.0"
+    },
+    "align-right": {
+        "category": "Text",
+        "tags": ["align", "text", "right", "position", "alignment"],
+        "version": "1.0.0"
+    },
+    "code-slash": {
+        "category": "Development",
+        "tags": ["code", "slash", "brackets", "programming"],
+        "version": "1.0.0"
+    },
+    "code": {
+        "category": "Development",
+        "tags": ["code", "brackets", "programming"],
+        "version": "1.0.0"
+    },
+    "brackets": {
+        "category": "Development",
+        "tags": ["code", "brackets", "programming", "punctuation"],
+        "version": "1.0.0"
+    },
+    "braces": {
+        "category": "Development",
+        "tags": ["code", "brackets", "programming", "braces", "punctuation"],
+        "version": "1.0.0"
+    },
+    "parentheses": {
+        "category": "Development",
+        "tags": ["code", "brackets", "programming", "parenthesis", "punctuation"],
+        "version": "1.0.0"
+    },
+    "terminal": {
+        "category": "Development",
+        "tags": ["terminal", "command", "console"],
+        "version": "1.0.0"
+    },
+    "bookmark": {
+        "category": "Document",
+        "tags": ["bookmark", "save", "tag"],
+        "version": "1.0.0"
+    },
+    "document": {
+        "category": "Document",
+        "tags": ["document", "file", "new"],
+        "version": "1.0.0"
+    },
+    "document-remove": {
+        "category": "Document",
+        "tags": ["document", "file", "remove", "delete"],
+        "version": "1.0.0"
+    },
+    "document-add": {
+        "category": "Document",
+        "tags": ["document", "file", "add", "new", "create"],
+        "version": "1.0.0"
+    },
+    "document-text": {
+        "category": "Document",
+        "tags": ["document", "file", "text"],
+        "version": "1.0.0"
+    },
+    "document-alert": {
+        "category": "Document",
+        "tags": ["document", "file", "alert", "danger", "warning", "error"],
+        "version": "1.0.0"
+    },
+    "document-download": {
+        "category": "Document",
+        "tags": ["document", "file", "download", "save"],
+        "version": "1.0.0"
+    },
+    "sun": {
+        "category": "Weather",
+        "tags": ["sun", "light", "bright", "mode", "day"],
+        "version": "1.0.0"
+    },
+    "moon": {
+        "category": "Weather",
+        "tags": ["moon", "dark", "mode", "night"],
+        "version": "1.0.0"
+    },
+    "copy": {
+        "category": "Document",
+        "tags": ["copy", "duplicate", "clone"],
+        "version": "1.0.0"
+    },
+    "mail": {
+        "category": "Business",
+        "tags": ["mail", "inbox", "email", "gmail", "envelope"],
+        "version": "1.0.0"
+    },
+    "adjustments": { 
+        "category": "System", 
+        "tags": ["adjustments", "slider", "settings", "controls", "filter"], 
+        "version": "1.0.0" 
+    },
+    "user": { 
+        "category": "User", 
+        "tags": ["user", "account", "person"], 
+        "version": "1.0.0" 
+    },
+    "volume-off": { 
+        "category": "Media",
+        "tags": ["volume", "mute", "music", "off", "sound", "volume"], 
+        "version": "1.0.0" 
+    },
+    "volume-up": { 
+        "category": "Media", 
+        "tags": ["volume", "music", "up", "music"], 
+        "version": "1.0.0" 
+    },
+    "search": { 
+        "category": "System", 
+        "tags": ["search", "find", "magnify", "magnifier"], 
+        "version": "1.0.0" 
+    },
+    "database": { 
+        "category": "Database", 
+        "tags": ["database", "storage", "memory", "data"], 
+        "version": "1.0.0" 
+    },
+    "thumb-up": { 
+        "category": "System", 
+        "tags": ["thumb", "up", "like", "good"], 
+        "version": "1.0.0" 
+    },
+    "thumb-down": { 
+        "category": "System", 
+        "tags": ["thumb", "down", "dislike", "bad"], 
+        "version": "1.0.0" 
+    },
+    "calculator": { 
+        "category": "Business", 
+        "tags": ["calculator", "math", "add", "subtract", "multiply", "divide"], 
+        "version": "1.0.0" 
+    },
+    "folder": { 
+        "category": "Document", 
+        "tags": ["folder", "directory", "dir"], 
+        "version": "1.0.0" 
+    },
+    "folder-plus": { 
+        "category": "Document", 
+        "tags": ["folder", "plus", "add", "new", "directory", "dir"], 
+        "version": "1.0.0" 
+    },
+    "folder-x": { 
+        "category": "Document", 
+        "tags": ["folder", "directory", "dir", "x"], 
+        "version": "1.0.0" 
+    },
+    "folder-minus": { 
+        "category": "Document", 
+        "tags": ["folder", "directory", "dir", "minus"], 
+        "version": "1.0.0" 
+    },
+    "folder-download": { 
+        "category": "Document", 
+        "tags": ["folder", "directory", "dir", "download"], 
+        "version": "1.0.0" 
+    },
+    "heart": { 
+        "category": "Health", 
+        "tags": ["heart", "love", "favorite", "like", "emotion"], 
+        "version": "1.0.0" 
+    },
+    "link": { 
+        "category": "Text", 
+        "tags": ["link", "chain", "url", "address"], 
+        "version": "1.0.0" 
+    },
+    "git-commit": { 
+        "category": "Development", 
+        "tags": ["git", "commit", "version", "control", "code", "command"], 
+        "version": "1.0.0" 
+    },
+    "git-commit-2": { 
+        "category": "Development", 
+        "tags": ["git", "commit", "version", "control", "code", "command", "2"], 
+        "version": "1.0.0" 
+    },
+    "git-pull-request": { 
+        "category": "Development", 
+        "tags": ["git", "pull", "request", "code", "version", "control", "command"], 
+        "version": "1.0.0" 
+    },
+    "git-merge": { 
+        "category": "Development", 
+        "tags": ["git", "merge", "code", "version", "control", "command"], 
+        "version": "1.0.0" 
+    },
+    "git-branch": { 
+        "category": "Development", 
+        "tags": ["git", "branch", "code", "version", "control", "command"], 
+        "version": "1.0.0" 
+    },
+    "git-fork": { 
+        "category": "Development", 
+        "tags": ["git", "fork", "code", "version", "control", "command"], 
+        "version": "1.0.0" 
+    },
+    "clipboard": { 
+        "category": "Document", 
+        "tags": ["clipboard", "copy"], 
+        "version": "1.0.0" 
+    },
+    "clipboard-list": { 
+        "category": "Document", 
+        "tags": ["clipboard", "list"], 
+        "version": "1.0.0" 
+    },
+    "clipboard-check": { 
+        "category": "Document", 
+        "tags": ["clipboard", "check"], 
+        "version": "1.0.0" 
+    },
+    "clipboard-copy": { 
+        "category": "Document", 
+        "tags": ["clipboard", "copy"], 
+        "version": "1.0.0" 
+    },
+    "clipboard-text": { 
+        "category": "Document", 
+        "tags": ["clipboard", "text"], 
+        "version": "1.0.0" 
+    },
+    "clipboard-x": { 
+        "category": "Document", 
+        "tags": ["clipboard", "x", "close"], 
+        "version": "1.0.0" 
+    },
+    "clipboard-plus": { 
+        "category": "Document", 
+        "tags": ["clipboard", "plus", "add"], 
+        "version": "1.0.0" 
+    },
+    "map": { 
+        "category": "Map", 
+        "tags": ["map", "location", "travel"], 
+        "version": "1.0.0" 
+    },
+    "wifi-0": { 
+        "category": "Device", 
+        "tags": ["wifi", "0", "connection", "signal", "online"], 
+        "version": "1.0.0" 
+    },
+    "wifi-1": { 
+        "category": "Device", 
+        "tags": ["wifi", "1", "connection", "signal", "online"], 
+        "version": "1.0.0" 
+    },
+    "wifi-2": { 
+        "category": "Device", 
+        "tags": ["wifi", "2", "connection", "signal", "online"], 
+        "version": "1.0.0" 
+    },
+    "wifi": { 
+        "category": "Device", 
+        "tags": ["wifi", "connection", "signal", "online"], 
+        "version": "1.0.0" 
+    },
+    "mobile": { 
+        "category": "Device", 
+        "tags": ["device", "mobile", "phone", "smartphone", "iphone", "cellphone"], 
+        "version": "1.0.0" 
+    },
+    "tablet": { 
+        "category": "Device", 
+        "tags": ["device", "tablet", "ipad", "mobile"], 
+        "version": "1.0.0" 
+    },
+    "chip": { 
+        "category": "Device", 
+        "tags": ["chip", "cpu"], 
+        "version": "1.0.0" 
+    },
+    "desktop": { 
+        "category": "Device", 
+        "tags": ["device", "desktop", "computer", "imac"], 
+        "version": "1.0.0" 
+    },
+    "desktop-2": { 
+        "category": "Device", 
+        "tags": ["device", "2", "desktop", "computer", "imac"], 
+        "version": "1.0.0" 
+    },
+    "laptop": { 
+        "category": "Device", 
+        "tags": ["device", "laptop", "computer", "notebook", "mac", "portable"], 
+        "version": "1.0.0" 
+    },
+    "microphone": { 
+        "category": "Device", 
+        "tags": ["microphone", "sound"], 
+        "version": "1.0.0" 
+    },
+    "tv": { 
+        "category": "Device", 
+        "tags": ["device", "tv", "video", "watch", "film", "screen", "media"], 
+        "version": "1.0.0" 
+    },
+    "battery": { 
+        "category": "Device", 
+        "tags": ["battery", "energy", "power", "electricity"], 
+        "version": "1.0.0" 
+    },
+    "battery-1": { 
+        "category": "Device", 
+        "tags": ["battery", "1", "energy", "power", "electricity"], 
+        "version": "1.0.0" 
+    },
+    "battery-2": { 
+        "category": "Device", 
+        "tags": ["battery", "2", "energy", "power", "electricity"], 
+        "version": "1.0.0" 
+    },
+    "battery-3": { 
+        "category": "Device", 
+        "tags": ["battery", "3", "energy", "power", "electricity"], 
+        "version": "1.0.0" 
+    },
+    "battery-4": { 
+        "category": "Device", 
+        "tags": ["battery", "4", "energy", "power", "electricity"], 
+        "version": "1.0.0" 
+    },
+    "bluetooth": { 
+        "category": "Device", 
+        "tags": ["bluetooth", "connection", "signal", "wireless"], 
+        "version": "1.0.0" 
+    },
+    "mouse": { 
+        "category": "Device", 
+        "tags": ["mouse", "pointer", "cursor"], 
+        "version": "1.0.0" 
+    },
+    "keyboard": { 
+        "category": "Device", 
+        "tags": ["keyboard", "computer", "laptop"], 
+        "version": "1.0.0" 
+    },
+    "power": { 
+        "category": "Device", 
+        "tags": ["power", "on", "off", "electricity"], 
+        "version": "1.0.0" 
+    },
+    "chart-bar": { 
+        "category": "Charts", 
+        "tags": ["chart", "bar", "graph", "data", "diagram"], 
+        "version": "1.0.0" 
+    },
+    "chart-pie": { 
+        "category": "Charts", 
+        "tags": ["chart", "pie", "graph", "data", "diagram"], 
+        "version": "1.0.0" 
+    },
+    "globe": { 
+        "category": "Business", 
+        "tags": ["globe", "world", "earth"], 
+        "version": "1.0.0" 
+    },  
+    "hashtag": { 
+        "category": "Text", 
+        "tags": ["hashtag", "#"], 
+        "version": "1.0.0" 
+    },
+    "lock-locked": { 
+        "category": "System", 
+        "tags": ["lock", "locked", "closed"], 
+        "version": "1.0.0" 
+    },
+    "lock-open": { 
+        "category": "System", 
+        "tags": ["lock", "unlocked", "open"], 
+        "version": "1.0.0" 
+    },
+    "login": { 
+        "category": "System", 
+        "tags": ["login", "account", "password"], 
+        "version": "1.0.0" 
+    },
+    "logout": { 
+        "category": "System", 
+        "tags": ["logout", "account", "exit", "close"], 
+        "version": "1.0.0" 
+    }    ,
+    "credit-card": { 
+        "category": "Finance", 
+        "tags": ["credit", "card", "money", "cc", "payment"], 
+        "version": "1.0.0" 
+    },
+    "filter": { 
+        "category": "System", 
+        "tags": ["filter", "funnel"], 
+        "version": "1.0.0" 
+    },
+    "chart-bubble": { 
+        "category": "Charts", 
+        "tags": ["chart", "bubble", "graph", "data", "diagram"], 
+        "version": "1.0.0" 
+    },
+    "chart-line": { 
+        "category": "Charts", 
+        "tags": ["chart", "line", "graph", "data", "diagram"], 
+        "version": "1.0.0" 
+    },
+    "chart-arrows-vertical": { 
+        "category": "Charts", 
+        "tags": ["chart", "arrows", "vertical", "graph", "data", "diagram"], 
+        "version": "1.0.0" 
+    },
+    "chart-arrows-horizontal": { 
+        "category": "Charts", 
+        "tags": ["chart", "arrows", "horizontal", "graph", "data", "diagram"], 
+        "version": "1.0.0" 
+    },
+    "cloudy": { 
+        "category": "Weather", 
+        "tags": ["cloudy"], 
+        "version": "1.0.0" 
+    },
+    "mist": { 
+        "category": "Weather", 
+        "tags": ["mist"], 
+        "version": "1.0.0" 
+    },
+    "windy": { 
+        "category": "Weather", 
+        "tags": ["windy", "wind", "breeze"], 
+        "version": "1.0.0" 
+    },
+    "tornado": { 
+        "category": "Weather", 
+        "tags": ["tornado", "Wind", "air", "spin", "spinning", "rotate"], 
+        "version": "1.0.0" 
+    },
+    "lightning-bolt": { 
+        "category": "Weather", 
+        "tags": ["lightning", "bolt", "thunder"], 
+        "version": "1.0.0" 
+    },
+    "pizza": { 
+        "category": "Food", 
+        "tags": ["pizza"], 
+        "version": "1.0.0" 
+    },
+    "play": { 
+        "category": "Media", 
+        "tags": ["play", "start", "video", "music", "player"], 
+        "version": "1.0.0" 
+    },
+    "pause": { 
+        "category": "Media", 
+        "tags": ["pause", "stop", "video", "music", "player"], 
+        "version": "1.0.0" 
+    },
+    "rewind": { 
+        "category": "Media", 
+        "tags": ["rewind", "previous", "video", "music", "player"], 
+        "version": "1.0.0" 
+    },
+    "fast-forward": { 
+        "category": "Media", 
+        "tags": ["fast", "forward", "next", "video", "music", "player"], 
+        "version": "1.0.0" 
+    },
+    "eject": { 
+        "category": "Media", 
+        "tags": ["eject"], 
+        "version": "1.0.0" 
+    },
+    "repeat": { 
+        "category": "Media", 
+        "tags": ["repeat", "redo", "loop", "replay"], 
+        "version": "1.0.0" 
+    },
+    "repeat-once": { 
+        "category": "Media", 
+        "tags": ["repeat", "once", "redo", "loop", "replay"], 
+        "version": "1.0.0" 
+    },
+    "shuffle": { 
+        "category": "Media", 
+        "tags": ["shuffle"], 
+        "version": "1.0.0" 
+    },
+    "fullscreen": { 
+        "category": "Media", 
+        "tags": ["fullscreen", "video", "player", "maximize"], 
+        "version": "1.0.0" 
+    },
+    "fullscreen-exit": { 
+        "category": "Media", 
+        "tags": ["fullscreen", "exit", "video", "player", "minimize"], 
+        "version": "1.0.0" 
+    },
+    "photo": { 
+        "category": "Media", 
+        "tags": ["photo", "picture", "camera", "image"], 
+        "version": "1.0.0" 
+    },
+    "cast": { 
+        "category": "Media", 
+        "tags": ["cast", "stream", "airplay", "stream", "broadcast"], 
+        "version": "1.0.0" 
+    },
+    "inbox-in": { 
+        "category": "Business", 
+        "tags": ["inbox", "in", "mail", "gmail"], 
+        "version": "1.0.0" 
+    },
+    "inbox": {
+         "category": "Business", 
+        "tags": ["inbox", "mail", "gmail"], 
+        "version": "1.0.0" 
+    },
+    "qrcode": { 
+        "category": "Device", 
+        "tags": ["qrcode", "scan", "data"], 
+        "version": "1.0.0" 
+    },
+    "qrcode-2": { 
+        "category": "Device", 
+        "tags": ["qrcode", "2", "scan", "data"], 
+        "version": "1.0.0" 
+    },
+    "refresh": { 
+        "category": "System", 
+        "tags": ["refresh", "reload", "restart", "update", "loader"], 
+        "version": "1.0.0" 
+    },
+    "translate": { 
+        "category": "Text", 
+        "tags": ["translate", "language", "word", "dictionary", "communicate", "communication", "speech", "english"], 
+        "version": "1.0.0" 
+    },
+    "trending-down": { 
+        "category": "Arrows", 
+        "tags": ["trending", "down", "decrease"], 
+        "version": "1.0.0" 
+    },
+    "trending-up": { 
+        "category": "Arrows", 
+        "tags": ["trending", "up", "increase"], 
+        "version": "1.0.0" 
+    },    
+    "crop": { 
+        "category": "Design", 
+        "tags": ["crop", "photo", "image"], 
+        "version": "1.0.0" 
+    },
+    "tag": { 
+        "category": "Finance", 
+        "tags": ["tag", "label"], 
+        "version": "1.0.0" 
+    },
+    "barcode": { 
+        "category": "Device", 
+        "tags": ["barcode", "shop", "scan"], 
+        "version": "1.0.0" 
+    },
+    "send-plane": { 
+        "category": "Business", 
+        "tags": ["send", "plane", "email", "message", "paper", "airplane"], 
+        "version": "1.0.0" 
+    },
+    "text-wrap": { 
+        "category": "Text", 
+        "tags": ["text", "wrap", "alignment"], 
+        "version": "1.0.0" 
+    },
+    "pulse": { 
+        "category": "Health", 
+        "tags": ["pulse", "health", "activity"], 
+        "version": "1.0.0" 
+    },
+    "droplet": { 
+        "category": "Design", 
+        "tags": ["droplet", "rain", "water"], 
+        "version": "1.0.0" 
+    },
+    "scan": { 
+        "category": "Device", 
+        "tags": ["scan", "barcode", "qr", "code"], 
+        "version": "1.0.0" 
+    },
+    "rainbow": { 
+        "category": "Weather", 
+        "tags": ["rainbow"], 
+        "version": "1.0.0" 
+    },
+    "temperature": { 
+        "category": "Weather", 
+        "tags": ["temperature", "fahrenheit", "celcius", "cold", "hot", "weather"], 
+        "version": "1.0.0" 
+    },
+    "haze": { 
+        "category": "Weather", 
+        "tags": ["haze"], 
+        "version": "1.0.0" 
+    },
+    "meteor": { 
+        "category": "Weather", 
+        "tags": ["meteor"], 
+        "version": "1.0.0" 
+    },
+    "comet": { 
+        "category": "Weather", 
+        "tags": ["comet", "star", "night", "space"], 
+        "version": "1.0.0" 
+    },
+    "calculator-2": { 
+        "category": "Business", 
+        "tags": ["calculator", "2", "math", "add", "subtract", "multiply", "divide"], 
+        "version": "1.0.0" 
+    },
+    "send-plane-2": { 
+        "category": "Business", 
+        "tags": ["send", "plane", "2", "email", "message", "paper", "airplane"], 
+        "version": "1.0.0" 
+    },
+    "at": { 
+        "category": "Business", 
+        "tags": ["at", "@", "email", "mention"], 
+        "version": "1.0.0" 
+    },
+    "radius-bottom-left": { 
+        "category": "Design", 
+        "tags": ["radius", "bottom", "left", "round", "corner", "border", "style"], 
+        "version": "1.0.0" 
+    },
+    "radius-bottom-right": { 
+        "category": "Design", 
+        "tags": ["radius", "bottom", "right", "round", "corner", "border", "style"], 
+        "version": "1.0.0" 
+    },
+    "radius-top-right": { 
+        "category": "Design", 
+        "tags": ["radius", "top", "right", "round", "corner", "border", "style"], 
+        "version": "1.0.0" 
+    },
+    "radius-top-left": { 
+        "category": "Design", 
+        "tags": ["radius", "top", "left", "round", "corner", "border", "style"], 
+        "version": "1.0.0" 
+    },
+    "angle": { 
+        "category": "Design", 
+        "tags": ["angle"], 
+        "version": "1.0.0" 
+    },
+    "droplet-half": { 
+        "category": "Design", 
+        "tags": ["droplet", "half", "rain", "water"], 
+        "version": "1.0.0" 
+    },
+    "droplet-half-2": { 
+        "category": "Design", 
+        "tags": ["droplet", "half", "2", "rain", "water"], 
+        "version": "1.0.0" 
+    },
+    "flip-horizontal": { 
+        "category": "Design", 
+        "tags": ["flip", "horizontal", "mirror", "rotate"], 
+        "version": "1.0.0" 
+    },
+    "flip-vertical": { 
+        "category": "Design", 
+        "tags": ["flip", "vertical", "mirror", "rotate"], 
+        "version": "1.0.0" 
+    } ,
+    "cube": { 
+        "category": "Shapes", 
+        "tags": ["cube"], 
+        "version": "1.0.0" 
+    },
+    "cube-transparent": { 
+        "category": "Shapes", 
+        "tags": ["cube", "transparent"], 
+        "version": "1.0.0" 
+    },
+    "identification": { 
+        "category": "User", 
+        "tags": ["identification", "license", "id"], 
+        "version": "1.0.0" 
+    },
+    "corner-radius": { 
+        "category": "Design", 
+        "tags": ["corner", "radius", "round", "corner", "border", "style"], 
+        "version": "1.0.0" 
+    },
+    "flag": { 
+        "category": "Map", 
+        "tags": ["flag", "pin", "marker", "warning", "alert"], 
+        "version": "1.0.0" 
+    },
+    "flag-2": { 
+        "category": "Map", 
+        "tags": ["flag", "2", "pin", "marker", "warning", "alert"], 
+        "version": "1.0.0" 
+    },
+    "flag-3": { 
+        "category": "Map", 
+        "tags": ["flag", "3", "pin", "marker", "warning", "alert"], 
+        "version": "1.0.0" 
+    },
+    "flag-4": { 
+        "category": "Map", 
+        "tags": ["flag", "4", "pin", "marker", "warning", "alert"], 
+        "version": "1.0.0" 
+    },
+    "pin": { 
+        "category": "Map", 
+        "tags": ["pin", "location", "marker", "travel", "navigation"], 
+        "version": "1.0.0" 
+    },
+    "pin-2": { 
+        "category": "Map", 
+        "tags": ["pin", "2", "location", "marker", "travel", "navigation"], 
+        "version": "1.0.0" 
+    },
+    "pin-plus": { 
+        "category": "Map", 
+        "tags": ["pin", "plus", "location", "marker", "travel", "navigation", "add"], 
+        "version": "1.0.0" 
+    },
+    "pin-time": { 
+        "category": "Map", 
+        "tags": ["pin", "time", "location", "marker", "travel", "navigation"], 
+        "version": "1.0.0" 
+    },
+    "pin-user": { 
+        "category": "Map", 
+        "tags": ["pin", "user", "marker", "travel", "navigation"], 
+        "version": "1.0.0" 
+    },
+    "compass": { 
+        "category": "Map", 
+        "tags": ["compass", "navigation", "directions", "travel"], 
+        "version": "1.0.0" 
+    },
+    "compass-2": { 
+        "category": "Map", 
+        "tags": ["compass", "2", "navigation", "directions", "travel"],
+        "version": "1.0.0" 
+    },
+    "gps": { 
+        "category": "Map", 
+        "tags": ["gps", "global", "positioning", "system", "navigation", "direction", "travel"], 
+        "version": "1.0.0" 
+    },
+    "user-2": { 
+        "category": "User", 
+        "tags": ["user", "2", "account", "person"], 
+        "version": "1.0.0" 
+    },
+    "user-minus": { 
+        "category": "User", 
+        "tags": ["user", "minus", "account", "person", "cancel", "remove", "unsubscribe"], 
+        "version": "1.0.0" 
+    },
+    "user-plus": { 
+        "category": "User", 
+        "tags": ["user", "plus", "account", "person", "create", "add", "new", "subscribe", "follow"], 
+        "version": "1.0.0" 
+    },
+    "user-x": { 
+        "category": "User", 
+        "tags": ["user", "x", "account", "person", "cancel", "remove", "unsibscribe"], 
+        "version": "1.0.0" 
+    },
+    "user-check": { 
+        "category": "User", 
+        "tags": ["user", "check", "account", "person"], 
+        "version": "1.0.0" 
+    },
+    "user-exclamation": { 
+        "category": "User", 
+        "tags": ["user", "exclamation", "account", "person"], 
+        "version": "1.0.0" 
+    },
+    "user-3": { 
+        "category": "User", 
+        "tags": ["user", "3", "account", "person"], 
+        "version": "1.0.0" 
+    },
+    "oval": { 
+        "category": "Shapes", 
+        "tags": ["oval"], 
+        "version": "1.0.0" 
+    },
+    "oval-horizontal": { 
+        "category": "Shapes", 
+        "tags": ["oval", "horizontal"], 
+        "version": "1.0.0" 
+    },
+    "triangle": { 
+        "category": "Shapes", 
+        "tags": ["triangle"], 
+        "version": "1.0.0" 
+    },
+    "number-0": { 
+        "category": "Numbers", 
+        "tags": ["number", "0", "zero", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-1": { 
+        "category": "Numbers", 
+        "tags": ["number", "1", "one", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-2": { 
+        "category": "Numbers", 
+        "tags": ["number", "2", "two", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-3": { 
+        "category": "Numbers", 
+        "tags": ["number", "3", "three", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-4": { 
+        "category": "Numbers", 
+        "tags": ["number", "4", "four", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-5": { 
+        "category": "Numbers", 
+        "tags": ["number", "5", "five", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-6": { 
+        "category": "Numbers", 
+        "tags": ["number", "6", "six", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-7": { 
+        "category": "Numbers", 
+        "tags": ["number", "7", "seven", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-8": { 
+        "category": "Numbers", 
+        "tags": ["number", "8", "eight", "digit"], 
+        "version": "1.0.0" 
+    },
+    "number-9": { 
+        "category": "Numbers", 
+        "tags": ["number", "9", "nine", "digit"], 
+        "version": "1.0.0" 
+    },
+    "mood-neutral": { 
+        "category": "Mood", 
+        "tags": ["mood", "neutral", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-smile": { 
+        "category": "Mood", 
+        "tags": ["mood", "smile", "happy", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-happy": { 
+        "category": "Mood", 
+        "tags": ["mood", "happy", "smile", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-sad": { 
+        "category": "Mood", 
+        "tags": ["mood", "sad", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-laugh": { 
+        "category": "Mood", 
+        "tags": ["mood", "laugh", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-blank": { 
+        "category": "Mood", 
+        "tags": ["mood", "blank", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-suprised": { 
+        "category": "Mood", 
+        "tags": ["mood", "suprised", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-nervous": { 
+        "category": "Mood", 
+        "tags": ["mood", "nervous", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-tongue": { 
+        "category": "Mood", 
+        "tags": ["mood", "tongue", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-confused": { 
+        "category": "Mood", 
+        "tags": ["mood", "confused", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-angry": { 
+        "category": "Mood", 
+        "tags": ["mood", "angry", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "mood-relieved": { 
+        "category": "Mood", 
+        "tags": ["mood", "relieved", "emoji", "emotion", "face"], 
+        "version": "1.0.0" 
+    },
+    "column-insert-left": { 
+        "category": "Database", 
+        "tags": ["column", "insert", "left", "table", "cells"], 
+        "version": "1.0.0" 
+    },
+    "column-insert-right": { 
+        "category": "Database", 
+        "tags": ["column", "insert", "right", "table", "cells"], 
+        "version": "1.0.0" 
+    },
+    "table": { 
+        "category": "Database", 
+        "tags": ["table", "grid", "row", "column"], 
+        "version": "1.0.0" 
+    },
+    "table-import": { 
+        "category": "Database", 
+        "tags": ["table", "import", "grid", "row", "column"], 
+        "version": "1.0.0" 
+    },
+    "table-export": { 
+        "category": "Database", 
+        "tags": ["table", "export", "grid", "row", "column"], 
+        "version": "1.0.0" 
+    },
+    "wallet": { 
+        "category": "Finance", 
+        "tags": ["wallet", "money", "card", "payment"], 
+        "version": "1.0.0" 
+    },
+    "wallet-2": { 
+        "category": "Finance", 
+        "tags": ["wallet", "2", "money", "card", "payment"], 
+        "version": "1.0.0" 
+    },
+    "cash": { 
+        "category": "Finance", 
+        "tags": ["cash", "money", "payment", "currency"], 
+        "version": "1.0.0" 
+    },
+    "plus": { 
+        "category": "System", 
+        "tags": ["plus", "add", "new", "create"], 
+        "version": "1.0.0" 
+    },
+    "minus": { 
+        "category": "System", 
+        "tags": ["minus", "subtract", "remove"], 
+        "version": "1.0.0" 
+    },
+    "divide": { 
+        "category": "System", 
+        "tags": ["divide", "seperate"], 
+        "version": "1.1" 
+    },
+    "close": { 
+        "category": "System", 
+        "tags": ["close", "x", "exit"], 
+        "version": "1.0.0" 
+    },
+    "cake": { 
+        "category": "Food", 
+        "tags": ["cake"], 
+        "version": "1.0.0" 
+    },
+    "cake-2": { 
+        "category": "Food", 
+        "tags": ["cake", "2"], 
+        "version": "1.0.0" 
+    },
+    "film": { 
+        "category": "Media", 
+        "tags": ["film", "movie", "cinema", "video", "theater"], 
+        "version": "1.0.0" 
+    },
+    "phone": { 
+        "category": "Device", 
+        "tags": ["phone", "call", "landline", "answer", "conversation", "number"], 
+        "version": "1.0.0" 
+    },
+    "phone-incoming": { 
+        "category": "Device", 
+        "tags": ["phone", "incoming", "call", "landline", "answer", "conversation", "number"], 
+        "version": "1.0.0" 
+    },
+    "phone-outgoing": { 
+        "category": "Device", 
+        "tags": ["phone", "outgoing", "call", "landline", "answer", "conversation", "number"], 
+        "version": "1.0.0" 
+    },
+    "phone-x": { 
+        "category": "Device", 
+        "tags": ["phone", "x", "missed", "call", "landline", "answer", "conversation", "number"], 
+        "version": "1.0.0" 
+    },
+    "sd-card": { 
+        "category": "Device", 
+        "tags": ["sd", "card", "storage"],
+        "version": "1.0.0" 
+    },
+    "sd-card-mini": { 
+        "category": "Device", 
+        "tags": ["sd", "card", "mini", "storage"], 
+        "version": "1.0.0" 
+    },
+    "usb": { 
+        "category": "Device", 
+        "tags": ["usb"], 
+        "version": "1.0.0"
+    },
+    "download": { 
+        "category": "Arrows", 
+        "tags": ["arrow", "download", "save"], 
+        "version": "1.0.0" 
+    }   
+}
