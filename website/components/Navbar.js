@@ -49,7 +49,7 @@ const Navbar = () => {
           </a>
           <a
             download
-            href="https://github.com/lukeaelder/eldicons/releases/v1.0.0/eldicons.zip"
+            href="https://github.com/lukeaelder/eldicons/releases/download/v1.0.0/eldicons-1.0.0.zip"
             aria-label="Download"
             className="cursor-pointer rounded-[5px] bg-indigo-500 p-[5px] font-[500] tracking-wide transition hover:bg-indigo-600"
           >
