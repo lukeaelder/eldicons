@@ -1,7 +1,7 @@
-import { useSharedState } from '../context/state'
+import { useSharedState } from '../context/state';
 
 const Icon = ({ data }) => {
-  const [state, setState] = useSharedState()
+  const [state, setState] = useSharedState();
 
   const handleClick = () => {
     setState((prev) => ({
@@ -12,8 +12,8 @@ const Icon = ({ data }) => {
         tags: data.tags,
         open: true,
       },
-    }))
-  }
+    }));
+  };
 
   return (
     <div
@@ -29,7 +29,7 @@ const Icon = ({ data }) => {
         {data.name}
       </p>
     </div>
-  )
-}
+  );
+};
 
-export default Icon
+export default Icon;

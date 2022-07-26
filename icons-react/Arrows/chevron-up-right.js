@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ChevronsUpRight = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ChevronsUpRight = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M8 8H16V16" />
     </svg>
-  )
-}
+  );
+};
 
-export default ChevronsUpRight
+export default ChevronsUpRight;

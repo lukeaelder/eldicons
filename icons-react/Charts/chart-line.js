@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ChartLine = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ChartLine = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4 19H20M4 15L8 9L12 11L16 6L20 10" />
     </svg>
-  )
-}
+  );
+};
 
-export default ChartLine
+export default ChartLine;

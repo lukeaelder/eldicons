@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ChartArrowsHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ChartArrowsHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 3V21M3 6H21M3 12H12M3 18H17M18 3L21 6L18 9M9 9L12 12L9 15M14 15L17 18L14 21" />
     </svg>
-  )
-}
+  );
+};
 
-export default ChartArrowsHorizontal
+export default ChartArrowsHorizontal;

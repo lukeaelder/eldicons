@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const FastForward = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const FastForward = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M11 12L3 19V5ZM22 12L14 19V5Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default FastForward
+export default FastForward;

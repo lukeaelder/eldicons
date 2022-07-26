@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ArrowUpRightCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const ArrowUpRightCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) =
       <path d="M15 9L9 15M9 9L15 9L15 15" />
       <circle cx={12} cy={12} r={9}></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default ArrowUpRightCircle
+export default ArrowUpRightCircle;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ClipboardList = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ClipboardList = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12V12.01M9 16V16.01M13 12H15M13 16H15" />
     </svg>
-  )
-}
+  );
+};
 
-export default ClipboardList
+export default ClipboardList;

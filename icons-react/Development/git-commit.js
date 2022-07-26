@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const GitCommit = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const GitCommit = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path d="M12 3V9M12 15 V21" />
       <circle cx="12" cy="12" r="3"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default GitCommit
+export default GitCommit;

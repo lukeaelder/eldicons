@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ArrowUpNarrow = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ArrowUpNarrow = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 5V19M8 9L12 5L16 9" />
     </svg>
-  )
-}
+  );
+};
 
-export default ArrowUpNarrow
+export default ArrowUpNarrow;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const SendPlane = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const SendPlane = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4 9L20 4L15 20L12 12Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default SendPlane
+export default SendPlane;

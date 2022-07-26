@@ -1,12 +1,12 @@
-import { useSharedState } from '../context/state'
-import dataset from '../context/dataset'
-import Icon from './Icon'
-import { List, AutoSizer, WindowScroller } from 'react-virtualized'
-import { useState } from 'react'
+import { useSharedState } from '../context/state';
+import dataset from '../context/dataset';
+import Icon from './Icon';
+import { List, AutoSizer, WindowScroller } from 'react-virtualized';
+import { useState } from 'react';
 
 const IconGrid = () => {
-  const [state, setState] = useSharedState()
-  const [columnCount, setColumnCount] = useState(1)
+  const [state, setState] = useSharedState();
+  const [columnCount, setColumnCount] = useState(1);
 
   return (
     <div>
@@ -50,23 +50,23 @@ const IconGrid = () => {
                       </div>
                     ) : state.searchResults.length > 0 ? (
                       Array.from({ length: columnCount }, (value, columnIndex) => {
-                        const icon = state.searchResults[rowIndex * columnCount + columnIndex]
+                        const icon = state.searchResults[rowIndex * columnCount + columnIndex];
 
                         if (!icon) {
-                          return null
+                          return null;
                         }
 
-                        return <Icon data={icon} key={icon.name} />
+                        return <Icon data={icon} key={icon.name} />;
                       })
                     ) : (
                       Array.from({ length: columnCount }, (value, columnIndex) => {
-                        const icon = dataset[rowIndex * columnCount + columnIndex]
+                        const icon = dataset[rowIndex * columnCount + columnIndex];
 
                         if (!icon) {
-                          return null
+                          return null;
                         }
 
-                        return <Icon data={icon} key={icon.name} />
+                        return <Icon data={icon} key={icon.name} />;
                       })
                     )}
                   </div>
@@ -77,7 +77,7 @@ const IconGrid = () => {
         )}
       </WindowScroller>
     </div>
-  )
-}
+  );
+};
 
-export default IconGrid
+export default IconGrid;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ArrowDownCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const ArrowDownCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path d="M12 8V16M8 12L12 16L16 12" />
       <circle cx={12} cy={12} r={9}></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default ArrowDownCircle
+export default ArrowDownCircle;

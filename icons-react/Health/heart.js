@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Heart = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Heart = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4.5 12.572A5 5 0 1 1 12 6A5 5 0 1 1 19.5 12.572L12 20Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default Heart
+export default Heart;

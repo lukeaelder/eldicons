@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const z = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const z = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <circle cx={12} cy={12} r={9}></circle>
       <path d="M9 12H15" />
     </svg>
-  )
-}
+  );
+};
 
-export default z
+export default z;

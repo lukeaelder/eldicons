@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const FullscreenExit = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const FullscreenExit = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M7 4V8H3M17 4V8 H21M3 16H7V20M17 20V16H21" />
     </svg>
-  )
-}
+  );
+};
 
-export default FullscreenExit
+export default FullscreenExit;

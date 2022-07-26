@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Document = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Document = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5" />
     </svg>
-  )
-}
+  );
+};
 
-export default Document
+export default Document;

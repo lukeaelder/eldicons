@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const FlipVertical = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const FlipVertical = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 3V21M8 7V17H3ZM16 7V17H21Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default FlipVertical
+export default FlipVertical;

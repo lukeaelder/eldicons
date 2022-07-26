@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Cloudy = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Cloudy = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M9 20A7.45 7.5 0 1 1 16 9A2 2 0 0 1 17 20H9" />
     </svg>
-  )
-}
+  );
+};
 
-export default Cloudy
+export default Cloudy;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Temperature = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Temperature = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M10 13.5V5A2 2 0 0 1 14 5V13.5A4 4 0 1 1 10 13.5M10 9H14" />
     </svg>
-  )
-}
+  );
+};
 
-export default Temperature
+export default Temperature;

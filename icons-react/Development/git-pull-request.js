@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const GitPullRequest = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -19,7 +19,7 @@ const GitPullRequest = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <circle cx="6" cy="18" r="2"></circle>
       <circle cx="18" cy="18" r="2"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default GitPullRequest
+export default GitPullRequest;

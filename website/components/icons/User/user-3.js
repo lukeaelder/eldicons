@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const User3 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const User3 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 3A6 6 0 0 1 12 17A6 6 0 0 1 12 3M6 21H18" />
     </svg>
-  )
-}
+  );
+};
 
-export default User3
+export default User3;

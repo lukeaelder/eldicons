@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Check = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Check = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M5 12L10 17L20 7" />
     </svg>
-  )
-}
+  );
+};
 
-export default Check
+export default Check;

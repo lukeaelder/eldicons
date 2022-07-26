@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const DotsDiagonal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -18,7 +18,7 @@ const DotsDiagonal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <circle cx="12" cy="12" r="1"></circle>
       <circle cx="7" cy="17" r="1"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default DotsDiagonal
+export default DotsDiagonal;

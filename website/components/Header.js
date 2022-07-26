@@ -1,5 +1,5 @@
-import Navbar from './Navbar'
-import dataset from '../context/dataset'
+import Navbar from './Navbar';
+import dataset from '../context/dataset';
 
 const Header = () => {
   return (
@@ -15,7 +15,7 @@ const Header = () => {
         </h2>
       </div>
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

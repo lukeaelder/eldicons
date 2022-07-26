@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const OvalHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const OvalHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 12A9 6 0 1 1 21 12A9 6 0 1 1 3 12" />
     </svg>
-  )
-}
+  );
+};
 
-export default OvalHorizontal
+export default OvalHorizontal;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Rewind = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Rewind = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M2 12L10 5V19ZM13 12L21 5V19Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default Rewind
+export default Rewind;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ArrowDownRight = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ArrowDownRight = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M7 7L17 17M17 8L17 17L8 17" />
     </svg>
-  )
-}
+  );
+};
 
-export default ArrowDownRight
+export default ArrowDownRight;

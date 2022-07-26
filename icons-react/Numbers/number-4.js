@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Number4 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Number4 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M15 20V5L7 16H17" />
     </svg>
-  )
-}
+  );
+};
 
-export default Number4
+export default Number4;

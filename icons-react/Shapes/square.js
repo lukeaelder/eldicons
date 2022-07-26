@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Square = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Square = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <rect x="4" y="4" width="16" height="16" rx="2"></rect>
     </svg>
-  )
-}
+  );
+};
 
-export default Square
+export default Square;

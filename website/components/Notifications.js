@@ -1,15 +1,15 @@
-import { ToastContainer, cssTransition } from 'react-toastify'
-import 'react-toastify/dist/ReactToastify.css'
+import { ToastContainer, cssTransition } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Transition = cssTransition({
   enter: 'slide-in-left',
-  exit: 'slide-out-bottom'
-})
+  exit: 'slide-out-bottom',
+});
 
 const Notifications = () => {
   return (
     <ToastContainer
-      position='bottom-left'
+      position="bottom-left"
       autoClose={2500}
       hideProgressBar={true}
       newestOnTop={false}
@@ -21,7 +21,7 @@ const Notifications = () => {
       transition={Transition}
       limit={1}
     />
-  )
-}
+  );
+};
 
-export default Notifications
+export default Notifications;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const InboxIn = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const InboxIn = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H8M4 13H7L10 16H14L17 13H20M12 3V11M9 8L12 11L15 8" />
     </svg>
-  )
-}
+  );
+};
 
-export default InboxIn
+export default InboxIn;

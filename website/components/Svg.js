@@ -1,5 +1,5 @@
 const Svg = ({ Data }) => {
-  return Data === null ? null : <Data />
-}
+  return Data === null ? null : <Data />;
+};
 
-export default Svg
+export default Svg;

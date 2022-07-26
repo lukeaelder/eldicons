@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Tablet = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Tablet = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M5 19V5A2 2 0 0 17 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19M12 18V18.01" />
     </svg>
-  )
-}
+  );
+};
 
-export default Tablet
+export default Tablet;

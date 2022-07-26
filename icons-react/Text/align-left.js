@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const AlignLeft = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const AlignLeft = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4 6H20M4 12H15M4 18H18" />
     </svg>
-  )
-}
+  );
+};
 
-export default AlignLeft
+export default AlignLeft;

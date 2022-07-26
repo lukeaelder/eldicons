@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Flag3 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Flag3 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M5 21V5H19V14H5" />
     </svg>
-  )
-}
+  );
+};
 
-export default Flag3
+export default Flag3;

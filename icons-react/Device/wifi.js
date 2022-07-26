@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Wifi = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Wifi = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12M3 9A12 12 0 0 1 21 9" />
     </svg>
-  )
-}
+  );
+};
 
-export default Wifi
+export default Wifi;

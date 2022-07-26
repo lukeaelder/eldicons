@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Fullscreen = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Fullscreen = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 9V4H8M16 4H21V9M21 15V20H16M8 20H3V15" />
     </svg>
-  )
-}
+  );
+};
 
-export default Fullscreen
+export default Fullscreen;

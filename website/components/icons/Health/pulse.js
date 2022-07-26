@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Pulse = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Pulse = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M2 12H6L9 5L15 19L18 12H22" />
     </svg>
-  )
-}
+  );
+};
 
-export default Pulse
+export default Pulse;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const RadiusTopLeft = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const RadiusTopLeft = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M5 19V13A8 8 0 0 1 13 5H19" />
     </svg>
-  )
-}
+  );
+};
 
-export default RadiusTopLeft
+export default RadiusTopLeft;

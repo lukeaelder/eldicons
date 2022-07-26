@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Copy = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const Copy = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path d="M6 4H14A2 2 0 0 1 16 6V8M8 16H6A2 2 0 0 1 4 14V6A2 2 0 0 1 6 4" />
       <rect x="8" y="8" width="12" height="12" rx="2"></rect>
     </svg>
-  )
-}
+  );
+};
 
-export default Copy
+export default Copy;

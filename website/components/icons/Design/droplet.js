@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Droplet = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Droplet = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 3L6.8 11A6 6 0 1 0 17.2 11Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default Droplet
+export default Droplet;

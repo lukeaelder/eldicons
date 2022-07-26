@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Map = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Map = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 7L9 4L15 7L21 4V17L15 20L9 17L3 20V7M9 4V17M15 7V20" />
     </svg>
-  )
-}
+  );
+};
 
-export default Map
+export default Map;

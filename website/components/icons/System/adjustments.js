@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Adjustments = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -19,7 +19,7 @@ const Adjustments = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <circle cx="12" cy="8" r="2"></circle>
       <circle cx="18" cy="16" r="2"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default Adjustments
+export default Adjustments;

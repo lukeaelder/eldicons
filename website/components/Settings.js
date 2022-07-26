@@ -1,19 +1,19 @@
-import { useSharedState } from '../context/state'
-import { HexColorPicker } from 'react-colorful'
-import { useState, useEffect } from 'react'
+import { useSharedState } from '../context/state';
+import { HexColorPicker } from 'react-colorful';
+import { useState, useEffect } from 'react';
 
 const Settings = () => {
-  const [state, setState] = useSharedState()
-  const { iconSettings } = state
-  const [color, setColor] = useState('#000')
-  const [open, setOpen] = useState(false)
+  const [state, setState] = useSharedState();
+  const { iconSettings } = state;
+  const [color, setColor] = useState('#000');
+  const [open, setOpen] = useState(false);
 
   useEffect(() => {
     setState((prev) => ({
       ...prev,
       iconSettings: { ...state.iconSettings, color: color },
-    }))
-  }, [color])
+    }));
+  }, [color]);
 
   return (
     <div className="flex h-[50px] w-full items-center justify-center gap-[20px] text-[15px] md:gap-[30px] lg:gap-[40px]">
@@ -110,7 +110,7 @@ const Settings = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Settings
+export default Settings;

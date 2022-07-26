@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Search = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const Search = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path d="M15 15L21 21" />
       <circle cx="10" cy="10" r="7"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default Search
+export default Search;

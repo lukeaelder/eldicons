@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { createContainer } from 'react-tracked'
+import { useState } from 'react';
+import { createContainer } from 'react-tracked';
 
 const initialState = {
   menuSettings: {
@@ -14,9 +14,9 @@ const initialState = {
     stroke: 2,
   },
   searchResults: [],
-}
+};
 
-const useMyState = () => useState(initialState)
+const useMyState = () => useState(initialState);
 
 export const { Provider: SharedStateProvider, useTracked: useSharedState } =
-  createContainer(useMyState)
+  createContainer(useMyState);

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Menu5 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Menu5 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4 6H20M4 12H20M4 18H12" />
     </svg>
-  )
-}
+  );
+};
 
-export default Menu5
+export default Menu5;

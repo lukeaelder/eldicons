@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Bookmark = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Bookmark = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M8 4H16A2 2 0 0 1 18 6V20L12 16L6 20V6A2 2 0 0 1 8 4" />
     </svg>
-  )
-}
+  );
+};
 
-export default Bookmark
+export default Bookmark;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const TrendingUp = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const TrendingUp = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 17L9 11L13 15L21 7M13 7L21 7L21 15" />
     </svg>
-  )
-}
+  );
+};
 
-export default TrendingUp
+export default TrendingUp;

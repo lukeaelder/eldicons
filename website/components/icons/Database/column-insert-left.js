@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ColumnInsertLeft = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const ColumnInsertLeft = ({ size = 24, color = 'currentColor', stroke = 2 }) => 
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M7 10V14M5 12H9M13 5A1 1 0 0 1 14 4H18A1 1 0 0 1 19 5V19A1 1 0 0 1 18 20H14A1 1 0 0 1 13 19Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default ColumnInsertLeft
+export default ColumnInsertLeft;

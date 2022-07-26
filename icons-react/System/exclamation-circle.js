@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ExclamationCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const ExclamationCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) =>
       <circle cx={12} cy={12} r={9}></circle>
       <path d="M12 8V12M12 16V16.01" />
     </svg>
-  )
-}
+  );
+};
 
-export default ExclamationCircle
+export default ExclamationCircle;

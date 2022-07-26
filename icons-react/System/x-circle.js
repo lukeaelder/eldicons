@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const XCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const XCircle = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <circle cx={12} cy={12} r={9}></circle>
       <path d="M10 10L14 14M14 10L10 14" />
     </svg>
-  )
-}
+  );
+};
 
-export default XCircle
+export default XCircle;

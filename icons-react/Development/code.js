@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Code = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Code = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M8 8L4 12L8 16M16 8L20 12L16 16" />
     </svg>
-  )
-}
+  );
+};
 
-export default Code
+export default Code;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Pause = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Pause = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M6 17V7A2 2 0 0 1 10 7V17A2 2 0 0 1 6 17M14 17V7A2 2 0 0 1 18 7V17A2 2 0 0 1 14 17" />
     </svg>
-  )
-}
+  );
+};
 
-export default Pause
+export default Pause;

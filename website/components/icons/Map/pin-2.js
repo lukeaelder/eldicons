@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Pin2 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Pin2 = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 10A1 1 0 0 1 12 12A1 1 0 0 1 12 10M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default Pin2
+export default Pin2;

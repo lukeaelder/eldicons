@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Hashtag = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Hashtag = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M6 9H20M4 15H18M7 20L11 4M13 20L17 4" />
     </svg>
-  )
-}
+  );
+};
 
-export default Hashtag
+export default Hashtag;

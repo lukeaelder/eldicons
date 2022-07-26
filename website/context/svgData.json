@@ -1,1109 +1,1245 @@
 {
-    "sizeBox": "<path fill=\"none\" stroke=\"none\" d=\"M0 0h24v24H0z\"/>",
-    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"%s%\" height=\"%s%\" viewBox=\"0 0 24 24\" stroke-width=\"%sw%\" stroke=\"%c%\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">",
-    "jsx": "<svg xmlns=\"http://www.w3.org/2000/svg\" width={%s%} height={%s%} viewBox=\"0 0 24 24\" strokeWidth={%sw%} stroke=\"%c%\" fill=\"none\" strokeLinecap=\"round\" strokeLinejoin=\"round\">",
-    "arrow-left": {
-        "svg": "<path d=\"M5 12H19M11 6L5 12L11 18\"/>",
-        "jsx": null
-    },
-    "arrow-up-left": {
-        "svg": "<path d=\"M7 7L17 17M7 16L7 7L16 7\"/>",
-        "jsx": null
-    },
-    "arrow-up": {
-        "svg": "<path d=\"M12 5V19M6 11L12 5L18 11\"/>",
-        "jsx": null
-    },
-    "arrow-up-right": {
-        "svg": "<path d=\"M17 7L7 17M8 7L17 7L17 16\"/>",
-        "jsx": null
-    },
-    "arrow-right": {
-        "svg": "<path d=\"M5 12H19M13 6L19 12L13 18\"/>",
-        "jsx": null
-    },
-    "arrow-down-right": {
-        "svg": "<path d=\"M7 7L17 17M17 8L17 17L8 17\"/>",
-        "jsx": null
-    },
-    "arrow-down": {
-        "svg": "<path d=\"M12 5V19M6 13L12 19L18 13\"/>",
-        "jsx": null
-    },
-    "arrow-down-left": {
-        "svg": "<path d=\"M17 7L7 17M7 8L7 17L16 17\"/>",
-        "jsx": null
-    },
-    "arrow-left-narrow": {
-        "svg": "<path d=\"M5 12H19M9 8L5 12L9 16\"/>",
-        "jsx": null
-    },
-    "arrow-up-left-narrow": {
-        "svg": "<path d=\"M7 7L17 17M7 12L7 7L12 7\"/>",
-        "jsx": null
-    },
-    "arrow-up-narrow": {
-        "svg": "<path d=\"M12 5V19M8 9L12 5L16 9\"/>",
-        "jsx": null
-    },
-    "arrow-up-right-narrow": {
-        "svg": "<path d=\"M17 7L7 17M12 7L17 7L17 12\"/>",
-        "jsx": null
-    },
-    "arrow-right-narrow": {
-        "svg": "<path d=\"M5 12H19M15 8L19 12L15 16\"/>",
-        "jsx": null
-    },
-    "arrow-down-right-narrow": {
-        "svg": "<path d=\"M7 7L17 17M17 12L17 17L12 17\"/>",
-        "jsx": null
-    },
-    "arrow-down-narrow": {
-        "svg": "<path d=\"M12 5V19M8 15L12 19L16 15\"/>",
-        "jsx": null
-    },
-    "arrow-down-left-narrow": {
-        "svg": "<path d=\"M17 7L7 17M7 12L7 17L12 17\"/>",
-        "jsx": null
-    },
-    "chevron-left": {
-        "svg": "<path d=\"M15 18L9 12L15 6\"/>",
-        "jsx": null
-    },
-    "chevron-up-left": {
-        "svg": "<path d=\"M8 16V8H16\"/>",
-        "jsx": null
-    },
-    "chevron-up": {
-        "svg": "<path d=\"M6 15L12 9L18 15\"/>",
-        "jsx": null
-    },
-    "chevron-up-right": {
-        "svg": "<path d=\"M8 8H16V16\"/>",
-        "jsx": null
-    },
-    "chevron-right": {
-        "svg": "<path d=\"M9 18L15 12L9 6\"/>",
-        "jsx": null
-    },
-    "chevron-down-right": {
-        "svg": "<path d=\"M16 8V16H8\"/>",
-        "jsx": null
-    },
-    "chevron-down": {
-        "svg": "<path d=\"M6 9L12 15L18 9\"/>",
-        "jsx": null
-    },
-    "chevron-down-left": {
-        "svg": "<path d=\"M7 9V17H15M11 5V13H19\"/>",
-        "jsx": null
-    },
-    "chevrons-left": {
-        "svg": "<path d=\"M11 7L6 12L11 17M17 7L12 12L17 17\"/>",
-        "jsx": null
-    },
-    "chevrons-up-left": {
-        "svg": "<path d=\"M7 15V7H15M11 19V11H19\"/>",
-        "jsx": null
-    },
-    "chevrons-up": {
-        "svg": "<path d=\"M7 11L12 6L17 11M7 17L12 12L17 17\"/>",
-        "jsx": null
-    },
-    "chevrons-up-right": {
-        "svg": "<path d=\"M9 7H17V15M5 11H13V19\"/>",
-        "jsx": null
-    },
-    "chevrons-right": {
-        "svg": "<path d=\"M7 7L12 12L7 17M13 7L18 12L13 17\"/>",
-        "jsx": null
-    },
-    "chevrons-down-right": {
-        "svg": "<path d=\"M17 9V17H9M13 5V13H5\"/>",
-        "jsx": null
-    },
-    "chevrons-down": {
-        "svg": "<path d=\"M7 7L12 12L17 7M7 13L12 18L17 13\"/>",
-        "jsx": null
-    },
-    "chevrons-down-left": {
-        "svg": "<path d=\"M7 9V17H15M11 5V13H19\"/>",
-        "jsx": null
-    },
-    "arrow-left-circle": {
-        "svg": "<path d=\"M8 12H16M12 8L8 12L12 16\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M8 12H16M12 8L8 12L12 16\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-up-left-circle": {
-        "svg": "<path d=\"M9 9L15 15M9 15L9 9L15 9\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M9 9L15 15M9 15L9 9L15 9\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-up-circle": {
-        "svg": "<path d=\"M12 8V16M8 12L12 8L16 12\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M12 8V16M8 12L12 8L16 12\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-up-right-circle": {
-        "svg": "<path d=\"M15 9L9 15M9 9L15 9L15 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M15 9L9 15M9 9L15 9L15 15\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-right-circle": {
-        "svg": "<path d=\"M8 12H16M12 8L16 12L12 16\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M8 12H16M12 8L16 12L12 16\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-down-right-circle": {
-        "svg": "<path d=\"M9 9L15 15M15 9L15 15L9 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M9 9L15 15M15 9L15 15L9 15\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-down-circle": {
-        "svg": "<path d=\"M12 8V16M8 12L12 16L16 12\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M12 8V16M8 12L12 16L16 12\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrow-down-left-circle": {
-        "svg": "<path d=\"M15 9L9 15M9 9L9 15L15 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M15 9L9 15M9 9L9 15L15 15\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "arrows-expand": {
-        "svg": "<path d=\"M4 4L9 9M4 8V4H8M20 4L15 9M16 4H20V8M4 20L 9 15M4 16V20 H8M20 20L15 15M20 16V20H16\"/>",
-        "jsx": null
-    },
-    "upload": {
-        "svg": "<path d=\"M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 8L12 4L16 8\"/>",
-        "jsx": null
-    },
-    "switch-horizontal": {
-        "svg": "<path d=\"M8 7H20M16 3L20 7L16 11M4 17H16M8 13L4 17L8 20\"/>",
-        "jsx": ""
-    },
-    "switch-vertical": {
-        "svg": "<path d=\"M7 4V16M3 8L7 4L11 8M17 8V20M13 16L17 20L21 16\"/>",
-        "jsx": null
-    },
-    "square": {
-        "svg": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"></rect>",
-        "jsx": "<rect x={4} y={4} width={16} height={16} rx={2}></rect>"
-    },
-    "circle": {
-        "svg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<circle cx={12} cy={12} r={9}></circle>"
-    },
-    "check": {
-        "svg": "<path d=\"M5 12L10 17L20 7\"/>",
-        "jsx": null
-    },
-    "dots-horizontal": {
-        "svg": "<circle cx=\"5\" cy=\"12\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"19\" cy=\"12\" r=\"1\"></circle>",
-        "jsx": "<circle cx={5} cy={12} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={19} cy={12} r={1}></circle>"
-    },
-    "dots-vertical": {
-        "svg": "<circle cx=\"12\" cy=\"5\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"12\" cy=\"19\" r=\"1\"></circle>",
-        "jsx": "<circle cx={12} cy={5} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={12} cy={19} r={1}></circle>"
-    },
-    "dots-diagonal": {
-        "svg": "<circle cx=\"17\" cy=\"7\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"7\" cy=\"17\" r=\"1\"></circle>",
-        "jsx": "<circle cx={17} cy={7} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={7} cy={17} r={1}></circle>"
-    },
-    "dots-diagonal-2": {
-        "svg": "<circle cx=\"7\" cy=\"7\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"17\" cy=\"17\" r=\"1\"></circle>",
-        "jsx": "<circle cx={7} cy={7} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={17} cy={17} r={1}></circle>"
-    },
-    "menu": {
-        "svg": "<path d=\"M4 6H20M4 12H20M4 18H20\"/>",
-        "jsx": null
-    },
-    "menu-2": {
-        "svg": "<path d=\"M4 8H20M4 16H20\"/>",
-        "jsx": null
-    },
-    "menu-3": {
-        "svg": "<path d=\"M4 6H20M4 12H12M4 18H20\"/>",
-        "jsx": null
-    },
-    "menu-4": {
-        "svg": "<path d=\"M4 6H20M12 12H20M4 18H20\"/>",
-        "jsx": null
-    },
-    "menu-5": {
-        "svg": "<path d=\"M4 6H20M4 12H20M4 18H12\"/>",
-        "jsx": null
-    },
-    "menu-6": {
-        "svg": "<path d=\"M4 6H20M4 12H20M12 18H20\"/>",
-        "jsx": null
-    },
-    "menu-7": {
-        "svg": "<path d=\"M10 6H18M4 12H20M6 18H14\"/>",
-        "jsx": null
-    },
-    "menu-8": {
-        "svg": "<path d=\"M6 6H14M4 12H20M10 18H18\"/>",
-        "jsx": null
-    },
-    "menu-9": {
-        "svg": "<path d=\"M8 6H16M4 12H20M8 18H16\"/>",
-        "jsx": null
-    },
-    "exclamation-circle": {
-        "svg": "<path d=\"M12 8V12M12 16V16.01\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M12 8V12M12 16V16.01\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "minus-circle": {
-        "svg": "<path d=\"M9 12H15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M9 12H15\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "plus-circle": {
-        "svg": "<path d=\"M9 12H15M12 9V15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M9 12H15M12 9V15\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "ban": {
-        "svg": "<path d=\"M6 6L18 18\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M6 6L18 18\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "x-circle": {
-        "svg": "<path d=\"M10 10L14 14M14 10L10 14\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M10 10L14 14M14 10L10 14\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "half-horizontal-circle": {
-        "svg": "<path d=\"M3.5 12H20.5\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M3.5 12H20.5\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "half-vertical-circle": {
-        "svg": "<path d=\"M12 3.5V20.5\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M12 3.5V20.5\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "clock": {
-        "svg": "<path d=\"M12 8V12L15 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
-        "jsx": "<path d=\"M12 8V12L15 15\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "align-center": {
-        "svg": "<path d=\"M4 6H20M8 12H16M6 18H18\"/>",
-        "jsx": null
-    },
-    "align-justified": {
-        "svg": "<path d=\"M4 6H20M4 12H20M4 18H16\"/>",
-        "jsx": null
-    },
-    "align-left": {
-        "svg": "<path d=\"M4 6H20M4 12H15M4 18H18\"/>",
-        "jsx": null
-    },
-    "align-right": {
-        "svg": "<path d=\"M4 6H20M9 12H20M6 18H20\"/>",
-        "jsx": null
-    },
-    "code-slash": {
-        "svg": "<path d=\"M6 8L2 12L6 16M18 8L22 12L18 16M10 20L14 4\"/>",
-        "jsx": null
-    },
-    "code": {
-        "svg": "<path d=\"M8 8L4 12L8 16M16 8L20 12L16 16\"/>",
-        "jsx": null
-    },
-    "brackets": {
-        "svg": "<path d=\"M8 4H5V20H8M16 4H19V20H16\"/>",
-        "jsx": null
-    },
-    "braces": {
-        "svg": "<path d=\"M8 4H7A2 2 0 0 0 5 6V9A2 3 0 0 1 3 12A2 3 0 0 1 5 15V18A2 2 0 0 0 7 20H8M16 4H17A2 2 0 0 1 19 6V9A2 3 0 0 0 21 12A2 3 0 0 0 19 15V18A 2 2 0 0 1 17 20H16\"/>",
-        "jsx": null
-    },
-    "parentheses": {
-        "svg": "<path d=\"M7 4A12 12 0 0 0 7 20M17 4A12 12 0 0 1 17 20\"/>",
-        "jsx": null
-    },
-    "terminal": {
-        "svg": "<path d=\"M5 7L10 12L5 17M12 19H19\"/>",
-        "jsx": null
-    },
-    "bookmark": {
-        "svg": "<path d=\"M8 4H16A2 2 0 0 1 18 6V20L12 16L6 20V6A2 2 0 0 1 8 4\"/>",
-        "jsx": null
-    },
-    "document": {
-        "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5\"/>",
-        "jsx": null
-    },
-    "document-remove": {
-        "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 13H15\"/>",
-        "jsx": null
-    },
-    "document-add": {
-        "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 13H15M12 10V16\"/>",
-        "jsx": null
-    },
-    "document-text": {
-        "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 12H15M9 16H15\"/>",
-        "jsx": null
-    },
-    "document-alert": {
-        "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M12 9V13M12 17V17.01\"/>",
-        "jsx": null
-    },
-    "document-download": {
-        "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M12 10V16M9 13L12 16L15 13\"/>",
-        "jsx": null
-    },
-    "sun": {
-        "svg": "<path d=\"M3 12H4M12 3V4M21 12H20M12 21V20M5.63 5.63L6.343 6.343M18.364 18.364L17.65 17.65M18.364 5.6L17.65 6.343M5.6 18.364L6.343 17.65\"/><circle cx=\"12\" cy=\"12\" r=\"4\"></circle>",
-        "jsx": "<path d=\"M3 12H4M12 3V4M21 12H20M12 21V20M5.63 5.63L6.343 6.343M18.364 18.364L17.65 17.65M18.364 5.6L17.65 6.343M5.6 18.364L6.343 17.65\"/><circle cx={12} cy={12} r={4}></circle>"
-    },
-    "moon": {
-        "svg": "<path d=\"M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646\"/>",
-        "jsx": null
-    },
-    "copy":{
-        "svg": "<path d=\"M6 4H14A2 2 0 0 1 16 6V8M8 16H6A2 2 0 0 1 4 14V6A2 2 0 0 1 6 4\"/><rect x=\"8\" y=\"8\" width=\"12\" height=\"12\" rx=\"2\"></rect>",
-        "jsx": "<path d=\"M6 4H14A2 2 0 0 1 16 6V8M8 16H6A2 2 0 0 1 4 14V6A2 2 0 0 1 6 4\"/><rect x={8} y={8} width={12} height={12} rx={2}></rect>"
-    },
-    "mail": { 
-        "svg": "<path d=\"M3 8A2 2 0 0 1 5 6H19A2 2 0 0 1 21 8V17A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V8M3 9L10.5 13.5A3 3 0 0 0 13.5 13.5L21 9\"/>",
-        "jsx": null
-    },
-    "adjustments":{
-        "svg": "<path d=\"M6 4V14M6 18V20M12 4V6M12 10V20M18 4V14M18 18V20\"/><circle cx=\"6\" cy=\"16\" r=\"2\"></circle><circle cx=\"12\" cy=\"8\" r=\"2\"></circle><circle cx=\"18\" cy=\"16\" r=\"2\"></circle>",
-        "jsx": "<path d=\"M6 4V14M6 18V20M12 4V6M12 10V20M18 4V14M18 18V20\"/><circle cx={6} cy={16} r={2}></circle><circle cx={12} cy={8} r={2}></circle><circle cx={18} cy={16} r={2}></circle>"
-    },
-    "user": { 
-        "svg": "<path d=\"M6 21V19A4 4 0 0 1 10 15H14A4 4 0 0 1 18 19V21M12 3A4 4 0 0 1 12 11A4 4 0 0 1 12 3\"/>", 
-        "jsx": null
-    },
-    "volume-off": { 
-        "svg": "<path d=\"M3 14V10A1 1 0 0 1 4 9H6 L10 5C12 3 12 4 12 5V19C12 20 12 21 10 19L6 15H4A1 1 0 0 1 3 14M17 10L21 14M17 14L21 10\"/> ", 
-        "jsx": null 
-    },
-    "volume-up": { 
-        "svg": "<path d=\"M3 14V10A1 1 0 0 1 4 9H6 L10 5C12 3 12 4 12 5V19C12 20 12 21 10 19L6 15H4A1 1 0 0 1 3 14M15.5 8.5A5 5 0 0 1 15.5 15.5M18 5.5A9 9 0 0 1 18 18.5\"/> ", 
-        "jsx": null 
-    },
-    "search": { 
-        "svg": "<path d=\"M15 15L21 21\"/><circle cx=\"10\" cy=\"10\" r=\"7\"></circle>", 
-        "jsx": "<path d=\"M15 15L21 21\"/><circle cx={10} cy={10} r={7}></circle>"
-    },
-    "database": { 
-        "svg": "<path d=\"M4 7A6 3 0 0 0 20 7A6 3 0 0 0 4 7V17A6 3 0 0 0 20 17V7M4 12A6 3 0 0 0 20 12\"/>", 
-        "jsx": null 
-    },
-    "thumb-up": { 
-        "svg": "<path d=\"M3 19V12A1 1 0 0 1 4 11H7A4 4 0 0 0 11 7V6A2 2 0 0 1 15 6V11H18A2 2 0 0 1 20 13L19 18A4 4 0 0 1 16 21H12L7 20H4A1 1 0 0 1 3 19M7 11V20\"/>", 
-        "jsx": null 
-    },
-    "thumb-down": { 
-        "svg": "<path d=\"M3 5V12A1 1 0 0 0 4 13H7A4 4 0 0 1 11 17V18A2 2 0 0 0 15 18V13H18A 2 2 0 0 0 20 11L19 6A 4 4 0 0 0 16 3H12L7 4H4A1 1 0 0 0 3 5M7 4V13\"/>", 
-        "jsx": null 
-    },
-    "calculator": { 
-        "svg": "<path d=\"M5 19V5A2 2 0 0 1 7 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A 2 2 0 0 1 5 19M9 7H15M9 11V11.01M12 11V11.01M15 11V11.01M9 14V14.01M12 14V14.01M15 14V17M9 17V17.01M12 17V17.01\"/>", 
-        "jsx": null 
-    },
-    "folder": { 
-        "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5\"/>", 
-        "jsx": null 
-    },
-    "folder-plus": { 
-        "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M12 10V16M9 13 H15\"/>", 
-        "jsx": null 
-    },
-    "folder-x": { 
-        "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M10 11L14 15M10 15L14 11\"/>", 
-        "jsx": null 
-    },
-    "folder-minus": { 
-        "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M9 13H 15\"/>", 
-        "jsx": null 
-    },
-    "folder-download": { 
-        "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M12 10V16M9 13L12 16L15 13\"/>", 
-        "jsx": null 
-    },
-    "heart": { 
-        "svg": "<path d=\"M4.5 12.572A5 5 0 1 1 12 6A5 5 0 1 1 19.5 12.572L12 20Z\"/>", 
-        "jsx": null 
-    },
-    "link": { 
-        "svg": "<path d=\"M13 5L14 4A4.2 4.2 0 0 1 20 10L16 14A4.2 4.2 0 0 1 10 14M11 19L10 20A4.2 4.2 0 0 1 4 14L8 10A4.2 4.2 0 0 1 14 10\"/>", 
-        "jsx": null 
-    },
-    "git-commit": { 
-        "svg": "<path d=\"M12 3V9M12 15 V21\"/><circle cx=\"12\" cy=\"12\" r=\"3\"></circle>", 
-        "jsx": "<path d=\"M12 3V9M12 15 V21\"/><circle cx={12} cy={12} r={3}></circle>"
-    },
-    "git-commit-2": { 
-        "svg": "<path d=\"M3 12H9M15 12 H21\"/><circle cx=\"12\" cy=\"12\" r=\"3\"></circle>", 
-        "jsx": "<path d=\"M3 12H9M15 12 H21\"/><circle cx={12} cy={12} r={3}></circle>"
-    },
-    "git-pull-request": { 
-        "svg": "<path d=\"M6 8V16M18 16V8A2 2 0 0 0 16 6H12M14 3L11 6L14 9\"/><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"18\" cy=\"18\" r=\"2\"></circle>", 
-        "jsx": "<path d=\"M6 8V16M18 16V8A2 2 0 0 0 16 6H12M14 3L11 6L14 9\"/><circle cx={6} cy={6} r={2}></circle><circle cx={6} cy={18} r={2}></circle><circle cx={18} cy={18} r={2}></circle>"
-    },
-    "git-merge": {
-        "svg": "<path d=\"M6 16V8A4 4 0 0 0 10 12H14A4 4 0 0 1 18 16\"/><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"18\" cy=\"18\" r=\"2\"></circle>", 
-        "jsx": "<path d=\"M6 16V8A4 4 0 0 0 10 12H14A4 4 0 0 1 18 16\"/><circle cx={6} cy={6} r={2}></circle><circle cx={6} cy={18} r={2}></circle><circle cx={18} cy={18} r={2}></circle>"
-    },
-    "git-branch": { 
-        "svg": "<path d=\"M6 8V16A4 4 0 0 1 10 12H14A4 4 0 0 0 18 8\"/><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"18\" cy=\"6\" r=\"2\"></circle>", 
-        "jsx": "<path d=\"M6 8V16A4 4 0 0 1 10 12H14A4 4 0 0 0 18 8\"/><circle cx={6} cy={6} r={2}></circle><circle cx={6} cy={18} r={2}></circle><circle cx={18} cy={6} r={2}></circle>"
-    },
-    "git-fork": { 
-        "svg": "<path d=\"M7 8V10A2 2 0 0 0 9 12H15A2 2 0 0 0 17 10V8M12 12V16\"/><circle cx=\"7\" cy=\"6\" r=\"2\"></circle><circle cx=\"12\" cy=\"18\" r=\"2\"></circle><circle cx=\"17\" cy=\"6\" r=\"2\"></circle>", 
-        "jsx": "<path d=\"M7 8V10A2 2 0 0 0 9 12H15A2 2 0 0 0 17 10V8M12 12V16\"/><circle cx={7} cy={6} r={2}></circle><circle cx={12} cy={18} r={2}></circle><circle cx={17} cy={6} r={2}></circle>"
-    },
-    "clipboard": { 
-        "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11\"/>", 
-        "jsx": null 
-    },
-    "clipboard-list": { 
-        "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12V12.01M9 16V16.01M13 12H15M13 16H15\"/>", 
-        "jsx": null 
-    },
-    "clipboard-check": { 
-        "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 14L11 16L15 12\" /> ", 
-        "jsx": null 
-    },
-    "clipboard-copy": { 
-        "svg": "<path d=\"M14 5H16A2 2 0 0 1 18 7V10M18 18V19A2 2 0 0 1 16 21H6A2 2 0 0 1 4 19V7A2 2 0 0 1 6 5H8M10 7A2 2 0 0 1 10 3H12A2 2 0 0 1 12 7H10M20 14H10M13 11L10 14L13 17\" /> ", 
-        "jsx": null 
-    },
-    "clipboard-text": { 
-        "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12H15M9 16H15\"/> ", 
-        "jsx": null 
-    },
-    "clipboard-x": { 
-        "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M10 12L 14 16M10 16L14 12\"/> ", 
-        "jsx": null 
-    },
-    "clipboard-plus": { 
-        "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M12 12V16M10 14H14\"/>", 
-        "jsx": null 
-    },
-    "map": { 
-        "svg": "<path d=\"M3 7L9 4L15 7L21 4V17L15 20L9 17L3 20V7M9 4V17M15 7V20\"/>", 
-        "jsx": null 
-    },
-    "wifi-0": { 
-        "svg": "<path d=\"M12 18V18.01\"/>", 
-        "jsx": null 
-    },
-    "wifi-1": { 
-        "svg": "<path d=\"M12 18V18.01M9 15A4 4 0 0 1 15 15\"/>", 
-        "jsx": null 
-    },
-    "wifi-2": { 
-        "svg": "<path d=\"M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12\"/>", 
-        "jsx": null 
-    },
-    "wifi": { 
-        "svg": "<path d=\"M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12M3 9A12 12 0 0 1 21 9\"/>", 
-        "jsx": null 
-    },
-    "mobile": { 
-        "svg": "<path d=\"M6 19V5A2 2 0 0 18 3H16A2 2 0 0 1 18 5V19A2 2 0 0 1 16 21H8A2 2 0 0 1 6 19M12 18V18.01\"/>", 
-        "jsx": null 
-    },
-    "tablet": { 
-        "svg": "<path d=\"M5 19V5A2 2 0 0 17 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19M12 18V18.01\"/>", 
-        "jsx": null 
-    },
-    "chip": { "svg": 
-        "<path d=\"M5 17V7A2 2 0 0 1 7 5 H17A2 2 0 0 1 19 7V17A2 2 0 0 1 17 19H7A2 2 0 0 1 5 17M3 15H5M3 9H5M9 3V5M15 3V5M21 9H19M21 15H19M15 21V19M9 21V19M9 9H15V15H9V9\"/>", 
-        "jsx": null 
-    },
-    "desktop": { 
-        "svg": "<path d=\"M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V16A1 1 0 0 1 20 17H4A1 1 0 0 1 3 16V5M12 17V20M8 21H16\"/>", 
-        "jsx": null 
-    },
-    "desktop-2": { 
-        "svg": "<path d=\"M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V16A1 1 0 0 1 20 17H4A1 1 0 0 1 3 16V5M9 17V21M7 21H17M15 17V21\"/>", 
-        "jsx": null 
-    },
-    "laptop": { 
-        "svg": "<path d=\"M4 6A1 1 0 0 1 5 5H19A1 1 0 0 1 20 6V16A1 1 0 0 1 19 17H5A1 1 0 0 1 4 16V6M3 20H21\"/>", 
-        "jsx": null 
-    },
-    "microphone": { 
-        "svg": "<path d=\"M5 11A7 7 0 0 0 19 11M12 18V22M8 22H16M9 11V5A3 3 0 0 1 15 5V11A3 3 0 0 1 9 11\"/>", 
-        "jsx": null 
-    },
-    "tv": { 
-        "svg": "<path d=\"M3 9A2 2 0 0 1 5 7H19A2 2 0 0 1 21 9V18A2 2 0 0 1 19 20H5A2 2 0 0 1 3 18V9M8 3L12 7L16 3\"/>", 
-        "jsx": null 
-    },
-    "battery": { 
-        "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9\"/>", 
-        "jsx": null 
-    },
-    "battery-1": { 
-        "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14\"/>", 
-        "jsx": null 
-    },
-    "battery-2": { 
-        "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14\"/>", 
-        "jsx": null 
-    },
-    "battery-3": { 
-        "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14M13 10V14\"/>", 
-        "jsx": null 
-    },
-    "battery-4": { 
-        "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14M13 10V14M16 10V14\"/>", 
-        "jsx": null 
-    },
-    "bluetooth": { 
-        "svg": "<path d=\"M7 8L17 16L12 20V4L17 8L7 16\"/>", 
-        "jsx": null 
-    },
-    "mouse": { 
-        "svg": "<path d=\"M6 7A4 4 0 0 1 10 3H14A4 4 0 0 1 18 7V17A4 4 0 0 1 14 21H10A4 4 0 0 1 6 17V7M12 7V11\"/>", 
-        "jsx": null 
-    },
-    "keyboard": { 
-        "svg": "<path d=\"M2 8A2 2 0 0 1 4 6H20A2 2 0 0 1 22 8V16A2 2 0 0 1 20 18H4A2 2 0 0 1 2 16V8M10 14H14M6 14H6.01M18 14H18.01M6 10H6.01M10 10H10.01M14 10H14.01M18 10H18.01\"/>", 
-        "jsx": null 
-    },
-    "power": { 
-        "svg": "<path d=\"M12 5V12M7 6A7.75 7.75 0 1 0 17 6\"/>", 
-        "jsx": null 
-    },
-    "chart-bar": { 
-        "svg": "<path d=\"M9 19A2 2 0 0 1 7 21H5A2 2 0 0 1 3 19V13A2 2 0 0 1 5 11H7A2 2 0 0 1 9 13V19A2 2 0 0 0 11 21H13A2 2 0 0 0 15 19V5A2 2 0 0 1 17 3H19A2 2 0 0 1 21 5V19A2 2 0 0 1 19 21H17A2 2 0 0 1 15 19M9 13V9A2 2 0 0 1 11 7H13A2 2 0 0 1 15 9\"/>", 
-        "jsx": null 
-    },
-    "chart-pie": { 
-        "svg": "<path d=\"M11 13H21A9 9 0 1 1 11 3V13M15 9H20.5A9 9 0 0 0 15 3.5V9\"/>", 
-        "jsx": null 
-    },
-    "globe": { 
-        "svg": "<path d=\"M4 9H20M4 15H20M12 3A14 14 0 0 0 12 21M12 3A14 14 0 0 1 12 21\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>", 
-        "jsx": "<path d=\"M4 9H20M4 15H20M12 3A14 14 0 0 0 12 21M12 3A14 14 0 0 1 12 21\"/><circle cx={12} cy={12} r={9}></circle>" 
-    },
-    "hashtag": { 
-        "svg": "<path d=\"M6 9H20M4 15H18M7 20L11 4M13 20L17 4\"/>", 
-        "jsx": null 
-    },
-    "lock-locked": { 
-        "svg": "<path d=\"M4 13A2 2 0 0 1 6 11H18A2 2 0 0 1 20 13V19A2 2 0 0 1 18 21H6A2 2 0 0 1 4 19V13M12 15V17M8 11V7A4 4 0 0 1 16 7V11\"/>", 
-        "jsx": null 
-    },
-    "lock-open": { 
-        "svg": "<path d=\"M4 13A2 2 0 0 1 6 11H18A2 2 0 0 1 20 13V19A2 2 0 0 1 18 21H6A2 2 0 0 1 4 19V13M12 15V17M8 11V7A4 4 0 0 1 16 7\"/>", 
-        "jsx": null 
-    },
-    "login": { 
-        "svg": "<path d=\"M16 16V17A3 3 0 0 1 13 20H6A3 3 0 0 1 3 17V7A3 3 0 0 1 6 4H13A3 3 0 0 1 16 7V8M7 12H21M11 8L7 12L11 16\"/>", 
-        "jsx": null 
-    },
-    "logout": { 
-        "svg": "<path d=\"M13 16V18A2 2 0 0 1 11 20H5A2 2 0 0 1 3 18V6A2 2 0 0 1 5 4H11A2 2 0 0 1 13 6V8M21 12H7M17 8L21 12L17 16\" />", 
-        "jsx": null 
-    },
-    "credit-card": { 
-        "svg": "<path d=\"M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V16A3 3 0 0 1 18 19H6A3 3 0 0 1 3 16V8M3 10H21M7 14H8M12 14H13\"/>", 
-        "jsx": null 
-    },
-    "filter": { 
-        "svg": "<path d=\"M3 4A1 1 0 0 1 4 3H20A1 1 0 0 1 21 4V7L14 14V17L10 21V14L3 7V4\"/>", 
-        "jsx": null 
-    },
-    "chart-bubble": { 
-        "svg": "<circle cx=\"6\" cy=\"16\" r=\"3\"></circle><circle cx=\"16\" cy=\"19\" r=\"2\"></circle><circle cx=\"14.5\" cy=\"7.5\" r=\"4.5\"></circle>", 
-        "jsx": "<circle cx={6} cy={16} r={3}></circle><circle cx={16} cy={19} r={2}></circle><circle cx={14.5} cy={7.5} r={4.5}></circle>"
-    },
-    "chart-line": { 
-        "svg": "<path d=\"M4 19H20M4 15L8 9L12 11L16 6L20 10\"/>", 
-        "jsx": null 
-    },
-    "chart-arrows-vertical": { 
-        "svg": "<path d=\"M3 21H21M6 21V3M3 6L6 3L9 6M9 15L12 12L15 15M15 10L18 7L21 10M12 21V12M18 21V7\"/>", 
-        "jsx": null 
-    },
-    "chart-arrows-horizontal": { 
-        "svg": "<path d=\"M3 3V21M3 6H21M3 12H12M3 18H17M18 3L21 6L18 9M9 9L12 12L9 15M14 15L17 18L14 21\"/>", 
-        "jsx": null 
-    },
-    "cloudy": { 
-        "svg": "<path d=\"M9 20A7.45 7.5 0 1 1 16 9A2 2 0 0 1 17 20H9\"/>", 
-        "jsx": null 
-    },
-    "mist": { 
-        "svg": "<path d=\"M5 5H7M11 5H21M3 10H6M10 10H11M15 10H19M5 15H9M13 15H14M18 15H21M3 20H13M17 20H19\"/>", 
-        "jsx": null 
-    },
-    "windy": { 
-        "svg": "<path d=\"M11.5 4A2.5 2.5 0 1 1 13.5 8H5A2 2 0 0 0 5 12H18.5A2.5 2.5 0 1 1 16.5 16M4 16H10.5A2.5 2.5 0 1 1 8.5 20\"/>", 
-        "jsx": null 
-    },
-    "tornado": { 
-        "svg": "<path d=\"M3 4H21M5 8H19M9 12H21M11 16H17M9 20H13\"/>", 
-        "jsx": null 
-    },
-    "lightning-bolt": { 
-        "svg": "<path d=\"M4 14H11V21L20 10H13V3L4 14\"/>", 
-        "jsx": null 
-    },
-    "pizza": { 
-        "svg": "<path d=\"M12 3L3.5 19.5A20 20 0 0 0 20.5 19.5L12 3M5.5 16A17 17 0 0 0 18.5 16M13 11V11.01M11 14V14.01\"/>", 
-        "jsx": null 
-    },
-    "play": { 
-        "svg": "<path d=\"M7 4V20L20 12Z\"/>", 
-        "jsx": null 
-    },
-    "pause": { 
-        "svg": "<path d=\"M6 17V7A2 2 0 0 1 10 7V17A2 2 0 0 1 6 17M14 17V7A2 2 0 0 1 18 7V17A2 2 0 0 1 14 17\"/>", 
-        "jsx": null 
-    },
-    "rewind": { 
-        "svg": "<path d=\"M2 12L10 5V19ZM13 12L21 5V19Z\"/>", 
-        "jsx": null 
-    },
-    "fast-forward": { 
-        "svg": "<path d=\"M11 12L3 19V5ZM22 12L14 19V5Z\"/>", 
-        "jsx": null 
-    },
-    "eject": { 
-        "svg": "<path d=\"M5 18H19M12 5L6 14H18Z\"/>", 
-        "jsx": null 
-    },
-    "repeat": { 
-        "svg": "<path d=\"M4 12V9A3 3 0 0 1 7 6H20M17 3L20 6L17 9M20 12V15A3 3 0 0 1 17 18H4M7 21L4 18L7 15\"/>", 
-        "jsx": null 
-    },
-    "repeat-once": { 
-        "svg": "<path d=\"M4 12V9A3 3 0 0 1 7 6H20M17 3L20 6L17 9M20 12V15A3 3 0 0 1 17 18H4M7 21L4 18L7 15M11 11L12 10V14\"/>", 
-        "jsx": null 
-    },
-    "shuffle": { 
-        "svg": "<path d=\"M18 3L21 6L18 9M18 21L21 18L18 15M3 6C9 6 10 9 11 12S13 18 18 18H21M3 18C9 18 10 15 11 12S13 6 18 6H21\"/>", 
-        "jsx": null 
-    },
-    "fullscreen": { 
-        "svg": "<path d=\"M3 9V4H8M16 4H21V9M21 15V20H16M8 20H3V15\"/>", 
-        "jsx": null 
-    },
-    "fullscreen-exit": { 
-        "svg": "<path d=\"M7 4V8H3M17 4V8 H21M3 16H7V20M17 20V16H21\"/>", 
-        "jsx": null 
-    },
-    "photo": { 
-        "svg": "<path d=\"M4 15L8 11A3 5 0 0 1 11 11L16 16M14 14L15 13A3 5 0 0 1 18 13L20 15M4 17V7A3 3 0 0 1 7 4H17A3 3 0 0 1 20 7V17A3 3 0 0 1 17 20H7A3 3 0 0 1 4 17M15 8V8.01\"/>", 
-        "jsx": null 
-    },
-    "cast": { 
-        "svg": "<path d=\"M15 19H18A3 3 0 0 0 21 16V8A3 3 0 0 0 18 5H6A3 3 0 0 0 3.2 7M3 19V19.01M3 15A4 4 0 0 1 7 19M3 11A8 8 0 0 1 11 19\"/>", 
-        "jsx": null 
-    },
-    "inbox-in": { 
-        "svg": "<path d=\"M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H8M4 13H7L10 16H14L17 13H20M12 3V11M9 8L12 11L15 8\"/>", 
-        "jsx": null 
-    },
-    "inbox": { 
-        "svg": "<path d=\"M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H16M4 13H7L10 16H14L17 13H20\"/>", 
-        "jsx": null 
-    },
-    "qrcode": { 
-        "svg": "<path d=\"M16 20H20M18 16H20M20 12H20.01M4 12H8M12 4V5M12 9V12H16M12 20V16H14M4 7V5A1 1 0 0 1 5 4H7A1 1 0 0 1 8 5V7A1 1 0 0 1 7 8H5A1 1 0 0 1 4 7M16 7V5A1 1 0 0 1 17 4H19A1 1 0 0 1 20 5V7A1 1 0 0 1 19 8H17A1 1 0 0 1 16 7 M4 19V17A1 1 0 0 1 5 16H7A1 1 0 0 1 8 17V19A1 1 0 0 1 7 20H5A1 1 0 0 1 4 19\"/>", 
-        "jsx": null 
-    },
-    "qrcode-2": { 
-        "svg": "<path d=\"M4 5A1 1 0 0 1 5 4H9A1 1 0 0 1 10 5V9A1 1 0 0 1 9 10H5A 1 1 0 0 1 4 9V5M7 7V7.01M14 5A1 1 0 0 1 15 4H19A1 1 0 0 1 20 5V9A1 1 0 0 1 19 10H15A1 1 0 0 1 14 9V5M17 7V7.01M4 15A1 1 0 0 1 5 14H9A1 1 0 0 1 10 15V19A1 1 0 0 1 9 20H5A1 1 0 0 1 4 19V15M7 17V17.01M14 14V14.01M17 14H20M14 20V17H17M20 17V20H17\"/>", 
-        "jsx": null 
-    },
-    "refresh": { 
-        "svg": "<path d=\"M4 4V9H9M4.5 9A8.1 8.1 0 0 1 20 11M15 15H20V20M19.5 15A8.1 8.1 0 0 1 4 13\"/>", 
-        "jsx": null 
-    },
-    "translate": { 
-        "svg": "<path d=\"M3 5H15M9 3V5M13 5A18 20 0 0 1 3 18M6.5 9A20 20 0 0 0 10 14.5M11 21L16 11L21 21M13 18H19\"/>", 
-        "jsx": null 
-    },
-    "trending-down": { 
-        "svg": "<path d=\"M3 7L9 13L13 9L21 17M21 9V17H13\"/>", 
-        "jsx": null 
-    },
-    "trending-up": { 
-        "svg": "<path d=\"M3 17L9 11L13 15L21 7M13 7L21 7L21 15\"/>", 
-        "jsx": null 
-    },
-    "crop": { 
-        "svg": "<path d=\"M8 5V15A1 1 0 0 0 9 16H19M5 8H15A1 1 0 0 1 16 9V19\"/>", 
-        "jsx": null 
-    },
-    "tag": { 
-        "svg": "<path d=\"M7 3 H12Q13 3 14 4L20 10Q22 12 20 14L14 20Q12 22 10 20L4 14Q3 13 3 12L3 7A4 4 0 0 1 7 3M7 7V7.01\"/>", 
-        "jsx": null 
-    },
-    "barcode": {
-        "svg": "<path d=\"M4 7V6A2 2 0 0 1 6 4H8M16 4H18A2 2 0 0 1 20 6V7M20 17V18A2 2 0 0 1 18 20H16M8 20H6A2 2 0 0 1 4 18V17M5 11V13H6V11H5M10 11V13M14 11V13H15V11H14M19 11V13\"/>",
-        "jsx": null 
-    },
-    "send-plane": { 
-        "svg": "<path d=\"M4 9L20 4L15 20L12 12Z\"/>", 
-        "jsx": null 
-    },
-    "text-wrap": { 
-        "svg": "<path d=\"M4 5H20M4 12H16.5A3 3 0 0 1 16.5 19H13M4 19H8M15 17L13 19L15 21\"/>", 
-        "jsx": null 
-    },
-    "pulse": { 
-        "svg": "<path d=\"M2 12H6L9 5L15 19L18 12H22\"/>", 
-        "jsx": null 
-    },
-    "droplet": { 
-        "svg": "<path d=\"M12 3L6.8 11A6 6 0 1 0 17.2 11Z\"/>", 
-        "jsx": null 
-    },
-    "scan": { 
-        "svg": "<path d=\"M4 7V6A2 2 0 0 1 6 4H8M16 4H18A2 2 0 0 1 20 6V7M20 17V18A2 2 0 0 1 18 20H16M8 20H6A2 2 0 0 1 4 18V17M5 12H19\"/>", 
-        "jsx": null 
-    },
-    "rainbow": { 
-        "svg": "<path d=\"M2 17A10 10 0 0 1 22 17M6 17A6 6 0 0 1 18 17M10 17A2 2 0 0 1 14 17\"/>", 
-        "jsx": null 
-    },
-    "temperature": { 
-        "svg": "<path d=\"M10 13.5V5A2 2 0 0 1 14 5V13.5A4 4 0 1 1 10 13.5M10 9H14\"/>", 
-        "jsx": null 
-    },
-    "haze": { 
-        "svg": "<path d=\"M3 16H21M3 20H21M3 12H4M5.6 5.6L6.3 6.3M12 3V4M18.4 5.6L17.7 6.3M20 12H21M8 12A4 4 0 0 1 16 12\"/>", 
-        "jsx": null 
-    },
-    "meteor": { 
-        "svg": "<path d=\"M4 13A8 8 0 0 0 20 13V2.5L13 5.75V3.25L8 6A8 8 0 0 0 4 13\"/><circle cx=\"12\" cy=\"13\" r=\"4\"></circle>", 
-        "jsx": "<path d=\"M4 13A8 8 0 0 0 20 13V2.5L13 5.75V3.25L8 6A8 8 0 0 0 4 13\"/><circle cx={12} cy={13} r={4}></circle>"
-    },
-    "comet": { 
-        "svg": "<path d=\"M4 9L7.5 12.5M4 4L11 11M9 4L12.5 7.5M15.5 11L17 14L20 14.5L18 16.5L18.5 20L15.5 18.5L12.5 20L13 16.5L11 14.5L14 14Z\"/>", 
-        "jsx": null 
-    },
-    "calculator-2": { 
-        "svg": "<path d=\"M5 19V5A2 2 0 0 1 7 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A 2 2 0 0 1 5 19M9 7H15M9 11V11.01M12 11V11.01M15 11V11.01M9 14V14.01M12 14V14.01M15 14V14.01M9 17H12M15 17V17.01\"/>", 
-        "jsx": null 
-    },
-    "send-plane-2": { 
-        "svg": "<path d=\"M4 3V21L21 12ZM4 12H10\"/>", 
-        "jsx": null 
-    },
-    "at": { 
-        "svg": "<path d=\"M16 12V13.5A2.5 2.5 0 0 0 21 13.5V11A9 9 0 1 0 15.5 20.28\"/><circle cx=\"12\" cy=\"12\" r=\"4\"></circle>", 
-        "jsx": "<path d=\"M16 12V13.5A2.5 2.5 0 0 0 21 13.5V11A9 9 0 1 0 15.5 20.28\"/><circle cx={12} cy={12} r={4}></circle>"
-    },
-    "radius-bottom-left": { 
-        "svg": "<path d=\"M5 5V11A8 8 0 0 0 13 19H19\"/>", 
-        "jsx": null 
-    },
-    "radius-bottom-right": { 
-        "svg": "<path d=\"M19 5V11A8 8 0 0 1 11 19H5\"/>", 
-        "jsx": null 
-    },
-    "radius-top-right": { 
-        "svg": "<path d=\"M19 19V13A8 8 0 0 0 11 5H5\"/>", 
-        "jsx": null 
-    },
-    "radius-top-left": { 
-        "svg": "<path d=\"M5 19V13A8 8 0 0 1 13 5H19\"/>", 
-        "jsx": null 
-    },
-    "angle": { 
-        "svg": "<path d=\"M12 4 L3 19H21M15.415 5.97H15.43M17.715 8.67H17.73M19.515 11.771H19.63M20.615 15.171H20.63\"/>", 
-        "jsx": null 
-    },
-    "droplet-half": { 
-        "svg": "<path d=\"M12 3L6.8 11A6 6 0 1 0 17.2 11ZM12 3V20\"/>", 
-        "jsx": null 
-    },
-    "droplet-half-2": { 
-        "svg": "<path d=\"M12 3L6.8 11A6 6 0 1 0 17.2 11ZM6 14H18\"/>", 
-        "jsx": null 
-    },
-    "flip-horizontal": {
-         "svg": "<path d=\"M3 12H21M7 3 V8H17ZM7 21V16H17Z\"/>", 
-        "jsx": null 
-    },
-    "flip-vertical": {
-        "svg": "<path d=\"M12 3V21M8 7V17H3ZM16 7V17H21Z\"/>", 
-       "jsx": null 
-    },
-    "cube": { 
-        "svg": "<path d=\"M4 7V17L12 21V11ZL12 3L20 7V17L12 21M12 11L20 7\"/>", 
-        "jsx": null 
-    },
-    "cube-transparent": { 
-        "svg": "<path d=\"M4 9.5V7L6 8M6 6L4 7M10 4L12 3L14 4M18 6L20 7V9.5M18 8L20 7M10 10L12 11L14 10M12 11V13.5M4 14.5V17L6 18M10 20L12 21L14 20M12 21V18.5M20 14.5V17L18 18\"/>", 
-        "jsx": null 
-    },
-    "identification": { 
-        "svg": "<path d=\"M10 6V5A2 2 0 0 1 14 5V6A2 2 0 0 1 10 6V6H5A2 2 0 0 0 3 8V17A2 2 0 0 0 5 19H19A2 2 0 0 0 21 17V8A2 2 0 0 0 19 6H14M6 16.2A3.05 3.05 0 0 1 11.8 16M9 10A2 2 0 0 1 9 14A2 2 0 0 1 9 10M15 11H18M15 15H17\"/>", 
-        "jsx": null 
-    },
-    "corner-radius": { 
-        "svg": "<path d=\"M4 12V8A4 4 0 0 1 8 4H12M16 4V4.01M20 4V4.01M20 8V8.01M20 12V12.01M20 16V16.01M20 20V20.01M16 20V20.01M12 20V20.01M8 20V20.01M4 20V20.01M4 16V16.01\"/>", 
-        "jsx": null 
-    },
-    "flag": { 
-        "svg": "<path d=\"M5 21V5A5 5 0 0 1 12 5A5 5 0 0 0 19 5V14A5 5 0 0 1 12 14A5 5 0 0 0 5 14\"/>", 
-        "jsx": null 
-    },
-    "flag-2": { 
-        "svg": "<path d=\"M5 21V5H12L13 6H19V15H13L12 14H5\"/>", 
-        "jsx": null 
-    },
-    "flag-3": { 
-        "svg": "<path d=\"M5 21V5H19V14H5\"/>", 
-        "jsx": null 
-    },
-    "flag-4": { 
-        "svg": "<path d=\"M5 21V5H19L14.5 9.5L19 14H5\"/>", 
-        "jsx": null 
-    },
-    "pin": { 
-        "svg": "<path d=\"M9 11A3 3 0 0 1 15 11A3 3 0 0 1 9 11M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>", 
-        "jsx": null 
-    },
-    "pin-2": { 
-        "svg": "<path d=\"M12 10A1 1 0 0 1 12 12A1 1 0 0 1 12 10M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>", 
-        "jsx": null 
-    },
-    "pin-plus": { 
-        "svg": "<path d=\"M12 8V14M9 11H15M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>", 
-        "jsx": null 
-    },
-    "pin-time": { 
-        "svg": "<path d=\"M12 7V12H16M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>", 
-        "jsx": null 
-    },
-    "pin-user": { 
-        "svg": "<path d=\"M12 7A2 2 0 0 1 12 11A2 2 0 0 1 12 7M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657ZM7.25 17.564A4.9 4.9 0 0 1 16.75 17.654\"/>", 
-        "jsx": null 
-    },
-    "compass": { 
-        "svg": "<path d=\"M8.5 15.5L13.5 13.5L15.5 8.5L10.5 10.5Z\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>", 
-        "jsx": "<path d=\"M8.5 15.5L13.5 13.5L15.5 8.5L10.5 10.5Z\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "compass-2": { 
-        "svg": "<path d=\"M16 3.938A9 9 0 1 0 20 7.877M12 12L18.5 5.5\"/>", 
-        "jsx": null 
-    },
-    "gps": { 
-        "svg": "<path d=\"M7 12L16 8L12 17L11 13Z\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>", 
-        "jsx": "<path d=\"M7 12L16 8L12 17L11 13Z\"/><circle cx={12} cy={12} r={9}></circle>"
-    },
-    "user-2": { 
-        "svg": "<path d=\"M19 21H5A5 5 0 0 1 19 21\"/><circle cx=\"12\" cy=\"7\" r=\"4\"></circle>", 
-        "jsx": "<path d=\"M19 21H5A5 5 0 0 1 19 21\"/><circle cx={12} cy={7} r={4}></circle>"
-    },
-    "user-minus": { 
-        "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11H22\"/>", 
-        "jsx": null 
-    },
-    "user-plus": { 
-        "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11H22M19 8V14\"/>", 
-        "jsx": null 
-    },
-    "user-x": { 
-        "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M17 9L21 13M17 13L21 9\"/>", 
-        "jsx": null 
-    },
-    "user-check": { 
-        "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11L18 13L22 9\"/>", 
-        "jsx": null 
-    },
-    "user-exclamation": { 
-        "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M19 7V10M19 14V14.01\"/>", 
-        "jsx": null 
-    },
-    "user-3": { 
-        "svg": "<path d=\"M12 3A6 6 0 0 1 12 17A6 6 0 0 1 12 3M6 21H18\"/>", 
-        "jsx": null 
-    },
-    "oval": { 
-        "svg": "<path d=\"M12 3A6 9 0 1 1 12 21A6 9 0 1 1 12 3\"/>", 
-        "jsx": null 
-    },
-    "oval-horizontal": { 
-        "svg": "<path d=\"M3 12A9 6 0 1 1 21 12A9 6 0 1 1 3 12\"/>", 
-        "jsx": null 
-    },
-    "triangle": { 
-        "svg": "<path d=\"M5 19A2 2 0 0 1 3.16 16.25L10.24 4A2 2 0 0 1 13.74 4L20.84 16.25A2 2 0 0 1 19 19Z\"/>", 
-        "jsx": null 
-    },
-    "number-0": { 
-        "svg": "<path d=\"M8 8A4 4 0 1 1 16 8V16A4 4 0 1 1 8 16Z\"/>", 
-        "jsx": null 
-    },
-    "number-1": { 
-        "svg": "<path d=\"M13 20V4L8 5.5\"/>", 
-        "jsx": null 
-    },
-    "number-2": { 
-        "svg": "<path d=\"M8 8A4 4 0 1 1 16 8C16 9.098 15.436 10.025 14.841 10.815L8 20H16\"/>", 
-        "jsx": null 
-    },
-    "number-3": { 
-        "svg": "<path d=\"M8 8 A4 4 0 1 1 12 12A4 4 0 1 1 8 16\"/>", 
-        "jsx": null 
-    },
-    "number-4": { 
-        "svg": "<path d=\"M15 20V5L7 16H17\"/>", 
-        "jsx": null 
-    },
-    "number-5": { 
-        "svg": "<path d=\"M16 4H8V12A5 5 0 1 1 8 18\"/>", 
-        "jsx": null 
-    },
-    "number-6": { 
-        "svg": "<path d=\"M8 15A4 4 0 0 1 16 15V16A4 4 0 0 1 8 16V8A4 4 0 0 1 16 8\"/>", 
-        "jsx": null 
-    },
-    "number-7": { 
-        "svg": "<path d=\"M8 4H16L12 20\"/>", 
-        "jsx": null 
-    },
-    "number-8": { 
-        "svg": "<path d=\"M12 4A4 4 0 0 1 12 12A4 4 0 0 0 12 20A4 4 0 0 0 12 12A4 4 0 0 1 12 4\"/>", 
-        "jsx": null 
-    },
-    "number-9": { 
-        "svg": "<path d=\"M16 9A4 4 0 0 1 8 9V8A4 4 0 0 1 16 8V16A4 4 0 0 1 8 16\"/>", 
-        "jsx": null 
-    },
-    "mood-neutral": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01\"/>", 
-        "jsx": null 
-    },
-    "mood-smile": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9.5 15A3.5 3.5 0 0 0 14.5 15\"/>", 
-        "jsx": null 
-    },
-    "mood-happy": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 9V9.01M15 9V9.01M8 13H16A4 4 0 0 1 8 13\"/>", 
-        "jsx": null 
-    },
-    "mood-sad": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 11V11.01M15 11V11.01M9.5 16A3.5 3.5 0 0 1 14.5 16\"/>", 
-        "jsx": null 
-    },
-    "mood-laugh": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M8 9A2 2 0 0 1 10 9M14 9A2 2 0 0 1 16 9M8 13A20 20 0 0 1 16 13A4 4 0 0 1 8 13\"/>", 
-        "jsx": null 
-    },
-    "mood-blank": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9 15H15\"/>", 
-        "jsx": null 
-    },
-    "mood-suprised": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 9V9.01M15 9V9.01M12 13A2 2 0 0 1 12 17A2 2 0 0 1 12 13\"/>", 
-        "jsx": null 
-    },
-    "mood-nervous": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8 16L10 14L12 16L14 14L16 16\"/>", 
-        "jsx": null 
-    },
-    "mood-tongue": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8.5 14H15.5M10 14V16A2 2 0 0 0 14 16V14\"/>", 
-        "jsx": null 
-    },
-    "mood-confused": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9.5 16A10 10 0 0 1 15.5 14.5\"/>", 
-        "jsx": null 
-    },
-    "mood-angry": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 11V11.01M15 11V11.01M9.5 16A3.5 3.5 0 0 1 14.5 16M8 10L10 10.25M16 10L14 10.25\"/>", 
-        "jsx": null 
-    },
-    "mood-relieved": { 
-        "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M8 10A2 2 0 0 0 10 10M14 10A2 2 0 0 0 16 10M9.5 15A3.5 3.5 0 0 0 14.5 15\"/>", 
-        "jsx": null 
-    },
-    "column-insert-left": { 
-        "svg": "<path d=\"M7 10V14M5 12H9M13 5A1 1 0 0 1 14 4H18A1 1 0 0 1 19 5V19A1 1 0 0 1 18 20H14A1 1 0 0 1 13 19Z\"/>", 
-        "jsx": null 
-    },
-    "column-insert-right": { 
-        "svg": "<path d=\"M5 5A1 1 0 0 1 6 4H10A1 1 0 0 1 11 5V19A1 1 0 0 1 10 20H6A1 1 0 0 1 5 19ZM17 10V14M15 12H19\"/>", 
-        "jsx": null 
-    },
-    "table": { 
-        "svg": "<path d=\"M4 6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18ZM10 4V20M4 10H20\"/>", 
-        "jsx": null 
-    },
-    "table-import": { 
-        "svg": "<path d=\"M4 13.5V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H12M2 19H9M6 16L9 19L6 22M4 10H20M10 4V15.5\"/>", 
-        "jsx": null 
-    },
-    "table-export": { 
-        "svg": "<path d=\"M11.5 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V13.5M10 5V20M4 10H20M14 19H21M18 16L21 19L18 22\"/>", 
-        "jsx": null 
-    },
-    "wallet": { 
-        "svg": "<path d=\"M4 18V6A2 2 0 0 1 6 4H16A1 1 0 0 1 17 5V8H19A1 1 0 0 1 20 9V19A1 1 0 0 1 19 20H6A2 2 0 0 1 4 18M4 6A2 2 0 0 0 6 8H17M14 14H17\"/>", 
-        "jsx": null 
-    },
-    "wallet-2": { 
-        "svg": "<path d=\"M4 18V6A2 2 0 0 1 6 4H16A1 1 0 0 1 17 5V8H18A1 1 0 0 1 19 9V12H20V16H16A2 2 0 0 1 16 12H19M19 16V19A1 1 0 0 1 18 20H6A2 2 0 0 1 4 18M4 6A2 2 0 0 0 6 8H17\"/>", 
-        "jsx": null 
-    },
-    "cash": { 
-        "svg": "<path d=\"M7 15V11A2 2 0 0 1 9 9H17V7A2 2 0 0 0 15 5H5A2 2 0 0 0 3 7V13A2 2 0 0 0 5 15ZV17A2 2 0 0 0 9 19H19A2 2 0 0 0 21 17V11A2 2 0 0 0 19 9H17M14 12A2 2 0 0 1 14 16A2 2 0 0 1 14 12\"/>", 
-        "jsx": null 
-    },
-    "plus": { 
-        "svg": "<path d=\"M12 5V19M5 12H19\"/>", 
-        "jsx": null 
-    },
-    "minus": { 
-        "svg": "<path d=\"M5 12H19\"/>", 
-        "jsx": null 
-    },
-    "divide": { 
-        "svg": "<path d=\"M5 12H19\"/><circle fill=\"currentColor\" cx=\"12\" cy=\"6\" r=\"1\"></circle><circle fill=\"currentColor\" cx=\"12\" cy=\"18\" r=\"1\"></circle>", 
-        "jsx": "<path d=\"M5 12H19\"/><circle fill=\"currentColor\" cx={12} cy={6} r={1}></circle><circle fill=\"currentColor\" cx={12} cy={18} r={1}></circle>"
-    },
-    "close": { 
-        "svg": "<path d=\"M6 6L18 18M6 18L18 6\"/>", 
-        "jsx": null 
-    },
-    "cake": { 
-        "svg": "<path d=\"M3 21H21V14A2 2 0 0 0 19 12H5A2 2 0 0 0 3 14ZM3 15.5A2.5 2.5 0 0 1 4.5 16 2.5 2.5 0 0 0 6 16.5 2.5 2.5 0 0 0 7.5 16 2.5 2.5 0 0 1 9 15.5 2.5 2.5 0 0 1 10.5 16 2.5 2.5 0 0 0 12 16.5 2.5 2.5 0 0 0 13.5 16 2.5 2.5 0 0 1 15 15.5 2.5 2.5 0 0 1 16.5 16 2.5 2.5 0 0 0 18 16.5 2.5 2.5 0 0 0 19.5 16 2.5 2.5 0 0 1 21 15.5M6 12V10A2 2 0 0 1 8 8H16A2 2 0 0 1 18 10V12M9 3V3.01M12 3V3.01M15 3V3.01M9 6V8M12 6V8M15 6V8\"/>", 
-        "jsx": null 
-    },
-    "cake-2": { 
-        "svg": "<path d=\"M3 15V20H21V12A3 3 0 0 0 18 9H6A3 3 0 0 0 3 12V15A2.5 2.5 0 0 0 6 14 2.5 2.5 0 0 1 8 13 2.5 2.5 0 0 1 10 14 2.5 2.5 0 0 0 12 15 2.5 2.5 0 0 0 14 14 2.5 2.5 0 0 1 16 13 2.5 2.5 0 0 1 18 14 2.5 2.5 0 0 0 21 15M12 4L13.465 5.638A2 2 0 1 1 10.45 5.638Z\"/>", 
-        "jsx": null 
-    },
-    "film": { 
-        "svg": "<path d=\"M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V19A1 1 0 0 1 20 20H4A1 1 0 0 1 3 19ZM7 4V20M17 4V20M3 8H7M3 12H21M3 16H7M17 8H21M17 16H21\"/>", 
-        "jsx": null 
-    },
-    "phone": { 
-        "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5Z\"/>", 
-        "jsx": null 
-    },
-    "phone-incoming": { 
-        "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM20 4L15 9V5M15 9H19\"/>", 
-        "jsx": null 
-    },
-    "phone-outgoing": { 
-        "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM20 4L15 9M16 4H20V8\"/>", 
-        "jsx": null 
-    },
-    "phone-x": {
-         "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM16 4L20 8M16 8L20 4\"/>", 
-        "jsx": null 
-    },
-    "sd-card": { 
-        "svg": "<path d=\"M9.5 3H18A1 1 0 0 1 19 4V20A1 1 0 0 1 18 21H6A1 1 0 0 1 5 20V7.5ZM10 7V8M13 6V8M16 6V8\"/>", 
-        "jsx": null 
-    },
-    "sd-card-mini": { 
-        "svg": "<path d=\"M7 10V4A1 1 0 0 1 8 3H18A1 1 0 0 1 19 4V20A1 1 0 0 1 18 21H6A1 1 0 0 1 5 20V12ZM10 6V8M13 6V8M16 6V8\"/>", 
-        "jsx": null 
-    },
-    "usb": { 
-        "svg": "<path d=\"M12 17A2 2 0 0 1 12 21 2 2 0 0 1 12 17V16L7 13V10A1 1 0 0 0 7 8 1 1 0 0 0 7 10M12 5.5H10L12 3L14 5.5ZV16M12 14.5L17 12.5V10H16V8H18V10H17\"/>", 
-        "jsx": null 
-    },
-    "download": { 
-        "svg": "<path d=\"M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 12L12 16L16 12\"/>", 
-        "jsx": null 
-    }
+  "sizeBox": "<path fill=\"none\" stroke=\"none\" d=\"M0 0h24v24H0z\"/>",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"%s%\" height=\"%s%\" viewBox=\"0 0 24 24\" stroke-width=\"%sw%\" stroke=\"%c%\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">",
+  "jsx": "<svg xmlns=\"http://www.w3.org/2000/svg\" width={%s%} height={%s%} viewBox=\"0 0 24 24\" strokeWidth={%sw%} stroke=\"%c%\" fill=\"none\" strokeLinecap=\"round\" strokeLinejoin=\"round\">",
+  "arrow-left": {
+    "svg": "<path d=\"M5 12H19M11 6L5 12L11 18\"/>",
+    "jsx": null
+  },
+  "arrow-up-left": {
+    "svg": "<path d=\"M7 7L17 17M7 16L7 7L16 7\"/>",
+    "jsx": null
+  },
+  "arrow-up": {
+    "svg": "<path d=\"M12 5V19M6 11L12 5L18 11\"/>",
+    "jsx": null
+  },
+  "arrow-up-right": {
+    "svg": "<path d=\"M17 7L7 17M8 7L17 7L17 16\"/>",
+    "jsx": null
+  },
+  "arrow-right": {
+    "svg": "<path d=\"M5 12H19M13 6L19 12L13 18\"/>",
+    "jsx": null
+  },
+  "arrow-down-right": {
+    "svg": "<path d=\"M7 7L17 17M17 8L17 17L8 17\"/>",
+    "jsx": null
+  },
+  "arrow-down": {
+    "svg": "<path d=\"M12 5V19M6 13L12 19L18 13\"/>",
+    "jsx": null
+  },
+  "arrow-down-left": {
+    "svg": "<path d=\"M17 7L7 17M7 8L7 17L16 17\"/>",
+    "jsx": null
+  },
+  "arrow-left-narrow": {
+    "svg": "<path d=\"M5 12H19M9 8L5 12L9 16\"/>",
+    "jsx": null
+  },
+  "arrow-up-left-narrow": {
+    "svg": "<path d=\"M7 7L17 17M7 12L7 7L12 7\"/>",
+    "jsx": null
+  },
+  "arrow-up-narrow": {
+    "svg": "<path d=\"M12 5V19M8 9L12 5L16 9\"/>",
+    "jsx": null
+  },
+  "arrow-up-right-narrow": {
+    "svg": "<path d=\"M17 7L7 17M12 7L17 7L17 12\"/>",
+    "jsx": null
+  },
+  "arrow-right-narrow": {
+    "svg": "<path d=\"M5 12H19M15 8L19 12L15 16\"/>",
+    "jsx": null
+  },
+  "arrow-down-right-narrow": {
+    "svg": "<path d=\"M7 7L17 17M17 12L17 17L12 17\"/>",
+    "jsx": null
+  },
+  "arrow-down-narrow": {
+    "svg": "<path d=\"M12 5V19M8 15L12 19L16 15\"/>",
+    "jsx": null
+  },
+  "arrow-down-left-narrow": {
+    "svg": "<path d=\"M17 7L7 17M7 12L7 17L12 17\"/>",
+    "jsx": null
+  },
+  "chevron-left": {
+    "svg": "<path d=\"M15 18L9 12L15 6\"/>",
+    "jsx": null
+  },
+  "chevron-up-left": {
+    "svg": "<path d=\"M8 16V8H16\"/>",
+    "jsx": null
+  },
+  "chevron-up": {
+    "svg": "<path d=\"M6 15L12 9L18 15\"/>",
+    "jsx": null
+  },
+  "chevron-up-right": {
+    "svg": "<path d=\"M8 8H16V16\"/>",
+    "jsx": null
+  },
+  "chevron-right": {
+    "svg": "<path d=\"M9 18L15 12L9 6\"/>",
+    "jsx": null
+  },
+  "chevron-down-right": {
+    "svg": "<path d=\"M16 8V16H8\"/>",
+    "jsx": null
+  },
+  "chevron-down": {
+    "svg": "<path d=\"M6 9L12 15L18 9\"/>",
+    "jsx": null
+  },
+  "chevron-down-left": {
+    "svg": "<path d=\"M7 9V17H15M11 5V13H19\"/>",
+    "jsx": null
+  },
+  "chevrons-left": {
+    "svg": "<path d=\"M11 7L6 12L11 17M17 7L12 12L17 17\"/>",
+    "jsx": null
+  },
+  "chevrons-up-left": {
+    "svg": "<path d=\"M7 15V7H15M11 19V11H19\"/>",
+    "jsx": null
+  },
+  "chevrons-up": {
+    "svg": "<path d=\"M7 11L12 6L17 11M7 17L12 12L17 17\"/>",
+    "jsx": null
+  },
+  "chevrons-up-right": {
+    "svg": "<path d=\"M9 7H17V15M5 11H13V19\"/>",
+    "jsx": null
+  },
+  "chevrons-right": {
+    "svg": "<path d=\"M7 7L12 12L7 17M13 7L18 12L13 17\"/>",
+    "jsx": null
+  },
+  "chevrons-down-right": {
+    "svg": "<path d=\"M17 9V17H9M13 5V13H5\"/>",
+    "jsx": null
+  },
+  "chevrons-down": {
+    "svg": "<path d=\"M7 7L12 12L17 7M7 13L12 18L17 13\"/>",
+    "jsx": null
+  },
+  "chevrons-down-left": {
+    "svg": "<path d=\"M7 9V17H15M11 5V13H19\"/>",
+    "jsx": null
+  },
+  "arrow-left-circle": {
+    "svg": "<path d=\"M8 12H16M12 8L8 12L12 16\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M8 12H16M12 8L8 12L12 16\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-up-left-circle": {
+    "svg": "<path d=\"M9 9L15 15M9 15L9 9L15 9\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M9 9L15 15M9 15L9 9L15 9\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-up-circle": {
+    "svg": "<path d=\"M12 8V16M8 12L12 8L16 12\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M12 8V16M8 12L12 8L16 12\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-up-right-circle": {
+    "svg": "<path d=\"M15 9L9 15M9 9L15 9L15 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M15 9L9 15M9 9L15 9L15 15\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-right-circle": {
+    "svg": "<path d=\"M8 12H16M12 8L16 12L12 16\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M8 12H16M12 8L16 12L12 16\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-down-right-circle": {
+    "svg": "<path d=\"M9 9L15 15M15 9L15 15L9 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M9 9L15 15M15 9L15 15L9 15\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-down-circle": {
+    "svg": "<path d=\"M12 8V16M8 12L12 16L16 12\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M12 8V16M8 12L12 16L16 12\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrow-down-left-circle": {
+    "svg": "<path d=\"M15 9L9 15M9 9L9 15L15 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M15 9L9 15M9 9L9 15L15 15\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "arrows-expand": {
+    "svg": "<path d=\"M4 4L9 9M4 8V4H8M20 4L15 9M16 4H20V8M4 20L 9 15M4 16V20 H8M20 20L15 15M20 16V20H16\"/>",
+    "jsx": null
+  },
+  "upload": {
+    "svg": "<path d=\"M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 8L12 4L16 8\"/>",
+    "jsx": null
+  },
+  "switch-horizontal": {
+    "svg": "<path d=\"M8 7H20M16 3L20 7L16 11M4 17H16M8 13L4 17L8 20\"/>",
+    "jsx": ""
+  },
+  "switch-vertical": {
+    "svg": "<path d=\"M7 4V16M3 8L7 4L11 8M17 8V20M13 16L17 20L21 16\"/>",
+    "jsx": null
+  },
+  "square": {
+    "svg": "<rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"></rect>",
+    "jsx": "<rect x={4} y={4} width={16} height={16} rx={2}></rect>"
+  },
+  "circle": {
+    "svg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<circle cx={12} cy={12} r={9}></circle>"
+  },
+  "check": {
+    "svg": "<path d=\"M5 12L10 17L20 7\"/>",
+    "jsx": null
+  },
+  "dots-horizontal": {
+    "svg": "<circle cx=\"5\" cy=\"12\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"19\" cy=\"12\" r=\"1\"></circle>",
+    "jsx": "<circle cx={5} cy={12} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={19} cy={12} r={1}></circle>"
+  },
+  "dots-vertical": {
+    "svg": "<circle cx=\"12\" cy=\"5\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"12\" cy=\"19\" r=\"1\"></circle>",
+    "jsx": "<circle cx={12} cy={5} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={12} cy={19} r={1}></circle>"
+  },
+  "dots-diagonal": {
+    "svg": "<circle cx=\"17\" cy=\"7\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"7\" cy=\"17\" r=\"1\"></circle>",
+    "jsx": "<circle cx={17} cy={7} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={7} cy={17} r={1}></circle>"
+  },
+  "dots-diagonal-2": {
+    "svg": "<circle cx=\"7\" cy=\"7\" r=\"1\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle><circle cx=\"17\" cy=\"17\" r=\"1\"></circle>",
+    "jsx": "<circle cx={7} cy={7} r={1}></circle><circle cx={12} cy={12} r={1}></circle><circle cx={17} cy={17} r={1}></circle>"
+  },
+  "menu": {
+    "svg": "<path d=\"M4 6H20M4 12H20M4 18H20\"/>",
+    "jsx": null
+  },
+  "menu-2": {
+    "svg": "<path d=\"M4 8H20M4 16H20\"/>",
+    "jsx": null
+  },
+  "menu-3": {
+    "svg": "<path d=\"M4 6H20M4 12H12M4 18H20\"/>",
+    "jsx": null
+  },
+  "menu-4": {
+    "svg": "<path d=\"M4 6H20M12 12H20M4 18H20\"/>",
+    "jsx": null
+  },
+  "menu-5": {
+    "svg": "<path d=\"M4 6H20M4 12H20M4 18H12\"/>",
+    "jsx": null
+  },
+  "menu-6": {
+    "svg": "<path d=\"M4 6H20M4 12H20M12 18H20\"/>",
+    "jsx": null
+  },
+  "menu-7": {
+    "svg": "<path d=\"M10 6H18M4 12H20M6 18H14\"/>",
+    "jsx": null
+  },
+  "menu-8": {
+    "svg": "<path d=\"M6 6H14M4 12H20M10 18H18\"/>",
+    "jsx": null
+  },
+  "menu-9": {
+    "svg": "<path d=\"M8 6H16M4 12H20M8 18H16\"/>",
+    "jsx": null
+  },
+  "exclamation-circle": {
+    "svg": "<path d=\"M12 8V12M12 16V16.01\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M12 8V12M12 16V16.01\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "minus-circle": {
+    "svg": "<path d=\"M9 12H15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M9 12H15\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "plus-circle": {
+    "svg": "<path d=\"M9 12H15M12 9V15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M9 12H15M12 9V15\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "ban": {
+    "svg": "<path d=\"M6 6L18 18\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M6 6L18 18\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "x-circle": {
+    "svg": "<path d=\"M10 10L14 14M14 10L10 14\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M10 10L14 14M14 10L10 14\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "half-horizontal-circle": {
+    "svg": "<path d=\"M3.5 12H20.5\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M3.5 12H20.5\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "half-vertical-circle": {
+    "svg": "<path d=\"M12 3.5V20.5\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M12 3.5V20.5\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "clock": {
+    "svg": "<path d=\"M12 8V12L15 15\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M12 8V12L15 15\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "align-center": {
+    "svg": "<path d=\"M4 6H20M8 12H16M6 18H18\"/>",
+    "jsx": null
+  },
+  "align-justified": {
+    "svg": "<path d=\"M4 6H20M4 12H20M4 18H16\"/>",
+    "jsx": null
+  },
+  "align-left": {
+    "svg": "<path d=\"M4 6H20M4 12H15M4 18H18\"/>",
+    "jsx": null
+  },
+  "align-right": {
+    "svg": "<path d=\"M4 6H20M9 12H20M6 18H20\"/>",
+    "jsx": null
+  },
+  "code-slash": {
+    "svg": "<path d=\"M6 8L2 12L6 16M18 8L22 12L18 16M10 20L14 4\"/>",
+    "jsx": null
+  },
+  "code": {
+    "svg": "<path d=\"M8 8L4 12L8 16M16 8L20 12L16 16\"/>",
+    "jsx": null
+  },
+  "brackets": {
+    "svg": "<path d=\"M8 4H5V20H8M16 4H19V20H16\"/>",
+    "jsx": null
+  },
+  "braces": {
+    "svg": "<path d=\"M8 4H7A2 2 0 0 0 5 6V9A2 3 0 0 1 3 12A2 3 0 0 1 5 15V18A2 2 0 0 0 7 20H8M16 4H17A2 2 0 0 1 19 6V9A2 3 0 0 0 21 12A2 3 0 0 0 19 15V18A 2 2 0 0 1 17 20H16\"/>",
+    "jsx": null
+  },
+  "parentheses": {
+    "svg": "<path d=\"M7 4A12 12 0 0 0 7 20M17 4A12 12 0 0 1 17 20\"/>",
+    "jsx": null
+  },
+  "terminal": {
+    "svg": "<path d=\"M5 7L10 12L5 17M12 19H19\"/>",
+    "jsx": null
+  },
+  "bookmark": {
+    "svg": "<path d=\"M8 4H16A2 2 0 0 1 18 6V20L12 16L6 20V6A2 2 0 0 1 8 4\"/>",
+    "jsx": null
+  },
+  "document": {
+    "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5\"/>",
+    "jsx": null
+  },
+  "document-remove": {
+    "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 13H15\"/>",
+    "jsx": null
+  },
+  "document-add": {
+    "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 13H15M12 10V16\"/>",
+    "jsx": null
+  },
+  "document-text": {
+    "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 12H15M9 16H15\"/>",
+    "jsx": null
+  },
+  "document-alert": {
+    "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M12 9V13M12 17V17.01\"/>",
+    "jsx": null
+  },
+  "document-download": {
+    "svg": "<path d=\"M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M12 10V16M9 13L12 16L15 13\"/>",
+    "jsx": null
+  },
+  "sun": {
+    "svg": "<path d=\"M3 12H4M12 3V4M21 12H20M12 21V20M5.63 5.63L6.343 6.343M18.364 18.364L17.65 17.65M18.364 5.6L17.65 6.343M5.6 18.364L6.343 17.65\"/><circle cx=\"12\" cy=\"12\" r=\"4\"></circle>",
+    "jsx": "<path d=\"M3 12H4M12 3V4M21 12H20M12 21V20M5.63 5.63L6.343 6.343M18.364 18.364L17.65 17.65M18.364 5.6L17.65 6.343M5.6 18.364L6.343 17.65\"/><circle cx={12} cy={12} r={4}></circle>"
+  },
+  "moon": {
+    "svg": "<path d=\"M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646\"/>",
+    "jsx": null
+  },
+  "copy": {
+    "svg": "<path d=\"M6 4H14A2 2 0 0 1 16 6V8M8 16H6A2 2 0 0 1 4 14V6A2 2 0 0 1 6 4\"/><rect x=\"8\" y=\"8\" width=\"12\" height=\"12\" rx=\"2\"></rect>",
+    "jsx": "<path d=\"M6 4H14A2 2 0 0 1 16 6V8M8 16H6A2 2 0 0 1 4 14V6A2 2 0 0 1 6 4\"/><rect x={8} y={8} width={12} height={12} rx={2}></rect>"
+  },
+  "mail": {
+    "svg": "<path d=\"M3 8A2 2 0 0 1 5 6H19A2 2 0 0 1 21 8V17A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V8M3 9L10.5 13.5A3 3 0 0 0 13.5 13.5L21 9\"/>",
+    "jsx": null
+  },
+  "adjustments": {
+    "svg": "<path d=\"M6 4V14M6 18V20M12 4V6M12 10V20M18 4V14M18 18V20\"/><circle cx=\"6\" cy=\"16\" r=\"2\"></circle><circle cx=\"12\" cy=\"8\" r=\"2\"></circle><circle cx=\"18\" cy=\"16\" r=\"2\"></circle>",
+    "jsx": "<path d=\"M6 4V14M6 18V20M12 4V6M12 10V20M18 4V14M18 18V20\"/><circle cx={6} cy={16} r={2}></circle><circle cx={12} cy={8} r={2}></circle><circle cx={18} cy={16} r={2}></circle>"
+  },
+  "user": {
+    "svg": "<path d=\"M6 21V19A4 4 0 0 1 10 15H14A4 4 0 0 1 18 19V21M12 3A4 4 0 0 1 12 11A4 4 0 0 1 12 3\"/>",
+    "jsx": null
+  },
+  "volume-off": {
+    "svg": "<path d=\"M3 14V10A1 1 0 0 1 4 9H6 L10 5C12 3 12 4 12 5V19C12 20 12 21 10 19L6 15H4A1 1 0 0 1 3 14M17 10L21 14M17 14L21 10\"/> ",
+    "jsx": null
+  },
+  "volume-up": {
+    "svg": "<path d=\"M3 14V10A1 1 0 0 1 4 9H6 L10 5C12 3 12 4 12 5V19C12 20 12 21 10 19L6 15H4A1 1 0 0 1 3 14M15.5 8.5A5 5 0 0 1 15.5 15.5M18 5.5A9 9 0 0 1 18 18.5\"/> ",
+    "jsx": null
+  },
+  "search": {
+    "svg": "<path d=\"M15 15L21 21\"/><circle cx=\"10\" cy=\"10\" r=\"7\"></circle>",
+    "jsx": "<path d=\"M15 15L21 21\"/><circle cx={10} cy={10} r={7}></circle>"
+  },
+  "database": {
+    "svg": "<path d=\"M4 7A6 3 0 0 0 20 7A6 3 0 0 0 4 7V17A6 3 0 0 0 20 17V7M4 12A6 3 0 0 0 20 12\"/>",
+    "jsx": null
+  },
+  "thumb-up": {
+    "svg": "<path d=\"M3 19V12A1 1 0 0 1 4 11H7A4 4 0 0 0 11 7V6A2 2 0 0 1 15 6V11H18A2 2 0 0 1 20 13L19 18A4 4 0 0 1 16 21H12L7 20H4A1 1 0 0 1 3 19M7 11V20\"/>",
+    "jsx": null
+  },
+  "thumb-down": {
+    "svg": "<path d=\"M3 5V12A1 1 0 0 0 4 13H7A4 4 0 0 1 11 17V18A2 2 0 0 0 15 18V13H18A 2 2 0 0 0 20 11L19 6A 4 4 0 0 0 16 3H12L7 4H4A1 1 0 0 0 3 5M7 4V13\"/>",
+    "jsx": null
+  },
+  "calculator": {
+    "svg": "<path d=\"M5 19V5A2 2 0 0 1 7 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A 2 2 0 0 1 5 19M9 7H15M9 11V11.01M12 11V11.01M15 11V11.01M9 14V14.01M12 14V14.01M15 14V17M9 17V17.01M12 17V17.01\"/>",
+    "jsx": null
+  },
+  "folder": {
+    "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5\"/>",
+    "jsx": null
+  },
+  "folder-plus": {
+    "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M12 10V16M9 13 H15\"/>",
+    "jsx": null
+  },
+  "folder-x": {
+    "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M10 11L14 15M10 15L14 11\"/>",
+    "jsx": null
+  },
+  "folder-minus": {
+    "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M9 13H 15\"/>",
+    "jsx": null
+  },
+  "folder-download": {
+    "svg": "<path d=\"M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M12 10V16M9 13L12 16L15 13\"/>",
+    "jsx": null
+  },
+  "heart": {
+    "svg": "<path d=\"M4.5 12.572A5 5 0 1 1 12 6A5 5 0 1 1 19.5 12.572L12 20Z\"/>",
+    "jsx": null
+  },
+  "link": {
+    "svg": "<path d=\"M13 5L14 4A4.2 4.2 0 0 1 20 10L16 14A4.2 4.2 0 0 1 10 14M11 19L10 20A4.2 4.2 0 0 1 4 14L8 10A4.2 4.2 0 0 1 14 10\"/>",
+    "jsx": null
+  },
+  "git-commit": {
+    "svg": "<path d=\"M12 3V9M12 15 V21\"/><circle cx=\"12\" cy=\"12\" r=\"3\"></circle>",
+    "jsx": "<path d=\"M12 3V9M12 15 V21\"/><circle cx={12} cy={12} r={3}></circle>"
+  },
+  "git-commit-2": {
+    "svg": "<path d=\"M3 12H9M15 12 H21\"/><circle cx=\"12\" cy=\"12\" r=\"3\"></circle>",
+    "jsx": "<path d=\"M3 12H9M15 12 H21\"/><circle cx={12} cy={12} r={3}></circle>"
+  },
+  "git-pull-request": {
+    "svg": "<path d=\"M6 8V16M18 16V8A2 2 0 0 0 16 6H12M14 3L11 6L14 9\"/><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"18\" cy=\"18\" r=\"2\"></circle>",
+    "jsx": "<path d=\"M6 8V16M18 16V8A2 2 0 0 0 16 6H12M14 3L11 6L14 9\"/><circle cx={6} cy={6} r={2}></circle><circle cx={6} cy={18} r={2}></circle><circle cx={18} cy={18} r={2}></circle>"
+  },
+  "git-merge": {
+    "svg": "<path d=\"M6 16V8A4 4 0 0 0 10 12H14A4 4 0 0 1 18 16\"/><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"18\" cy=\"18\" r=\"2\"></circle>",
+    "jsx": "<path d=\"M6 16V8A4 4 0 0 0 10 12H14A4 4 0 0 1 18 16\"/><circle cx={6} cy={6} r={2}></circle><circle cx={6} cy={18} r={2}></circle><circle cx={18} cy={18} r={2}></circle>"
+  },
+  "git-branch": {
+    "svg": "<path d=\"M6 8V16A4 4 0 0 1 10 12H14A4 4 0 0 0 18 8\"/><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"18\" cy=\"6\" r=\"2\"></circle>",
+    "jsx": "<path d=\"M6 8V16A4 4 0 0 1 10 12H14A4 4 0 0 0 18 8\"/><circle cx={6} cy={6} r={2}></circle><circle cx={6} cy={18} r={2}></circle><circle cx={18} cy={6} r={2}></circle>"
+  },
+  "git-fork": {
+    "svg": "<path d=\"M7 8V10A2 2 0 0 0 9 12H15A2 2 0 0 0 17 10V8M12 12V16\"/><circle cx=\"7\" cy=\"6\" r=\"2\"></circle><circle cx=\"12\" cy=\"18\" r=\"2\"></circle><circle cx=\"17\" cy=\"6\" r=\"2\"></circle>",
+    "jsx": "<path d=\"M7 8V10A2 2 0 0 0 9 12H15A2 2 0 0 0 17 10V8M12 12V16\"/><circle cx={7} cy={6} r={2}></circle><circle cx={12} cy={18} r={2}></circle><circle cx={17} cy={6} r={2}></circle>"
+  },
+  "clipboard": {
+    "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11\"/>",
+    "jsx": null
+  },
+  "clipboard-list": {
+    "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12V12.01M9 16V16.01M13 12H15M13 16H15\"/>",
+    "jsx": null
+  },
+  "clipboard-check": {
+    "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 14L11 16L15 12\" /> ",
+    "jsx": null
+  },
+  "clipboard-copy": {
+    "svg": "<path d=\"M14 5H16A2 2 0 0 1 18 7V10M18 18V19A2 2 0 0 1 16 21H6A2 2 0 0 1 4 19V7A2 2 0 0 1 6 5H8M10 7A2 2 0 0 1 10 3H12A2 2 0 0 1 12 7H10M20 14H10M13 11L10 14L13 17\" /> ",
+    "jsx": null
+  },
+  "clipboard-text": {
+    "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12H15M9 16H15\"/> ",
+    "jsx": null
+  },
+  "clipboard-x": {
+    "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M10 12L 14 16M10 16L14 12\"/> ",
+    "jsx": null
+  },
+  "clipboard-plus": {
+    "svg": "<path d=\"M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M12 12V16M10 14H14\"/>",
+    "jsx": null
+  },
+  "map": {
+    "svg": "<path d=\"M3 7L9 4L15 7L21 4V17L15 20L9 17L3 20V7M9 4V17M15 7V20\"/>",
+    "jsx": null
+  },
+  "wifi-0": {
+    "svg": "<path d=\"M12 18V18.01\"/>",
+    "jsx": null
+  },
+  "wifi-1": {
+    "svg": "<path d=\"M12 18V18.01M9 15A4 4 0 0 1 15 15\"/>",
+    "jsx": null
+  },
+  "wifi-2": {
+    "svg": "<path d=\"M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12\"/>",
+    "jsx": null
+  },
+  "wifi": {
+    "svg": "<path d=\"M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12M3 9A12 12 0 0 1 21 9\"/>",
+    "jsx": null
+  },
+  "mobile": {
+    "svg": "<path d=\"M6 19V5A2 2 0 0 18 3H16A2 2 0 0 1 18 5V19A2 2 0 0 1 16 21H8A2 2 0 0 1 6 19M12 18V18.01\"/>",
+    "jsx": null
+  },
+  "tablet": {
+    "svg": "<path d=\"M5 19V5A2 2 0 0 17 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19M12 18V18.01\"/>",
+    "jsx": null
+  },
+  "chip": {
+    "svg": "<path d=\"M5 17V7A2 2 0 0 1 7 5 H17A2 2 0 0 1 19 7V17A2 2 0 0 1 17 19H7A2 2 0 0 1 5 17M3 15H5M3 9H5M9 3V5M15 3V5M21 9H19M21 15H19M15 21V19M9 21V19M9 9H15V15H9V9\"/>",
+    "jsx": null
+  },
+  "desktop": {
+    "svg": "<path d=\"M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V16A1 1 0 0 1 20 17H4A1 1 0 0 1 3 16V5M12 17V20M8 21H16\"/>",
+    "jsx": null
+  },
+  "desktop-2": {
+    "svg": "<path d=\"M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V16A1 1 0 0 1 20 17H4A1 1 0 0 1 3 16V5M9 17V21M7 21H17M15 17V21\"/>",
+    "jsx": null
+  },
+  "laptop": {
+    "svg": "<path d=\"M4 6A1 1 0 0 1 5 5H19A1 1 0 0 1 20 6V16A1 1 0 0 1 19 17H5A1 1 0 0 1 4 16V6M3 20H21\"/>",
+    "jsx": null
+  },
+  "microphone": {
+    "svg": "<path d=\"M5 11A7 7 0 0 0 19 11M12 18V22M8 22H16M9 11V5A3 3 0 0 1 15 5V11A3 3 0 0 1 9 11\"/>",
+    "jsx": null
+  },
+  "tv": {
+    "svg": "<path d=\"M3 9A2 2 0 0 1 5 7H19A2 2 0 0 1 21 9V18A2 2 0 0 1 19 20H5A2 2 0 0 1 3 18V9M8 3L12 7L16 3\"/>",
+    "jsx": null
+  },
+  "battery": {
+    "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9\"/>",
+    "jsx": null
+  },
+  "battery-1": {
+    "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14\"/>",
+    "jsx": null
+  },
+  "battery-2": {
+    "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14\"/>",
+    "jsx": null
+  },
+  "battery-3": {
+    "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14M13 10V14\"/>",
+    "jsx": null
+  },
+  "battery-4": {
+    "svg": "<path d=\"M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14M13 10V14M16 10V14\"/>",
+    "jsx": null
+  },
+  "bluetooth": {
+    "svg": "<path d=\"M7 8L17 16L12 20V4L17 8L7 16\"/>",
+    "jsx": null
+  },
+  "mouse": {
+    "svg": "<path d=\"M6 7A4 4 0 0 1 10 3H14A4 4 0 0 1 18 7V17A4 4 0 0 1 14 21H10A4 4 0 0 1 6 17V7M12 7V11\"/>",
+    "jsx": null
+  },
+  "keyboard": {
+    "svg": "<path d=\"M2 8A2 2 0 0 1 4 6H20A2 2 0 0 1 22 8V16A2 2 0 0 1 20 18H4A2 2 0 0 1 2 16V8M10 14H14M6 14H6.01M18 14H18.01M6 10H6.01M10 10H10.01M14 10H14.01M18 10H18.01\"/>",
+    "jsx": null
+  },
+  "power": {
+    "svg": "<path d=\"M12 5V12M7 6A7.75 7.75 0 1 0 17 6\"/>",
+    "jsx": null
+  },
+  "chart-bar": {
+    "svg": "<path d=\"M9 19A2 2 0 0 1 7 21H5A2 2 0 0 1 3 19V13A2 2 0 0 1 5 11H7A2 2 0 0 1 9 13V19A2 2 0 0 0 11 21H13A2 2 0 0 0 15 19V5A2 2 0 0 1 17 3H19A2 2 0 0 1 21 5V19A2 2 0 0 1 19 21H17A2 2 0 0 1 15 19M9 13V9A2 2 0 0 1 11 7H13A2 2 0 0 1 15 9\"/>",
+    "jsx": null
+  },
+  "chart-pie": {
+    "svg": "<path d=\"M11 13H21A9 9 0 1 1 11 3V13M15 9H20.5A9 9 0 0 0 15 3.5V9\"/>",
+    "jsx": null
+  },
+  "globe": {
+    "svg": "<path d=\"M4 9H20M4 15H20M12 3A14 14 0 0 0 12 21M12 3A14 14 0 0 1 12 21\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M4 9H20M4 15H20M12 3A14 14 0 0 0 12 21M12 3A14 14 0 0 1 12 21\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "hashtag": {
+    "svg": "<path d=\"M6 9H20M4 15H18M7 20L11 4M13 20L17 4\"/>",
+    "jsx": null
+  },
+  "lock-locked": {
+    "svg": "<path d=\"M4 13A2 2 0 0 1 6 11H18A2 2 0 0 1 20 13V19A2 2 0 0 1 18 21H6A2 2 0 0 1 4 19V13M12 15V17M8 11V7A4 4 0 0 1 16 7V11\"/>",
+    "jsx": null
+  },
+  "lock-open": {
+    "svg": "<path d=\"M4 13A2 2 0 0 1 6 11H18A2 2 0 0 1 20 13V19A2 2 0 0 1 18 21H6A2 2 0 0 1 4 19V13M12 15V17M8 11V7A4 4 0 0 1 16 7\"/>",
+    "jsx": null
+  },
+  "login": {
+    "svg": "<path d=\"M16 16V17A3 3 0 0 1 13 20H6A3 3 0 0 1 3 17V7A3 3 0 0 1 6 4H13A3 3 0 0 1 16 7V8M7 12H21M11 8L7 12L11 16\"/>",
+    "jsx": null
+  },
+  "logout": {
+    "svg": "<path d=\"M13 16V18A2 2 0 0 1 11 20H5A2 2 0 0 1 3 18V6A2 2 0 0 1 5 4H11A2 2 0 0 1 13 6V8M21 12H7M17 8L21 12L17 16\" />",
+    "jsx": null
+  },
+  "credit-card": {
+    "svg": "<path d=\"M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V16A3 3 0 0 1 18 19H6A3 3 0 0 1 3 16V8M3 10H21M7 14H8M12 14H13\"/>",
+    "jsx": null
+  },
+  "filter": {
+    "svg": "<path d=\"M3 4A1 1 0 0 1 4 3H20A1 1 0 0 1 21 4V7L14 14V17L10 21V14L3 7V4\"/>",
+    "jsx": null
+  },
+  "chart-bubble": {
+    "svg": "<circle cx=\"6\" cy=\"16\" r=\"3\"></circle><circle cx=\"16\" cy=\"19\" r=\"2\"></circle><circle cx=\"14.5\" cy=\"7.5\" r=\"4.5\"></circle>",
+    "jsx": "<circle cx={6} cy={16} r={3}></circle><circle cx={16} cy={19} r={2}></circle><circle cx={14.5} cy={7.5} r={4.5}></circle>"
+  },
+  "chart-line": {
+    "svg": "<path d=\"M4 19H20M4 15L8 9L12 11L16 6L20 10\"/>",
+    "jsx": null
+  },
+  "chart-arrows-vertical": {
+    "svg": "<path d=\"M3 21H21M6 21V3M3 6L6 3L9 6M9 15L12 12L15 15M15 10L18 7L21 10M12 21V12M18 21V7\"/>",
+    "jsx": null
+  },
+  "chart-arrows-horizontal": {
+    "svg": "<path d=\"M3 3V21M3 6H21M3 12H12M3 18H17M18 3L21 6L18 9M9 9L12 12L9 15M14 15L17 18L14 21\"/>",
+    "jsx": null
+  },
+  "cloudy": {
+    "svg": "<path d=\"M9 20A7.45 7.5 0 1 1 16 9A2 2 0 0 1 17 20H9\"/>",
+    "jsx": null
+  },
+  "mist": {
+    "svg": "<path d=\"M5 5H7M11 5H21M3 10H6M10 10H11M15 10H19M5 15H9M13 15H14M18 15H21M3 20H13M17 20H19\"/>",
+    "jsx": null
+  },
+  "windy": {
+    "svg": "<path d=\"M11.5 4A2.5 2.5 0 1 1 13.5 8H5A2 2 0 0 0 5 12H18.5A2.5 2.5 0 1 1 16.5 16M4 16H10.5A2.5 2.5 0 1 1 8.5 20\"/>",
+    "jsx": null
+  },
+  "tornado": {
+    "svg": "<path d=\"M3 4H21M5 8H19M9 12H21M11 16H17M9 20H13\"/>",
+    "jsx": null
+  },
+  "lightning-bolt": {
+    "svg": "<path d=\"M4 14H11V21L20 10H13V3L4 14\"/>",
+    "jsx": null
+  },
+  "pizza": {
+    "svg": "<path d=\"M12 3L3.5 19.5A20 20 0 0 0 20.5 19.5L12 3M5.5 16A17 17 0 0 0 18.5 16M13 11V11.01M11 14V14.01\"/>",
+    "jsx": null
+  },
+  "play": {
+    "svg": "<path d=\"M7 4V20L20 12Z\"/>",
+    "jsx": null
+  },
+  "pause": {
+    "svg": "<path d=\"M6 17V7A2 2 0 0 1 10 7V17A2 2 0 0 1 6 17M14 17V7A2 2 0 0 1 18 7V17A2 2 0 0 1 14 17\"/>",
+    "jsx": null
+  },
+  "rewind": {
+    "svg": "<path d=\"M2 12L10 5V19ZM13 12L21 5V19Z\"/>",
+    "jsx": null
+  },
+  "fast-forward": {
+    "svg": "<path d=\"M11 12L3 19V5ZM22 12L14 19V5Z\"/>",
+    "jsx": null
+  },
+  "eject": {
+    "svg": "<path d=\"M5 18H19M12 5L6 14H18Z\"/>",
+    "jsx": null
+  },
+  "repeat": {
+    "svg": "<path d=\"M4 12V9A3 3 0 0 1 7 6H20M17 3L20 6L17 9M20 12V15A3 3 0 0 1 17 18H4M7 21L4 18L7 15\"/>",
+    "jsx": null
+  },
+  "repeat-once": {
+    "svg": "<path d=\"M4 12V9A3 3 0 0 1 7 6H20M17 3L20 6L17 9M20 12V15A3 3 0 0 1 17 18H4M7 21L4 18L7 15M11 11L12 10V14\"/>",
+    "jsx": null
+  },
+  "shuffle": {
+    "svg": "<path d=\"M18 3L21 6L18 9M18 21L21 18L18 15M3 6C9 6 10 9 11 12S13 18 18 18H21M3 18C9 18 10 15 11 12S13 6 18 6H21\"/>",
+    "jsx": null
+  },
+  "fullscreen": {
+    "svg": "<path d=\"M3 9V4H8M16 4H21V9M21 15V20H16M8 20H3V15\"/>",
+    "jsx": null
+  },
+  "fullscreen-exit": {
+    "svg": "<path d=\"M7 4V8H3M17 4V8 H21M3 16H7V20M17 20V16H21\"/>",
+    "jsx": null
+  },
+  "photo": {
+    "svg": "<path d=\"M4 15L8 11A3 5 0 0 1 11 11L16 16M14 14L15 13A3 5 0 0 1 18 13L20 15M4 17V7A3 3 0 0 1 7 4H17A3 3 0 0 1 20 7V17A3 3 0 0 1 17 20H7A3 3 0 0 1 4 17M15 8V8.01\"/>",
+    "jsx": null
+  },
+  "cast": {
+    "svg": "<path d=\"M15 19H18A3 3 0 0 0 21 16V8A3 3 0 0 0 18 5H6A3 3 0 0 0 3.2 7M3 19V19.01M3 15A4 4 0 0 1 7 19M3 11A8 8 0 0 1 11 19\"/>",
+    "jsx": null
+  },
+  "inbox-in": {
+    "svg": "<path d=\"M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H8M4 13H7L10 16H14L17 13H20M12 3V11M9 8L12 11L15 8\"/>",
+    "jsx": null
+  },
+  "inbox": {
+    "svg": "<path d=\"M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H16M4 13H7L10 16H14L17 13H20\"/>",
+    "jsx": null
+  },
+  "qrcode": {
+    "svg": "<path d=\"M16 20H20M18 16H20M20 12H20.01M4 12H8M12 4V5M12 9V12H16M12 20V16H14M4 7V5A1 1 0 0 1 5 4H7A1 1 0 0 1 8 5V7A1 1 0 0 1 7 8H5A1 1 0 0 1 4 7M16 7V5A1 1 0 0 1 17 4H19A1 1 0 0 1 20 5V7A1 1 0 0 1 19 8H17A1 1 0 0 1 16 7 M4 19V17A1 1 0 0 1 5 16H7A1 1 0 0 1 8 17V19A1 1 0 0 1 7 20H5A1 1 0 0 1 4 19\"/>",
+    "jsx": null
+  },
+  "qrcode-2": {
+    "svg": "<path d=\"M4 5A1 1 0 0 1 5 4H9A1 1 0 0 1 10 5V9A1 1 0 0 1 9 10H5A 1 1 0 0 1 4 9V5M7 7V7.01M14 5A1 1 0 0 1 15 4H19A1 1 0 0 1 20 5V9A1 1 0 0 1 19 10H15A1 1 0 0 1 14 9V5M17 7V7.01M4 15A1 1 0 0 1 5 14H9A1 1 0 0 1 10 15V19A1 1 0 0 1 9 20H5A1 1 0 0 1 4 19V15M7 17V17.01M14 14V14.01M17 14H20M14 20V17H17M20 17V20H17\"/>",
+    "jsx": null
+  },
+  "refresh": {
+    "svg": "<path d=\"M4 4V9H9M4.5 9A8.1 8.1 0 0 1 20 11M15 15H20V20M19.5 15A8.1 8.1 0 0 1 4 13\"/>",
+    "jsx": null
+  },
+  "translate": {
+    "svg": "<path d=\"M3 5H15M9 3V5M13 5A18 20 0 0 1 3 18M6.5 9A20 20 0 0 0 10 14.5M11 21L16 11L21 21M13 18H19\"/>",
+    "jsx": null
+  },
+  "trending-down": {
+    "svg": "<path d=\"M3 7L9 13L13 9L21 17M21 9V17H13\"/>",
+    "jsx": null
+  },
+  "trending-up": {
+    "svg": "<path d=\"M3 17L9 11L13 15L21 7M13 7L21 7L21 15\"/>",
+    "jsx": null
+  },
+  "crop": {
+    "svg": "<path d=\"M8 5V15A1 1 0 0 0 9 16H19M5 8H15A1 1 0 0 1 16 9V19\"/>",
+    "jsx": null
+  },
+  "tag": {
+    "svg": "<path d=\"M7 3 H12Q13 3 14 4L20 10Q22 12 20 14L14 20Q12 22 10 20L4 14Q3 13 3 12L3 7A4 4 0 0 1 7 3M7 7V7.01\"/>",
+    "jsx": null
+  },
+  "barcode": {
+    "svg": "<path d=\"M4 7V6A2 2 0 0 1 6 4H8M16 4H18A2 2 0 0 1 20 6V7M20 17V18A2 2 0 0 1 18 20H16M8 20H6A2 2 0 0 1 4 18V17M5 11V13H6V11H5M10 11V13M14 11V13H15V11H14M19 11V13\"/>",
+    "jsx": null
+  },
+  "send-plane": {
+    "svg": "<path d=\"M4 9L20 4L15 20L12 12Z\"/>",
+    "jsx": null
+  },
+  "text-wrap": {
+    "svg": "<path d=\"M4 5H20M4 12H16.5A3 3 0 0 1 16.5 19H13M4 19H8M15 17L13 19L15 21\"/>",
+    "jsx": null
+  },
+  "pulse": {
+    "svg": "<path d=\"M2 12H6L9 5L15 19L18 12H22\"/>",
+    "jsx": null
+  },
+  "droplet": {
+    "svg": "<path d=\"M12 3L6.8 11A6 6 0 1 0 17.2 11Z\"/>",
+    "jsx": null
+  },
+  "scan": {
+    "svg": "<path d=\"M4 7V6A2 2 0 0 1 6 4H8M16 4H18A2 2 0 0 1 20 6V7M20 17V18A2 2 0 0 1 18 20H16M8 20H6A2 2 0 0 1 4 18V17M5 12H19\"/>",
+    "jsx": null
+  },
+  "rainbow": {
+    "svg": "<path d=\"M2 17A10 10 0 0 1 22 17M6 17A6 6 0 0 1 18 17M10 17A2 2 0 0 1 14 17\"/>",
+    "jsx": null
+  },
+  "temperature": {
+    "svg": "<path d=\"M10 13.5V5A2 2 0 0 1 14 5V13.5A4 4 0 1 1 10 13.5M10 9H14\"/>",
+    "jsx": null
+  },
+  "haze": {
+    "svg": "<path d=\"M3 16H21M3 20H21M3 12H4M5.6 5.6L6.3 6.3M12 3V4M18.4 5.6L17.7 6.3M20 12H21M8 12A4 4 0 0 1 16 12\"/>",
+    "jsx": null
+  },
+  "meteor": {
+    "svg": "<path d=\"M4 13A8 8 0 0 0 20 13V2.5L13 5.75V3.25L8 6A8 8 0 0 0 4 13\"/><circle cx=\"12\" cy=\"13\" r=\"4\"></circle>",
+    "jsx": "<path d=\"M4 13A8 8 0 0 0 20 13V2.5L13 5.75V3.25L8 6A8 8 0 0 0 4 13\"/><circle cx={12} cy={13} r={4}></circle>"
+  },
+  "comet": {
+    "svg": "<path d=\"M4 9L7.5 12.5M4 4L11 11M9 4L12.5 7.5M15.5 11L17 14L20 14.5L18 16.5L18.5 20L15.5 18.5L12.5 20L13 16.5L11 14.5L14 14Z\"/>",
+    "jsx": null
+  },
+  "calculator-2": {
+    "svg": "<path d=\"M5 19V5A2 2 0 0 1 7 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A 2 2 0 0 1 5 19M9 7H15M9 11V11.01M12 11V11.01M15 11V11.01M9 14V14.01M12 14V14.01M15 14V14.01M9 17H12M15 17V17.01\"/>",
+    "jsx": null
+  },
+  "send-plane-2": {
+    "svg": "<path d=\"M4 3V21L21 12ZM4 12H10\"/>",
+    "jsx": null
+  },
+  "at": {
+    "svg": "<path d=\"M16 12V13.5A2.5 2.5 0 0 0 21 13.5V11A9 9 0 1 0 15.5 20.28\"/><circle cx=\"12\" cy=\"12\" r=\"4\"></circle>",
+    "jsx": "<path d=\"M16 12V13.5A2.5 2.5 0 0 0 21 13.5V11A9 9 0 1 0 15.5 20.28\"/><circle cx={12} cy={12} r={4}></circle>"
+  },
+  "radius-bottom-left": {
+    "svg": "<path d=\"M5 5V11A8 8 0 0 0 13 19H19\"/>",
+    "jsx": null
+  },
+  "radius-bottom-right": {
+    "svg": "<path d=\"M19 5V11A8 8 0 0 1 11 19H5\"/>",
+    "jsx": null
+  },
+  "radius-top-right": {
+    "svg": "<path d=\"M19 19V13A8 8 0 0 0 11 5H5\"/>",
+    "jsx": null
+  },
+  "radius-top-left": {
+    "svg": "<path d=\"M5 19V13A8 8 0 0 1 13 5H19\"/>",
+    "jsx": null
+  },
+  "angle": {
+    "svg": "<path d=\"M12 4 L3 19H21M15.415 5.97H15.43M17.715 8.67H17.73M19.515 11.771H19.63M20.615 15.171H20.63\"/>",
+    "jsx": null
+  },
+  "droplet-half": {
+    "svg": "<path d=\"M12 3L6.8 11A6 6 0 1 0 17.2 11ZM12 3V20\"/>",
+    "jsx": null
+  },
+  "droplet-half-2": {
+    "svg": "<path d=\"M12 3L6.8 11A6 6 0 1 0 17.2 11ZM6 14H18\"/>",
+    "jsx": null
+  },
+  "flip-horizontal": {
+    "svg": "<path d=\"M3 12H21M7 3 V8H17ZM7 21V16H17Z\"/>",
+    "jsx": null
+  },
+  "flip-vertical": {
+    "svg": "<path d=\"M12 3V21M8 7V17H3ZM16 7V17H21Z\"/>",
+    "jsx": null
+  },
+  "cube": {
+    "svg": "<path d=\"M4 7V17L12 21V11ZL12 3L20 7V17L12 21M12 11L20 7\"/>",
+    "jsx": null
+  },
+  "cube-transparent": {
+    "svg": "<path d=\"M4 9.5V7L6 8M6 6L4 7M10 4L12 3L14 4M18 6L20 7V9.5M18 8L20 7M10 10L12 11L14 10M12 11V13.5M4 14.5V17L6 18M10 20L12 21L14 20M12 21V18.5M20 14.5V17L18 18\"/>",
+    "jsx": null
+  },
+  "identification": {
+    "svg": "<path d=\"M10 6V5A2 2 0 0 1 14 5V6A2 2 0 0 1 10 6V6H5A2 2 0 0 0 3 8V17A2 2 0 0 0 5 19H19A2 2 0 0 0 21 17V8A2 2 0 0 0 19 6H14M6 16.2A3.05 3.05 0 0 1 11.8 16M9 10A2 2 0 0 1 9 14A2 2 0 0 1 9 10M15 11H18M15 15H17\"/>",
+    "jsx": null
+  },
+  "corner-radius": {
+    "svg": "<path d=\"M4 12V8A4 4 0 0 1 8 4H12M16 4V4.01M20 4V4.01M20 8V8.01M20 12V12.01M20 16V16.01M20 20V20.01M16 20V20.01M12 20V20.01M8 20V20.01M4 20V20.01M4 16V16.01\"/>",
+    "jsx": null
+  },
+  "flag": {
+    "svg": "<path d=\"M5 21V5A5 5 0 0 1 12 5A5 5 0 0 0 19 5V14A5 5 0 0 1 12 14A5 5 0 0 0 5 14\"/>",
+    "jsx": null
+  },
+  "flag-2": {
+    "svg": "<path d=\"M5 21V5H12L13 6H19V15H13L12 14H5\"/>",
+    "jsx": null
+  },
+  "flag-3": {
+    "svg": "<path d=\"M5 21V5H19V14H5\"/>",
+    "jsx": null
+  },
+  "flag-4": {
+    "svg": "<path d=\"M5 21V5H19L14.5 9.5L19 14H5\"/>",
+    "jsx": null
+  },
+  "pin": {
+    "svg": "<path d=\"M9 11A3 3 0 0 1 15 11A3 3 0 0 1 9 11M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>",
+    "jsx": null
+  },
+  "pin-2": {
+    "svg": "<path d=\"M12 10A1 1 0 0 1 12 12A1 1 0 0 1 12 10M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>",
+    "jsx": null
+  },
+  "pin-plus": {
+    "svg": "<path d=\"M12 8V14M9 11H15M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>",
+    "jsx": null
+  },
+  "pin-time": {
+    "svg": "<path d=\"M12 7V12H16M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z\"/>",
+    "jsx": null
+  },
+  "pin-user": {
+    "svg": "<path d=\"M12 7A2 2 0 0 1 12 11A2 2 0 0 1 12 7M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657ZM7.25 17.564A4.9 4.9 0 0 1 16.75 17.654\"/>",
+    "jsx": null
+  },
+  "compass": {
+    "svg": "<path d=\"M8.5 15.5L13.5 13.5L15.5 8.5L10.5 10.5Z\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M8.5 15.5L13.5 13.5L15.5 8.5L10.5 10.5Z\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "compass-2": {
+    "svg": "<path d=\"M16 3.938A9 9 0 1 0 20 7.877M12 12L18.5 5.5\"/>",
+    "jsx": null
+  },
+  "gps": {
+    "svg": "<path d=\"M7 12L16 8L12 17L11 13Z\"/><circle cx=\"12\" cy=\"12\" r=\"9\"></circle>",
+    "jsx": "<path d=\"M7 12L16 8L12 17L11 13Z\"/><circle cx={12} cy={12} r={9}></circle>"
+  },
+  "user-2": {
+    "svg": "<path d=\"M19 21H5A5 5 0 0 1 19 21\"/><circle cx=\"12\" cy=\"7\" r=\"4\"></circle>",
+    "jsx": "<path d=\"M19 21H5A5 5 0 0 1 19 21\"/><circle cx={12} cy={7} r={4}></circle>"
+  },
+  "user-minus": {
+    "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11H22\"/>",
+    "jsx": null
+  },
+  "user-plus": {
+    "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11H22M19 8V14\"/>",
+    "jsx": null
+  },
+  "user-x": {
+    "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M17 9L21 13M17 13L21 9\"/>",
+    "jsx": null
+  },
+  "user-check": {
+    "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11L18 13L22 9\"/>",
+    "jsx": null
+  },
+  "user-exclamation": {
+    "svg": "<path d=\"M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M19 7V10M19 14V14.01\"/>",
+    "jsx": null
+  },
+  "user-3": {
+    "svg": "<path d=\"M12 3A6 6 0 0 1 12 17A6 6 0 0 1 12 3M6 21H18\"/>",
+    "jsx": null
+  },
+  "oval": {
+    "svg": "<path d=\"M12 3A6 9 0 1 1 12 21A6 9 0 1 1 12 3\"/>",
+    "jsx": null
+  },
+  "oval-horizontal": {
+    "svg": "<path d=\"M3 12A9 6 0 1 1 21 12A9 6 0 1 1 3 12\"/>",
+    "jsx": null
+  },
+  "triangle": {
+    "svg": "<path d=\"M5 19A2 2 0 0 1 3.16 16.25L10.24 4A2 2 0 0 1 13.74 4L20.84 16.25A2 2 0 0 1 19 19Z\"/>",
+    "jsx": null
+  },
+  "number-0": {
+    "svg": "<path d=\"M8 8A4 4 0 1 1 16 8V16A4 4 0 1 1 8 16Z\"/>",
+    "jsx": null
+  },
+  "number-1": {
+    "svg": "<path d=\"M13 20V4L8 5.5\"/>",
+    "jsx": null
+  },
+  "number-2": {
+    "svg": "<path d=\"M8 8A4 4 0 1 1 16 8C16 9.098 15.436 10.025 14.841 10.815L8 20H16\"/>",
+    "jsx": null
+  },
+  "number-3": {
+    "svg": "<path d=\"M8 8 A4 4 0 1 1 12 12A4 4 0 1 1 8 16\"/>",
+    "jsx": null
+  },
+  "number-4": {
+    "svg": "<path d=\"M15 20V5L7 16H17\"/>",
+    "jsx": null
+  },
+  "number-5": {
+    "svg": "<path d=\"M16 4H8V12A5 5 0 1 1 8 18\"/>",
+    "jsx": null
+  },
+  "number-6": {
+    "svg": "<path d=\"M8 15A4 4 0 0 1 16 15V16A4 4 0 0 1 8 16V8A4 4 0 0 1 16 8\"/>",
+    "jsx": null
+  },
+  "number-7": {
+    "svg": "<path d=\"M8 4H16L12 20\"/>",
+    "jsx": null
+  },
+  "number-8": {
+    "svg": "<path d=\"M12 4A4 4 0 0 1 12 12A4 4 0 0 0 12 20A4 4 0 0 0 12 12A4 4 0 0 1 12 4\"/>",
+    "jsx": null
+  },
+  "number-9": {
+    "svg": "<path d=\"M16 9A4 4 0 0 1 8 9V8A4 4 0 0 1 16 8V16A4 4 0 0 1 8 16\"/>",
+    "jsx": null
+  },
+  "mood-neutral": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01\"/>",
+    "jsx": null
+  },
+  "mood-smile": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9.5 15A3.5 3.5 0 0 0 14.5 15\"/>",
+    "jsx": null
+  },
+  "mood-happy": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 9V9.01M15 9V9.01M8 13H16A4 4 0 0 1 8 13\"/>",
+    "jsx": null
+  },
+  "mood-sad": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 11V11.01M15 11V11.01M9.5 16A3.5 3.5 0 0 1 14.5 16\"/>",
+    "jsx": null
+  },
+  "mood-laugh": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M8 9A2 2 0 0 1 10 9M14 9A2 2 0 0 1 16 9M8 13A20 20 0 0 1 16 13A4 4 0 0 1 8 13\"/>",
+    "jsx": null
+  },
+  "mood-blank": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9 15H15\"/>",
+    "jsx": null
+  },
+  "mood-suprised": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 9V9.01M15 9V9.01M12 13A2 2 0 0 1 12 17A2 2 0 0 1 12 13\"/>",
+    "jsx": null
+  },
+  "mood-nervous": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8 16L10 14L12 16L14 14L16 16\"/>",
+    "jsx": null
+  },
+  "mood-tongue": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8.5 14H15.5M10 14V16A2 2 0 0 0 14 16V14\"/>",
+    "jsx": null
+  },
+  "mood-confused": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9.5 16A10 10 0 0 1 15.5 14.5\"/>",
+    "jsx": null
+  },
+  "mood-angry": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 11V11.01M15 11V11.01M9.5 16A3.5 3.5 0 0 1 14.5 16M8 10L10 10.25M16 10L14 10.25\"/>",
+    "jsx": null
+  },
+  "mood-relieved": {
+    "svg": "<path d=\"M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M8 10A2 2 0 0 0 10 10M14 10A2 2 0 0 0 16 10M9.5 15A3.5 3.5 0 0 0 14.5 15\"/>",
+    "jsx": null
+  },
+  "column-insert-left": {
+    "svg": "<path d=\"M7 10V14M5 12H9M13 5A1 1 0 0 1 14 4H18A1 1 0 0 1 19 5V19A1 1 0 0 1 18 20H14A1 1 0 0 1 13 19Z\"/>",
+    "jsx": null
+  },
+  "column-insert-right": {
+    "svg": "<path d=\"M5 5A1 1 0 0 1 6 4H10A1 1 0 0 1 11 5V19A1 1 0 0 1 10 20H6A1 1 0 0 1 5 19ZM17 10V14M15 12H19\"/>",
+    "jsx": null
+  },
+  "table": {
+    "svg": "<path d=\"M4 6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18ZM10 4V20M4 10H20\"/>",
+    "jsx": null
+  },
+  "table-import": {
+    "svg": "<path d=\"M4 13.5V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H12M2 19H9M6 16L9 19L6 22M4 10H20M10 4V15.5\"/>",
+    "jsx": null
+  },
+  "table-export": {
+    "svg": "<path d=\"M11.5 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V13.5M10 5V20M4 10H20M14 19H21M18 16L21 19L18 22\"/>",
+    "jsx": null
+  },
+  "wallet": {
+    "svg": "<path d=\"M4 18V6A2 2 0 0 1 6 4H16A1 1 0 0 1 17 5V8H19A1 1 0 0 1 20 9V19A1 1 0 0 1 19 20H6A2 2 0 0 1 4 18M4 6A2 2 0 0 0 6 8H17M14 14H17\"/>",
+    "jsx": null
+  },
+  "wallet-2": {
+    "svg": "<path d=\"M4 18V6A2 2 0 0 1 6 4H16A1 1 0 0 1 17 5V8H18A1 1 0 0 1 19 9V12H20V16H16A2 2 0 0 1 16 12H19M19 16V19A1 1 0 0 1 18 20H6A2 2 0 0 1 4 18M4 6A2 2 0 0 0 6 8H17\"/>",
+    "jsx": null
+  },
+  "cash": {
+    "svg": "<path d=\"M7 15V11A2 2 0 0 1 9 9H17V7A2 2 0 0 0 15 5H5A2 2 0 0 0 3 7V13A2 2 0 0 0 5 15ZV17A2 2 0 0 0 9 19H19A2 2 0 0 0 21 17V11A2 2 0 0 0 19 9H17M14 12A2 2 0 0 1 14 16A2 2 0 0 1 14 12\"/>",
+    "jsx": null
+  },
+  "plus": {
+    "svg": "<path d=\"M12 5V19M5 12H19\"/>",
+    "jsx": null
+  },
+  "minus": {
+    "svg": "<path d=\"M5 12H19\"/>",
+    "jsx": null
+  },
+  "divide": {
+    "svg": "<path d=\"M5 12H19\"/><circle fill=\"currentColor\" cx=\"12\" cy=\"6\" r=\"1\"></circle><circle fill=\"currentColor\" cx=\"12\" cy=\"18\" r=\"1\"></circle>",
+    "jsx": "<path d=\"M5 12H19\"/><circle fill=\"currentColor\" cx={12} cy={6} r={1}></circle><circle fill=\"currentColor\" cx={12} cy={18} r={1}></circle>"
+  },
+  "close": {
+    "svg": "<path d=\"M6 6L18 18M6 18L18 6\"/>",
+    "jsx": null
+  },
+  "cake": {
+    "svg": "<path d=\"M3 21H21V14A2 2 0 0 0 19 12H5A2 2 0 0 0 3 14ZM3 15.5A2.5 2.5 0 0 1 4.5 16 2.5 2.5 0 0 0 6 16.5 2.5 2.5 0 0 0 7.5 16 2.5 2.5 0 0 1 9 15.5 2.5 2.5 0 0 1 10.5 16 2.5 2.5 0 0 0 12 16.5 2.5 2.5 0 0 0 13.5 16 2.5 2.5 0 0 1 15 15.5 2.5 2.5 0 0 1 16.5 16 2.5 2.5 0 0 0 18 16.5 2.5 2.5 0 0 0 19.5 16 2.5 2.5 0 0 1 21 15.5M6 12V10A2 2 0 0 1 8 8H16A2 2 0 0 1 18 10V12M9 3V3.01M12 3V3.01M15 3V3.01M9 6V8M12 6V8M15 6V8\"/>",
+    "jsx": null
+  },
+  "cake-2": {
+    "svg": "<path d=\"M3 15V20H21V12A3 3 0 0 0 18 9H6A3 3 0 0 0 3 12V15A2.5 2.5 0 0 0 6 14 2.5 2.5 0 0 1 8 13 2.5 2.5 0 0 1 10 14 2.5 2.5 0 0 0 12 15 2.5 2.5 0 0 0 14 14 2.5 2.5 0 0 1 16 13 2.5 2.5 0 0 1 18 14 2.5 2.5 0 0 0 21 15M12 4L13.465 5.638A2 2 0 1 1 10.45 5.638Z\"/>",
+    "jsx": null
+  },
+  "film": {
+    "svg": "<path d=\"M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V19A1 1 0 0 1 20 20H4A1 1 0 0 1 3 19ZM7 4V20M17 4V20M3 8H7M3 12H21M3 16H7M17 8H21M17 16H21\"/>",
+    "jsx": null
+  },
+  "phone": {
+    "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5Z\"/>",
+    "jsx": null
+  },
+  "phone-incoming": {
+    "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM20 4L15 9V5M15 9H19\"/>",
+    "jsx": null
+  },
+  "phone-outgoing": {
+    "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM20 4L15 9M16 4H20V8\"/>",
+    "jsx": null
+  },
+  "phone-x": {
+    "svg": "<path d=\"M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM16 4L20 8M16 8L20 4\"/>",
+    "jsx": null
+  },
+  "sd-card": {
+    "svg": "<path d=\"M9.5 3H18A1 1 0 0 1 19 4V20A1 1 0 0 1 18 21H6A1 1 0 0 1 5 20V7.5ZM10 7V8M13 6V8M16 6V8\"/>",
+    "jsx": null
+  },
+  "sd-card-mini": {
+    "svg": "<path d=\"M7 10V4A1 1 0 0 1 8 3H18A1 1 0 0 1 19 4V20A1 1 0 0 1 18 21H6A1 1 0 0 1 5 20V12ZM10 6V8M13 6V8M16 6V8\"/>",
+    "jsx": null
+  },
+  "usb": {
+    "svg": "<path d=\"M12 17A2 2 0 0 1 12 21 2 2 0 0 1 12 17V16L7 13V10A1 1 0 0 0 7 8 1 1 0 0 0 7 10M12 5.5H10L12 3L14 5.5ZV16M12 14.5L17 12.5V10H16V8H18V10H17\"/>",
+    "jsx": null
+  },
+  "download": {
+    "svg": "<path d=\"M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 12L12 16L16 12\"/>",
+    "jsx": null
+  },
+  "capsule": {
+    "svg": "<path d=\"M15.5 15.5L8.5 8.5L12.5 4.5A3.5 3.5 0 0 1 19.5 11.5L11.5 19.5A3.5 3.5 0 0 1 4.5 12.5L8.5 8.5\"/>",
+    "jsx": null
+  },
+  "thermometer": {
+    "svg": "<path d=\"M4 20L7 17V13L15 5A2 2 0 0 1 19 9L11 17H7M11 14L12.5 15.5M14 11L15.5 12.5M17 8L18.5 9.5\"/>",
+    "jsx": null
+  },
+  "trash": {
+    "svg": "<path d=\"M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M10 11V17M14 11V17M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7\"/>",
+    "jsx": null
+  },
+  "trash-x": {
+    "svg": "<path d=\"M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M10 12L14 16M10 16L14 12M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7\"/>",
+    "jsx": null
+  },
+  "trash-2": {
+    "svg": "<path d=\"M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M12 11V17M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7\"/>",
+    "jsx": null
+  },
+  "trash-3": {
+    "svg": "<path d=\"M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7\"/>",
+    "jsx": null
+  },
+  "row-insert-bottom": {
+    "svg": "<path d=\"M5 5H19A1 1 0 0 1 20 6V10A1 1 0 0 1 19 11H5A1 1 0 0 1 4 10V6A1 1 0 0 1 5 5M12 15V19M10 17H14\"/>",
+    "jsx": null
+  },
+  "row-insert-top": {
+    "svg": "<path d=\"M5 13H19A1 1 0 0 1 20 14V18A1 1 0 0 1 19 19H5A1 1 0 0 1 4 18V14A1 1 0 0 1 5 13M12 5V9M10 7H14\"/>",
+    "jsx": null
+  },
+  "letter-a": {
+    "svg": "<path d=\"M7 20V9A5 5 0 0 1 17 9V20M7 13H17\"/>",
+    "jsx": null
+  },
+  "letter-b": {
+    "svg": "<path d=\"M7 20V4H13A4 4 0 0 1 13 12A4 4 0 0 1 13 20ZM7 12H13\"/>",
+    "jsx": null
+  },
+  "letter-c": {
+    "svg": "<path d=\"M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15\"/>",
+    "jsx": null
+  },
+  "letter-d": {
+    "svg": "<path d=\"M17 10A6 6 0 0 0 11 4H7V20H11A6 6 0 0 0 17 14Z\"/>",
+    "jsx": null
+  },
+  "letter-e": {
+    "svg": "<path d=\"M7 20V4H17M7 12H15M7 20H17\"/>",
+    "jsx": null
+  },
+  "letter-f": {
+    "svg": "<path d=\"M7 20V4H17M7 12H15\"/>",
+    "jsx": null
+  },
+  "letter-g": {
+    "svg": "<path d=\"M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15V13H13\"/>",
+    "jsx": null
+  },
+  "letter-h": {
+    "svg": "<path d=\"M7 4V20M7 12H17M17 4V20\"/>",
+    "jsx": null
+  },
+  "letter-i": {
+    "svg": "<path d=\"M12 4V20\"/>",
+    "jsx": null
+  },
+  "letter-j": {
+    "svg": "<path d=\"M17 4V15A 5 5 0 0 1 7 15\"/>",
+    "jsx": null
+  },
+  "letter-k": {
+    "svg": "<path d=\"M7 4V20M17 4L9 12L17 20M7 12H9\"/>",
+    "jsx": null
+  },
+  "letter-l": {
+    "svg": "<path d=\"M7 4V20H17\"/>",
+    "jsx": null
+  },
+  "letter-m": {
+    "svg": "<path d=\"M6 20V4L12 12L18 4V20\"/>",
+    "jsx": null
+  },
+  "letter-n": {
+    "svg": "<path d=\"M7 20V4L17 20V4\"/>",
+    "jsx": null
+  },
+  "letter-o": {
+    "svg": "<path d=\"M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15Z\"/>",
+    "jsx": null
+  },
+  "letter-p": {
+    "svg": "<path d=\"M7 20V4H13A4 4 0 0 1 13 12H7\"/>",
+    "jsx": null
+  },
+  "letter-q": {
+    "svg": "<path d=\"M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15ZM13 15L18 20\"/>",
+    "jsx": null
+  },
+  "letter-r": {
+    "svg": "<path d=\"M7 20V4H13A4 4 0 0 1 13 12H7M11 12L17 20\"/>",
+    "jsx": null
+  },
+  "letter-s": {
+    "svg": "<path d=\"M17 8A4 4 0 0 0 13 4H11A4 4 0 0 0 11 12H13A4 4 0 0 1 13 20H11A4 4 0 0 1 7 16\"/>",
+    "jsx": null
+  },
+  "letter-t": {
+    "svg": "<path d=\"M7 4H17M12 4V20\"/>",
+    "jsx": null
+  },
+  "letter-u": {
+    "svg": "<path d=\"M7 4V15A5 5 0 0 0 17 15V4\"/>",
+    "jsx": null
+  },
+  "letter-v": {
+    "svg": "<path d=\"M7 4L12 20L17 4\"/>",
+    "jsx": null
+  },
+  "letter-w": {
+    "svg": "<path d=\"M6 4L9 20L12 8L15 20L18 4\"/>",
+    "jsx": null
+  },
+  "letter-x": {
+    "svg": "<path d=\"M7 4L17 20M7 20L17 4\"/>",
+    "jsx": null
+  },
+  "letter-y": {
+    "svg": "<path d=\"M7 4L12 12V20M12 12L17 4\"/>",
+    "jsx": null
+  },
+  "letter-z": {
+    "svg": "<path d=\"M7 4H17L7 20H17\"/>",
+    "jsx": null
+  }
 }

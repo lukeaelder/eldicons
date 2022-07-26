@@ -11,7 +11,7 @@ const MenuInfo = ({ menuSettings, closeMenu }) => {
             >
               {e}
             </p>
-          )
+          );
         })}
       </div>
       <div
@@ -34,7 +34,7 @@ const MenuInfo = ({ menuSettings, closeMenu }) => {
         </svg>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default MenuInfo
+export default MenuInfo;

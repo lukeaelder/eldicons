@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const TrendingDown = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const TrendingDown = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 7L9 13L13 9L21 17M21 9V17H13" />
     </svg>
-  )
-}
+  );
+};
 
-export default TrendingDown
+export default TrendingDown;

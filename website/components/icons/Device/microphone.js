@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Microphone = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Microphone = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M5 11A7 7 0 0 0 19 11M12 18V22M8 22H16M9 11V5A3 3 0 0 1 15 5V11A3 3 0 0 1 9 11" />
     </svg>
-  )
-}
+  );
+};
 
-export default Microphone
+export default Microphone;

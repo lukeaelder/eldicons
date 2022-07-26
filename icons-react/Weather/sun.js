@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Sun = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const Sun = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <circle cx={12} cy={12} r={4}></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default Sun
+export default Sun;

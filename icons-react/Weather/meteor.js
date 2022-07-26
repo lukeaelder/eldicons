@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Meteor = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const Meteor = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path d="M4 13A8 8 0 0 0 20 13V2.5L13 5.75V3.25L8 6A8 8 0 0 0 4 13" />
       <circle cx="12" cy="13" r="4"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default Meteor
+export default Meteor;

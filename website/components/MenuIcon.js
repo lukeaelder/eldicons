@@ -1,7 +1,7 @@
-import { useSharedState } from '../context/state'
+import { useSharedState } from '../context/state';
 
 const MenuIcon = ({ menuSettings }) => {
-  const [state, setState] = useSharedState()
+  const [state, setState] = useSharedState();
 
   return (
     <div className="relative w-fit rounded-[5px] border-[1px] border-slate-300 ">
@@ -75,7 +75,7 @@ const MenuIcon = ({ menuSettings }) => {
         )}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default MenuIcon
+export default MenuIcon;

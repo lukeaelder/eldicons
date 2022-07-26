@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Moon = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Moon = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646" />
     </svg>
-  )
-}
+  );
+};
 
-export default Moon
+export default Moon;

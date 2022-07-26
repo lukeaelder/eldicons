@@ -1,15 +1,17 @@
 {
   "name": "eldicons.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "auther": "Luke Elder",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "format": "prettier --write '**/*.js'"
   },
   "dependencies": {
     "disable-scroll": "^0.6.0",
+    "eldicons": "file:../eldicons-1.1.0.tgz",
     "fuse.js": "^6.6.2",
     "js-file-download": "^0.4.12",
     "next": "12.1.6",

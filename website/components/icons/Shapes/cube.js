@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Cube = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Cube = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4 7V17L12 21V11ZL12 3L20 7V17L12 21M12 11L20 7" />
     </svg>
-  )
-}
+  );
+};
 
-export default Cube
+export default Cube;

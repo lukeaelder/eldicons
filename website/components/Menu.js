@@ -1,60 +1,60 @@
-import { useEffect } from 'react'
-import { useSharedState } from '../context/state'
-import disableScroll from 'disable-scroll'
-import svgData from '../context/svgData.json'
-import MenuIcon from './MenuIcon'
-import MenuInfo from './MenuInfo'
-import fileDownload from 'js-file-download'
-import { toast } from 'react-toastify'
+import { useEffect } from 'react';
+import { useSharedState } from '../context/state';
+import disableScroll from 'disable-scroll';
+import svgData from '../context/svgData.json';
+import MenuIcon from './MenuIcon';
+import MenuInfo from './MenuInfo';
+import fileDownload from 'js-file-download';
+import { toast } from 'react-toastify';
 
 const Menu = () => {
-  const [state, setState] = useSharedState()
-  const { menuSettings, iconSettings } = state
+  const [state, setState] = useSharedState();
+  const { menuSettings, iconSettings } = state;
 
   useEffect(() => {
     if (menuSettings.open) {
-      disableScroll.on()
+      disableScroll.on();
     } else {
-      disableScroll.off()
+      disableScroll.off();
     }
-  }, [menuSettings])
+  }, [menuSettings]);
 
   const generateRes = (type) => {
-    let res = ''
-    res += svgData[type] + svgData.sizeBox
+    let res = '';
+    res += svgData[type] + svgData.sizeBox;
     res +=
       svgData[menuSettings.name][type] === null
         ? svgData[menuSettings.name]['svg']
-        : svgData[menuSettings.name][type]
-    res += '</svg>'
-    res = res.replace(/%s%/g, iconSettings.size).replace(/%sw%/g, iconSettings.stroke)
+        : svgData[menuSettings.name][type];
+    res += '</svg>';
+    res = res.replace(/%s%/g, iconSettings.size).replace(/%sw%/g, iconSettings.stroke);
     if (iconSettings.color === '#000' || iconSettings.color === '#000000') {
-      res = res.replace(/%c%/g, 'currentColor')
+      res = res.replace(/%c%/g, 'currentColor');
     } else {
-      res = res.replace(/%c%/g, iconSettings.color)
+      res = res.replace(/%c%/g, iconSettings.color);
     }
-    return res
-  }
+    return res;
+  };
 
   const closeMenu = () => {
     setState((prev) => ({
       ...prev,
       menuSettings: { ...state.menuSettings, open: false },
-    }))
-  }
+    }));
+  };
 
   const handleCopy = (type) => {
-    const res = generateRes(type)
-    toast.dismiss()
-    toast.clearWaitingQueue()
-    toast(`📋 copied ${menuSettings.name} as ${type.toUpperCase()}`)
-    navigator.clipboard.writeText(res)
-  }
+    const res = generateRes(type);
+    toast.dismiss();
+    toast.clearWaitingQueue();
+    toast(`📋 copied ${menuSettings.name} as ${type.toUpperCase()}`);
+    navigator.clipboard.writeText(res);
+  };
 
   const handleDownload = () => {
-    const res = generateRes('svg')
-    fileDownload(res, menuSettings.name + '.svg')
-  }
+    const res = generateRes('svg');
+    fileDownload(res, menuSettings.name + '.svg');
+  };
 
   return (
     <div
@@ -116,7 +116,7 @@ const Menu = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Menu
+export default Menu;

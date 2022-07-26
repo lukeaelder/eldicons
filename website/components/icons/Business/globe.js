@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Globe = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -17,7 +17,7 @@ const Globe = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path d="M4 9H20M4 15H20M12 3A14 14 0 0 0 12 21M12 3A14 14 0 0 1 12 21" />
       <circle cx="12" cy="12" r="9"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default Globe
+export default Globe;

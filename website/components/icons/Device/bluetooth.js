@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Bluetooth = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Bluetooth = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M7 8L17 16L12 20V4L17 8L7 16" />
     </svg>
-  )
-}
+  );
+};
 
-export default Bluetooth
+export default Bluetooth;

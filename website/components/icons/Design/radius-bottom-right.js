@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const RadiusBottomRight = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const RadiusBottomRight = ({ size = 24, color = 'currentColor', stroke = 2 }) =>
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M19 5V11A8 8 0 0 1 11 19H5" />
     </svg>
-  )
-}
+  );
+};
 
-export default RadiusBottomRight
+export default RadiusBottomRight;

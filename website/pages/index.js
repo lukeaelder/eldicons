@@ -1,10 +1,10 @@
-import IconGrid from '../components/IconGrid'
-import Search from '../components/Search'
-import Header from '../components/Header'
-import Menu from '../components/Menu'
-import Footer from '../components/Footer'
-import Head from 'next/head'
-import Notifications from '../components/Notifications'
+import IconGrid from '../components/IconGrid';
+import Search from '../components/Search';
+import Header from '../components/Header';
+import Menu from '../components/Menu';
+import Footer from '../components/Footer';
+import Head from 'next/head';
+import Notifications from '../components/Notifications';
 
 const Index = () => {
   return (
@@ -15,10 +15,10 @@ const Index = () => {
           name="description"
           content="276 free and open source SVG icons. Each icon is designed on a 24x24 grid for simplicity, consitency, and readability."
         />
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
-        <link rel="manifest" href="/site.webmanifest"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="manifest" href="/site.webmanifest" />
       </Head>
       <Header />
       <Notifications />
@@ -29,7 +29,7 @@ const Index = () => {
       <Footer />
       <Menu />
     </main>
-  )
-}
+  );
+};
 
-export default Index
+export default Index;

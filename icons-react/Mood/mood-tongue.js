@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const MoodTongue = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const MoodTongue = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8.5 14H15.5M10 14V16A2 2 0 0 0 14 16V14" />
     </svg>
-  )
-}
+  );
+};
 
-export default MoodTongue
+export default MoodTongue;

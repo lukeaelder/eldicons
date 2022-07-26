@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const SwitchHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const SwitchHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => 
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M8 7H20M16 3L20 7L16 11M4 17H16M8 13L4 17L8 20" />
     </svg>
-  )
-}
+  );
+};
 
-export default SwitchHorizontal
+export default SwitchHorizontal;

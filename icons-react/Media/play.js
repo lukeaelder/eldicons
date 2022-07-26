@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Play = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const Play = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M7 4V20L20 12Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default Play
+export default Play;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const FlipHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const FlipHorizontal = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M3 12H21M7 3 V8H17ZM7 21V16H17Z" />
     </svg>
-  )
-}
+  );
+};
 
-export default FlipHorizontal
+export default FlipHorizontal;

@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const ChartBubble = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -18,7 +18,7 @@ const ChartBubble = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <circle cx="16" cy="19" r="2"></circle>
       <circle cx="14.5" cy="7.5" r="4.5"></circle>
     </svg>
-  )
-}
+  );
+};
 
-export default ChartBubble
+export default ChartBubble;

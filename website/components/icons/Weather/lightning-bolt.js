@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const LightningBolt = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
   return (
@@ -16,7 +16,7 @@ const LightningBolt = ({ size = 24, color = 'currentColor', stroke = 2 }) => {
       <path fill="none" stroke="none" d="M0 0h24v24H0z" />
       <path d="M4 14H11V21L20 10H13V3L4 14" />
     </svg>
-  )
-}
+  );
+};
 
-export default LightningBolt
+export default LightningBolt;
