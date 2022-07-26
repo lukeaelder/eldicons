@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "disable-scroll": "^0.6.0",
-    "eldicons": "file:../eldicons-1.1.0.tgz",
     "fuse.js": "^6.6.2",
     "js-file-download": "^0.4.12",
     "next": "12.1.6",
