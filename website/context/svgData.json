@@ -1,0 +1,2021 @@
+{
+  "adjustments": {
+    "category": "System",
+    "tags": ["adjustments", "slider", "settings", "controls", "filter"],
+    "version": "1.0.0",
+    "path": "M6 4V14M6 18V20M12 4V6M12 10V20M18 4V14M18 18V20M6 14A2 2 0 0 1 6 18A2 2 0 0 1 6 14M12 6A2 2 0 0 1 12 10A2 2 0 0 1 12 6M18 14A2 2 0 0 1 18 18A2 2 0 0 1 18 14"
+  },
+  "align-center": {
+    "category": "Text",
+    "tags": ["align", "text", "center", "position", "alignment"],
+    "version": "1.0.0",
+    "path": "M4 6H20M8 12H16M6 18H18"
+  },
+  "align-justified": {
+    "category": "Text",
+    "tags": ["align", "text", "justified", "position", "alignment"],
+    "version": "1.0.0",
+    "path": "M4 6H20M4 12H20M4 18H16"
+  },
+  "align-left": {
+    "category": "Text",
+    "tags": ["align", "text", "left", "position", "alignment"],
+    "version": "1.0.0",
+    "path": "M4 6H20M4 12H15M4 18"
+  },
+  "align-right": {
+    "category": "Text",
+    "tags": ["align", "text", "right", "position", "alignment"],
+    "version": "1.0.0",
+    "path": "M4 6H20M9 12H20M6 18H20"
+  },
+  "angle": {
+    "category": "Design",
+    "tags": ["angle"],
+    "version": "1.0.0",
+    "path": "M12 4 L3 19H21M15.415 5.97H15.43M17.715 8.67H17.73M19.515 11.771H19.63M20.615 15.171H20.63"
+  },
+  "arrow-down": {
+    "category": "Arrows",
+    "tags": ["arrow", "down"],
+    "version": "1.0.0",
+    "path": "M12 5V19M6 13L12 19L18 13"
+  },
+  "arrow-down-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "circle"],
+    "version": "1.0.0",
+    "path": "M12 8V16M8 12L12 16L16 12M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-down-left": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "left"],
+    "version": "1.0.0",
+    "path": "M17 7L7 17M7 8L7 17L16 17"
+  },
+  "arrow-down-left-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "left", "circle"],
+    "version": "1.0.0",
+    "path": "M15 9L9 15M9 9L9 15L15 15M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-down-left-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "left", "narrow"],
+    "version": "1.0.0",
+    "path": "M17 7L7 17M7 12L7 17L12 17"
+  },
+  "arrow-down-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "narrow"],
+    "version": "1.0.0",
+    "path": "M12 5V19M8 15L12 19L16 15"
+  },
+  "arrow-down-right": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "right"],
+    "version": "1.0.0",
+    "path": "M7 7L17 17M17 8L17 17L8 17"
+  },
+  "arrow-down-right-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "right", "circle"],
+    "version": "1.0.0",
+    "path": "M9 9L15 15M15 9L15 15L9 15M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-down-right-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "down", "right", "narrow"],
+    "version": "1.0.0",
+    "path": "M7 7L17 17M17 12L17 17L12 17"
+  },
+  "arrow-left": {
+    "category": "Arrows",
+    "tags": ["arrow", "left", "back"],
+    "version": "1.0.0",
+    "path": "M5 12H19M11 6L5 12L11 18"
+  },
+  "arrow-left-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "left", "back", "circle"],
+    "version": "1.0.0",
+    "path": "M8 12H16M12 8L8 12L12 16M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-left-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "left", "back", "narrow"],
+    "version": "1.0.0",
+    "path": "M5 12H19M9 8L5 12L9 16"
+  },
+  "arrow-right": {
+    "category": "Arrows",
+    "tags": ["arrow", "right", "next"],
+    "version": "1.0.0",
+    "path": "M5 12H19M13 6L19 12L13 18"
+  },
+  "arrow-right-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "right", "next", "circle"],
+    "version": "1.0.0",
+    "path": "M8 12H16M12 8L16 12L12 16M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-right-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "right", "next", "narrow"],
+    "version": "1.0.0",
+    "path": "M5 12H19M15 8L19 12L15 16"
+  },
+  "arrow-up": {
+    "category": "Arrows",
+    "tags": ["arrow", "up"],
+    "version": "1.0.0",
+    "path": "M12 5V19M6 11L12 5L18 11"
+  },
+  "arrow-up-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "circle"],
+    "version": "1.0.0",
+    "path": "M12 8V16M8 12L12 8L16 12M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-up-left": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "left"],
+    "version": "1.0.0",
+    "path": "M7 7L17 17M7 16L7 7L16 7"
+  },
+  "arrow-up-left-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "left", "circle"],
+    "version": "1.0.0",
+    "path": "M9 9L15 15M9 15L9 9L15 9M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-up-left-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "left", "narrow"],
+    "version": "1.0.0",
+    "path": "M7 7L17 17M7 12L7 7L12 7"
+  },
+  "arrow-up-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "narrow"],
+    "version": "1.0.0",
+    "path": "M12 5V19M8 9L12 5L16 9"
+  },
+  "arrow-up-right": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "right"],
+    "version": "1.0.0",
+    "path": "M17 7L7 17M8 7L17 7L17 16"
+  },
+  "arrow-up-right-circle": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "right", "circle"],
+    "version": "1.0.0",
+    "path": "M15 9L9 15M9 9L15 9L15 15M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "arrow-up-right-narrow": {
+    "category": "Arrows",
+    "tags": ["arrow", "up", "right", "narrow"],
+    "version": "1.0.0",
+    "path": "M17 7L7 17M12 7L17 7L17 12"
+  },
+  "arrow-uturn-down-left": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "down", "left"],
+    "version": "1.2.0",
+    "path": "M21 12V9A6 6 0 0 0 9 9V21M3 15L9 21L15 15"
+  },
+  "arrow-uturn-down-right": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "down", "right"],
+    "version": "1.2.0",
+    "path": "M3 12V9A6 6 0 0 1 15 9V21M21 15L15 21L9 15"
+  },
+  "arrow-uturn-left-down": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "left", "down", "back", "reverse"],
+    "version": "1.2.0",
+    "path": "M12 3H15A6 6 0 0 1 15 15H3M9 21L3 15L9 9"
+  },
+  "arrow-uturn-left-up": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "left", "up", "back", "reverse"],
+    "version": "1.2.0",
+    "path": "M12 21H15A6 6 0 0 0 15 9H3M9 3L3 9L9 15"
+  },
+  "arrow-uturn-right-down": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "right", "down", "forward", "next"],
+    "version": "1.2.0",
+    "path": "M12 3H9A6 6 0 0 0 9 15H21M15 21L21 15L15 9"
+  },
+  "arrow-uturn-right-up": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "right", "up", "forward", "next"],
+    "version": "1.2.0",
+    "path": "M12 21H9A6 6 0 0 1 9 9H21M15 3L21 9L15 15"
+  },
+  "arrow-uturn-up-left": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "up", "left"],
+    "version": "1.2.0",
+    "path": "M21 12V15A6 6 0 0 1 9 15V3M3 9L9 3L15 9"
+  },
+  "arrow-uturn-up-right": {
+    "category": "Arrows",
+    "tags": ["arrow", "uturn", "up", "right"],
+    "version": "1.2.0",
+    "path": "M3 12V15A6 6 0 0 0 15 15V3M21 9L15 3L9 9"
+  },
+  "arrows-expand": {
+    "category": "Arrows",
+    "tags": ["arrows", "expand", "maximize", "fullscreen"],
+    "version": "1.0.0",
+    "path": "M4 4L9 9M4 8V4H8M20 4L15 9M16 4H20V8M4 20L 9 15M4 16V20 H8M20 20L15 15M20 16V20H16"
+  },
+  "at": {
+    "category": "Business",
+    "tags": ["at", "@", "email", "mention"],
+    "version": "1.0.0",
+    "path": "M16 12V13.5A2.5 2.5 0 0 0 21 13.5V11A9 9 0 1 0 15.5 20.28M12 8A4 4 0 0 1 12 16A4 4 0 0 1 12 8"
+  },
+  "ban": {
+    "category": "System",
+    "tags": ["ban", "reject", "restriction", "prohibited"],
+    "version": "1.0.0",
+    "path": "M6 6L18 18M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "barcode": {
+    "category": "Device",
+    "tags": ["barcode", "shop", "scan"],
+    "version": "1.0.0",
+    "path": "M4 7V6A2 2 0 0 1 6 4H8M16 4H18A2 2 0 0 1 20 6V7M20 17V18A2 2 0 0 1 18 20H16M8 20H6A2 2 0 0 1 4 18V17M5 11V13H6V11H5M10 11V13M14 11V13H15V11H14M19 11V13"
+  },
+  "battery": {
+    "category": "Device",
+    "tags": ["battery", "energy", "power", "electricity"],
+    "version": "1.0.0",
+    "path": "M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9"
+  },
+  "battery-1": {
+    "category": "Device",
+    "tags": ["battery", "1", "energy", "power", "electricity"],
+    "version": "1.0.0",
+    "path": "M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14"
+  },
+  "battery-2": {
+    "category": "Device",
+    "tags": ["battery", "2", "energy", "power", "electricity"],
+    "version": "1.0.0",
+    "path": "M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14"
+  },
+  "battery-3": {
+    "category": "Device",
+    "tags": ["battery", "3", "energy", "power", "electricity"],
+    "version": "1.0.0",
+    "path": "M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14M13 10V14"
+  },
+  "battery-4": {
+    "category": "Device",
+    "tags": ["battery", "4", "energy", "power", "electricity"],
+    "version": "1.0.0",
+    "path": "M4 9A2 2 0 0 1 6 7H17A2 2 0 0 1 19 9V10H20V14H19V15A2 2 0 0 1 17 17H6A2 2 0 0 1 4 15V9M7 10V14M10 10V14M13 10V14M16 10V14"
+  },
+  "bluetooth": {
+    "category": "Device",
+    "tags": ["bluetooth", "connection", "signal", "wireless"],
+    "version": "1.0.0",
+    "path": "M7 8L17 16L12 20V4L17 8L7 16"
+  },
+  "bookmark": {
+    "category": "Document",
+    "tags": ["bookmark", "save", "tag"],
+    "version": "1.0.0",
+    "path": "M8 4H16A2 2 0 0 1 18 6V20L12 16L6 20V6A2 2 0 0 1 8 4"
+  },
+  "braces": {
+    "category": "Development",
+    "tags": ["code", "brackets", "programming", "braces", "punctuation"],
+    "version": "1.0.0",
+    "path": "M8 4H7A2 2 0 0 0 5 6V9A2 3 0 0 1 3 12A2 3 0 0 1 5 15V18A2 2 0 0 0 7 20H8M16 4H17A2 2 0 0 1 19 6V9A2 3 0 0 0 21 12A2 3 0 0 0 19 15V18A 2 2 0 0 1 17 20H16"
+  },
+  "brackets": {
+    "category": "Development",
+    "tags": ["code", "brackets", "programming", "punctuation"],
+    "version": "1.0.0",
+    "path": "M8 4H5V20H8M16 4H19V20H16"
+  },
+  "cake": {
+    "category": "Food",
+    "tags": ["cake"],
+    "version": "1.0.0",
+    "path": "M3 21H21V14A2 2 0 0 0 19 12H5A2 2 0 0 0 3 14ZM3 15.5A2.5 2.5 0 0 1 4.5 16 2.5 2.5 0 0 0 6 16.5 2.5 2.5 0 0 0 7.5 16 2.5 2.5 0 0 1 9 15.5 2.5 2.5 0 0 1 10.5 16 2.5 2.5 0 0 0 12 16.5 2.5 2.5 0 0 0 13.5 16 2.5 2.5 0 0 1 15 15.5 2.5 2.5 0 0 1 16.5 16 2.5 2.5 0 0 0 18 16.5 2.5 2.5 0 0 0 19.5 16 2.5 2.5 0 0 1 21 15.5M6 12V10A2 2 0 0 1 8 8H16A2 2 0 0 1 18 10V12M9 3V3.01M12 3V3.01M15 3V3.01M9 6V8M12 6V8M15 6V8"
+  },
+  "cake-2": {
+    "category": "Food",
+    "tags": ["cake", "2"],
+    "version": "1.0.0",
+    "path": "M3 15V20H21V12A3 3 0 0 0 18 9H6A3 3 0 0 0 3 12V15A2.5 2.5 0 0 0 6 14 2.5 2.5 0 0 1 8 13 2.5 2.5 0 0 1 10 14 2.5 2.5 0 0 0 12 15 2.5 2.5 0 0 0 14 14 2.5 2.5 0 0 1 16 13 2.5 2.5 0 0 1 18 14 2.5 2.5 0 0 0 21 15M12 4L13.465 5.638A2 2 0 1 1 10.45 5.638Z"
+  },
+  "calculator": {
+    "category": "Business",
+    "tags": ["calculator", "math", "add", "subtract", "multiply", "divide"],
+    "version": "1.0.0",
+    "path": "M5 19V5A2 2 0 0 1 7 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A 2 2 0 0 1 5 19M9 7H15M9 11V11.01M12 11V11.01M15 11V11.01M9 14V14.01M12 14V14.01M15 14V17M9 17V17.01M12 17V17.01"
+  },
+  "calculator-2": {
+    "category": "Business",
+    "tags": ["calculator", "2", "math", "add", "subtract", "multiply", "divide"],
+    "version": "1.0.0",
+    "path": "M5 19V5A2 2 0 0 1 7 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A 2 2 0 0 1 5 19M9 7H15M9 11V11.01M12 11V11.01M15 11V11.01M9 14V14.01M12 14V14.01M15 14V14.01M9 17H12M15 17V17.01"
+  },
+  "capsule": {
+    "category": "Health",
+    "tags": ["capsule", "pill", "prescription", "drug", "medication", "doctor"],
+    "version": "1.1.0",
+    "path": "M15.5 15.5L8.5 8.5L12.5 4.5A3.5 3.5 0 0 1 19.5 11.5L11.5 19.5A3.5 3.5 0 0 1 4.5 12.5L8.5 8.5"
+  },
+  "cash": {
+    "category": "Finance",
+    "tags": ["cash", "money", "payment", "currency"],
+    "version": "1.0.0",
+    "path": "M7 15V11A2 2 0 0 1 9 9H17V7A2 2 0 0 0 15 5H5A2 2 0 0 0 3 7V13A2 2 0 0 0 5 15ZV17A2 2 0 0 0 9 19H19A2 2 0 0 0 21 17V11A2 2 0 0 0 19 9H17M14 12A2 2 0 0 1 14 16A2 2 0 0 1 14 12"
+  },
+  "cast": {
+    "category": "Media",
+    "tags": ["cast", "stream", "airplay", "stream", "broadcast"],
+    "version": "1.0.0",
+    "path": "M15 19H18A3 3 0 0 0 21 16V8A3 3 0 0 0 18 5H6A3 3 0 0 0 3.2 7M3 19V19.01M3 15A4 4 0 0 1 7 19M3 11A8 8 0 0 1 11 19"
+  },
+  "chart-arrows-horizontal": {
+    "category": "Charts",
+    "tags": ["chart", "arrows", "horizontal", "graph", "data", "diagram"],
+    "version": "1.0.0",
+    "path": "M3 3V21M3 6H21M3 12H12M3 18H17M18 3L21 6L18 9M9 9L12 12L9 15M14 15L17 18L14 21"
+  },
+  "chart-arrows-vertical": {
+    "category": "Charts",
+    "tags": ["chart", "arrows", "vertical", "graph", "data", "diagram"],
+    "version": "1.0.0",
+    "path": "M3 21H21M6 21V3M3 6L6 3L9 6M9 15L12 12L15 15M15 10L18 7L21 10M12 21V12M18 21V7"
+  },
+  "chart-bar": {
+    "category": "Charts",
+    "tags": ["chart", "bar", "graph", "data", "diagram"],
+    "version": "1.0.0",
+    "path": "M9 19A2 2 0 0 1 7 21H5A2 2 0 0 1 3 19V13A2 2 0 0 1 5 11H7A2 2 0 0 1 9 13V19A2 2 0 0 0 11 21H13A2 2 0 0 0 15 19V5A2 2 0 0 1 17 3H19A2 2 0 0 1 21 5V19A2 2 0 0 1 19 21H17A2 2 0 0 1 15 19M9 13V9A2 2 0 0 1 11 7H13A2 2 0 0 1 15 9"
+  },
+  "chart-bubble": {
+    "category": "Charts",
+    "tags": ["chart", "bubble", "graph", "data", "diagram"],
+    "version": "1.0.0",
+    "path": "M6 13A3 3 0 0 1 6 19A3 3 0 0 1 6 13M16 17A2 2 0 0 1 16 21A2 2 0 0 1 16 17M14.5 3A4.5 4.5 0 0 1 14.5 12A4.5 4.5 0 0 1 14.5 3"
+  },
+  "chart-line": {
+    "category": "Charts",
+    "tags": ["chart", "line", "graph", "data", "diagram"],
+    "version": "1.0.0",
+    "path": "M4 19H20M4 15L8 9L12 11L16 6L20 10"
+  },
+  "chart-pie": {
+    "category": "Charts",
+    "tags": ["chart", "pie", "graph", "data", "diagram"],
+    "version": "1.0.0",
+    "path": "M11 13H21A9 9 0 1 1 11 3V13M15 9H20.5A9 9 0 0 0 15 3.5V9"
+  },
+  "chart-pie-2": {
+    "category": "Charts",
+    "tags": ["chart", "pie", "2", "graph", "data", "diagram"],
+    "version": "1.2.0",
+    "path": "M10.5 6L10.5 13.5L18 13.5A7.5 7.5 0 1 1 10.5 6M13.5 3L13.5 10.5L21 10.5A7 7.5 0 0 0 13.5 3"
+  },
+  "chat": {
+    "category": "Communication",
+    "tags": ["chat", "message", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6z"
+  },
+  "chat-2": {
+    "category": "Communication",
+    "tags": ["chat", "2", "message", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14z"
+  },
+  "check": {
+    "category": "System",
+    "tags": ["check", "tick", "confirm"],
+    "version": "1.0.0",
+    "path": "M5 12L10 17L20 7"
+  },
+  "chevron-down": {
+    "category": "Arrows",
+    "tags": ["chevron", "down"],
+    "version": "1.0.0",
+    "path": "M6 9L12 15L18 9"
+  },
+  "chevron-down-left": {
+    "category": "Arrows",
+    "tags": ["chevron", "down", "left"],
+    "version": "1.0.0",
+    "path": "M7 9V17H15M11 5V13H19"
+  },
+  "chevron-down-right": {
+    "category": "Arrows",
+    "tags": ["chevron", "down", "right"],
+    "version": "1.0.0",
+    "path": "M16 8V16H8"
+  },
+  "chevron-left": {
+    "category": "Arrows",
+    "tags": ["chevron", "left", "back"],
+    "version": "1.0.0",
+    "path": "M15 18L9 12L15 6"
+  },
+  "chevron-right": {
+    "category": "Arrows",
+    "tags": ["chevron", "right", "next"],
+    "version": "1.0.0",
+    "path": "M9 18L15 12L9 6"
+  },
+  "chevron-up": {
+    "category": "Arrows",
+    "tags": ["chevron", "up"],
+    "version": "1.0.0",
+    "path": "M6 15L12 9L18 15"
+  },
+  "chevron-up-left": {
+    "category": "Arrows",
+    "tags": ["chevron", "up", "left"],
+    "version": "1.0.0",
+    "path": "M8 16V8H16"
+  },
+  "chevron-up-right": {
+    "category": "Arrows",
+    "tags": ["chevron", "up", "right"],
+    "version": "1.0.0",
+    "path": "M8 8H16V16"
+  },
+  "chevrons-down": {
+    "category": "Arrows",
+    "tags": ["chevrons", "down"],
+    "version": "1.0.0",
+    "path": "M7 7L12 12L17 7M7 13L12 18L17 13"
+  },
+  "chevrons-down-left": {
+    "category": "Arrows",
+    "tags": ["chevrons", "down", "left"],
+    "version": "1.0.0",
+    "path": "M7 9V17H15M11 5V13H19"
+  },
+  "chevrons-down-right": {
+    "category": "Arrows",
+    "tags": ["chevrons", "down", "right"],
+    "version": "1.0.0",
+    "path": "M17 9V17H9M13 5V13H5"
+  },
+  "chevrons-left": {
+    "category": "Arrows",
+    "tags": ["chevrons", "left", "back"],
+    "version": "1.0.0",
+    "path": "M11 7L6 12L11 17M17 7L12 12L17 17"
+  },
+  "chevrons-right": {
+    "category": "Arrows",
+    "tags": ["chevrons", "right", "next"],
+    "version": "1.0.0",
+    "path": "M7 7L12 12L7 17M13 7L18 12L13 17"
+  },
+  "chevrons-up": {
+    "category": "Arrows",
+    "tags": ["chevrons", "up"],
+    "version": "1.0.0",
+    "path": "M7 11L12 6L17 11M7 17L12 12L17 17"
+  },
+  "chevrons-up-left": {
+    "category": "Arrows",
+    "tags": ["chevrons", "up", "left"],
+    "version": "1.0.0",
+    "path": "M7 15V7H15M11 19V11H19"
+  },
+  "chevrons-up-right": {
+    "category": "Arrows",
+    "tags": ["chevrons", "up", "right"],
+    "version": "1.0.0",
+    "path": "M9 7H17V15M5 11H13V19"
+  },
+  "chip": {
+    "category": "Device",
+    "tags": ["chip", "cpu"],
+    "version": "1.0.0",
+    "path": "M5 17V7A2 2 0 0 1 7 5 H17A2 2 0 0 1 19 7V17A2 2 0 0 1 17 19H7A2 2 0 0 1 5 17M3 15H5M3 9H5M9 3V5M15 3V5M21 9H19M21 15H19M15 21V19M9 21V19M9 9H15V15H9V9"
+  },
+  "circle": {
+    "category": "Shapes",
+    "tags": ["circle"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "clipboard": {
+    "category": "Document",
+    "tags": ["clipboard", "copy"],
+    "version": "1.0.0",
+    "path": "M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11"
+  },
+  "clipboard-check": {
+    "category": "Document",
+    "tags": ["clipboard", "check"],
+    "version": "1.0.0",
+    "path": "M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 14L11 16L15 12"
+  },
+  "clipboard-copy": {
+    "category": "Document",
+    "tags": ["clipboard", "copy"],
+    "version": "1.0.0",
+    "path": "M14 5H16A2 2 0 0 1 18 7V10M18 18V19A2 2 0 0 1 16 21H6A2 2 0 0 1 4 19V7A2 2 0 0 1 6 5H8M10 7A2 2 0 0 1 10 3H12A2 2 0 0 1 12 7H10M20 14H10M13 11L10 14L13 17"
+  },
+  "clipboard-list": {
+    "category": "Document",
+    "tags": ["clipboard", "list"],
+    "version": "1.0.0",
+    "path": "M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12V12.01M9 16V16.01M13 12H15M13 16H15"
+  },
+  "clipboard-plus": {
+    "category": "Document",
+    "tags": ["clipboard", "plus", "add"],
+    "version": "1.0.0",
+    "path": "M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M12 12V16M10 14H14"
+  },
+  "clipboard-text": {
+    "category": "Document",
+    "tags": ["clipboard", "text"],
+    "version": "1.0.0",
+    "path": "M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M9 12H15M9 16H15"
+  },
+  "clipboard-x": {
+    "category": "Document",
+    "tags": ["clipboard", "x", "close"],
+    "version": "1.0.0",
+    "path": "M15 5H17A2 2 0 0 1 19 7V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19V7A2 2 0 0 1 7 5H9M11 7A2 2 0 0 1 11 3H13A2 2 0 0 1 13 7H11M10 12L 14 16M10 16L14 12"
+  },
+  "clock": {
+    "category": "System",
+    "tags": ["clock", "time", "watch", "alarm"],
+    "version": "1.0.0",
+    "path": "M12 8V12L15 15M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "close": {
+    "category": "System",
+    "tags": ["close", "x", "exit"],
+    "version": "1.0.0",
+    "path": "M6 6L18 18M6 18L18 6"
+  },
+  "cloudy": {
+    "category": "Weather",
+    "tags": ["cloudy"],
+    "version": "1.0.0",
+    "path": "M9 20A7.45 7.5 0 1 1 16 9A2 2 0 0 1 17 20H9"
+  },
+  "code": {
+    "category": "Development",
+    "tags": ["code", "brackets", "programming"],
+    "version": "1.0.0",
+    "path": "M8 8L4 12L8 16M16 8L20 12L16 16"
+  },
+  "code-slash": {
+    "category": "Development",
+    "tags": ["code", "slash", "brackets", "programming"],
+    "version": "1.0.0",
+    "path": "M6 8L2 12L6 16M18 8L22 12L18 16M10 20L14 4"
+  },
+  "column-insert-left": {
+    "category": "Database",
+    "tags": ["column", "insert", "left", "table", "cells"],
+    "version": "1.0.0",
+    "path": "M7 10V14M5 12H9M13 5A1 1 0 0 1 14 4H18A1 1 0 0 1 19 5V19A1 1 0 0 1 18 20H14A1 1 0 0 1 13 19Z"
+  },
+  "column-insert-right": {
+    "category": "Database",
+    "tags": ["column", "insert", "right", "table", "cells"],
+    "version": "1.0.0",
+    "path": "M5 5A1 1 0 0 1 6 4H10A1 1 0 0 1 11 5V19A1 1 0 0 1 10 20H6A1 1 0 0 1 5 19ZM17 10V14M15 12H19"
+  },
+  "comet": {
+    "category": "Weather",
+    "tags": ["comet", "star", "night", "space"],
+    "version": "1.0.0",
+    "path": "M4 9L7.5 12.5M4 4L11 11M9 4L12.5 7.5M15.5 11L17 14L20 14.5L18 16.5L18.5 20L15.5 18.5L12.5 20L13 16.5L11 14.5L14 14Z"
+  },
+  "compass": {
+    "category": "Map",
+    "tags": ["compass", "navigation", "directions", "travel"],
+    "version": "1.0.0",
+    "path": "M8.5 15.5L13.5 13.5L15.5 8.5L10.5 10.5ZM12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "compass-2": {
+    "category": "Map",
+    "tags": ["compass", "2", "navigation", "directions", "travel"],
+    "version": "1.0.0",
+    "path": "M16 3.938A9 9 0 1 0 20 7.877M12 12L18.5 5.5"
+  },
+  "copy": {
+    "category": "Document",
+    "tags": ["copy", "duplicate", "clone"],
+    "version": "1.0.0",
+    "path": "M6 4H14A2 2 0 0 1 16 6V8M8 16H6A2 2 0 0 1 4 14V6A2 2 0 0 1 6 4M10 8H18A2 2 0 0 1 20 10V18A2 2 0 0 1 18 20H10A2 2 0 0 1 8 18V10A2 2 0 0 1 10 8"
+  },
+  "corner-radius": {
+    "category": "Design",
+    "tags": ["corner", "radius", "round", "corner", "border", "style"],
+    "version": "1.0.0",
+    "path": "M4 12V8A4 4 0 0 1 8 4H12M16 4V4.01M20 4V4.01M20 8V8.01M20 12V12.01M20 16V16.01M20 20V20.01M16 20V20.01M12 20V20.01M8 20V20.01M4 20V20.01M4 16V16.01"
+  },
+  "credit-card": {
+    "category": "Finance",
+    "tags": ["credit", "card", "money", "cc", "payment"],
+    "version": "1.0.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V16A3 3 0 0 1 18 19H6A3 3 0 0 1 3 16V8M3 10H21M7 14H8M12 14H13"
+  },
+  "crop": {
+    "category": "Design",
+    "tags": ["crop", "photo", "image"],
+    "version": "1.0.0",
+    "path": "M8 5V15A1 1 0 0 0 9 16H19M5 8H15A1 1 0 0 1 16 9V19"
+  },
+  "cube": {
+    "category": "Shapes",
+    "tags": ["cube"],
+    "version": "1.0.0",
+    "path": "M4 7V17L12 21V11ZL12 3L20 7V17L12 21M12 11L20 7"
+  },
+  "cube-transparent": {
+    "category": "Shapes",
+    "tags": ["cube", "transparent"],
+    "version": "1.0.0",
+    "path": "M4 9.5V7L6 8M6 6L4 7M10 4L12 3L14 4M18 6L20 7V9.5M18 8L20 7M10 10L12 11L14 10M12 11V13.5M4 14.5V17L6 18M10 20L12 21L14 20M12 21V18.5M20 14.5V17L18 18"
+  },
+  "database": {
+    "category": "Database",
+    "tags": ["database", "storage", "memory", "data"],
+    "version": "1.0.0",
+    "path": "M4 7A6 3 0 0 0 20 7A6 3 0 0 0 4 7V17A6 3 0 0 0 20 17V7M4 12A6 3 0 0 0 20 12"
+  },
+  "desktop": {
+    "category": "Device",
+    "tags": ["device", "desktop", "computer", "imac"],
+    "version": "1.0.0",
+    "path": "M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V16A1 1 0 0 1 20 17H4A1 1 0 0 1 3 16V5M12 17V20M8 21H16"
+  },
+  "desktop-2": {
+    "category": "Device",
+    "tags": ["device", "2", "desktop", "computer", "imac"],
+    "version": "1.0.0",
+    "path": "M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V16A1 1 0 0 1 20 17H4A1 1 0 0 1 3 16V5M9 17V21M7 21H17M15 17V21"
+  },
+  "divide": {
+    "category": "System",
+    "tags": ["divide", "seperate"],
+    "version": "1.1",
+    "path": "M5 12H19M12 5A1 1 0 0 1 12 7A1 1 0 0 1 12 5M12 17A1 1 0 0 1 12 19A1 1 0 0 1 12 17"
+  },
+  "document": {
+    "category": "Document",
+    "tags": ["document", "file", "new"],
+    "version": "1.0.0",
+    "path": "M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5"
+  },
+  "document-add": {
+    "category": "Document",
+    "tags": ["document", "file", "add", "new", "create"],
+    "version": "1.0.0",
+    "path": "M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 13H15M12 10V16"
+  },
+  "document-alert": {
+    "category": "Document",
+    "tags": ["document", "file", "alert", "danger", "warning", "error"],
+    "version": "1.0.0",
+    "path": "M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M12 9V13M12 17V17.01"
+  },
+  "document-download": {
+    "category": "Document",
+    "tags": ["document", "file", "download", "save"],
+    "version": "1.0.0",
+    "path": "M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M12 10V16M9 13L12 16L15 13"
+  },
+  "document-remove": {
+    "category": "Document",
+    "tags": ["document", "file", "remove", "delete"],
+    "version": "1.0.0",
+    "path": "M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 13H15"
+  },
+  "document-text": {
+    "category": "Document",
+    "tags": ["document", "file", "text"],
+    "version": "1.0.0",
+    "path": "M5 5V19A2 2 0 0 0 7 21H17A2 2 0 0 0 19 19V8L14 3H7A2 2 0 0 0 5 5M9 12H15M9 16H15"
+  },
+  "dots-diagonal": {
+    "category": "System",
+    "tags": ["dots", "more", "diagonal"],
+    "version": "1.0.0",
+    "path": "M17 6A1 1 0 0 1 17 8A1 1 0 0 1 17 6M12 11A1 1 0 0 1 12 13A1 1 0 0 1 12 11M7 16A1 1 0 0 1 7 18A1 1 0 0 1 7 16"
+  },
+  "dots-diagonal-2": {
+    "category": "System",
+    "tags": ["dots", "more", "diagonal", "2"],
+    "version": "1.0.0",
+    "path": "M7 6A1 1 0 0 1 7 8A1 1 0 0 1 7 6M12 11A1 1 0 0 1 12 13A1 1 0 0 1 12 11M17 16A1 1 0 0 1 17 18A1 1 0 0 1 17 16"
+  },
+  "dots-horizontal": {
+    "category": "System",
+    "tags": ["dots", "more", "horizontal"],
+    "version": "1.0.0",
+    "path": "M5 11A1 1 0 0 1 5 13A1 1 0 0 1 5 11M12 11A1 1 0 0 1 12 13A1 1 0 0 1 12 11M19 11A1 1 0 0 1 19 13A1 1 0 0 1 19 11"
+  },
+  "dots-vertical": {
+    "category": "System",
+    "tags": ["dots", "more", "vertical"],
+    "version": "1.0.0",
+    "path": "M12 4A1 1 0 0 1 12 6A1 1 0 0 1 12 4M12 11A1 1 0 0 1 12 13A1 1 0 0 1 12 11M12 18A1 1 0 0 1 12 20A1 1 0 0 1 12 18"
+  },
+  "download": {
+    "category": "Arrows",
+    "tags": ["arrow", "download", "save"],
+    "version": "1.0.0",
+    "path": "M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 12L12 16L16 12"
+  },
+  "droplet": {
+    "category": "Design",
+    "tags": ["droplet", "rain", "water"],
+    "version": "1.0.0",
+    "path": "M12 3L6.8 11A6 6 0 1 0 17.2 11Z"
+  },
+  "droplet-half": {
+    "category": "Design",
+    "tags": ["droplet", "half", "rain", "water"],
+    "version": "1.0.0",
+    "path": "M12 3L6.8 11A6 6 0 1 0 17.2 11ZM12 3V20"
+  },
+  "droplet-half-2": {
+    "category": "Design",
+    "tags": ["droplet", "half", "2", "rain", "water"],
+    "version": "1.0.0",
+    "path": "M12 3L6.8 11A6 6 0 1 0 17.2 11ZM6 14H18"
+  },
+  "eject": {
+    "category": "Media",
+    "tags": ["eject"],
+    "version": "1.0.0",
+    "path": "M5 18H19M12 5L6 14H18Z"
+  },
+  "eraser": {
+    "category": "Design",
+    "tags": ["delete", "remove", "text"],
+    "version": "1.2.0",
+    "path": "M19 20H8.5L4.29 15.7A1 1 0 0 1 4.29 14.29L14.29 4.29A1 1 0 0 1 15.7 4.29L20.7 9.29A1 1 0 0 1 20.7 10.7L11.5 20M18 13.3L11.7 7"
+  },
+  "exclamation-circle": {
+    "category": "System",
+    "tags": ["exclamation", "alert", "circle", "warning", "danger"],
+    "version": "1.0.0",
+    "path": "M12 8V12M12 16V16.01M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "fast-forward": {
+    "category": "Media",
+    "tags": ["fast", "forward", "next", "video", "music", "player"],
+    "version": "1.0.0",
+    "path": "M11 12L3 19V5ZM22 12L14 19V5Z"
+  },
+  "film": {
+    "category": "Media",
+    "tags": ["film", "movie", "cinema", "video", "theater"],
+    "version": "1.0.0",
+    "path": "M3 5A1 1 0 0 1 4 4H20A1 1 0 0 1 21 5V19A1 1 0 0 1 20 20H4A1 1 0 0 1 3 19ZM7 4V20M17 4V20M3 8H7M3 12H21M3 16H7M17 8H21M17 16H21"
+  },
+  "filter": {
+    "category": "System",
+    "tags": ["filter", "funnel"],
+    "version": "1.0.0",
+    "path": "M3 4A1 1 0 0 1 4 3H20A1 1 0 0 1 21 4V7L14 14V17L10 21V14L3 7V4"
+  },
+  "flag": {
+    "category": "Map",
+    "tags": ["flag", "pin", "marker", "warning", "alert"],
+    "version": "1.0.0",
+    "path": "M5 21V5A5 5 0 0 1 12 5A5 5 0 0 0 19 5V14A5 5 0 0 1 12 14A5 5 0 0 0 5 14"
+  },
+  "flag-2": {
+    "category": "Map",
+    "tags": ["flag", "2", "pin", "marker", "warning", "alert"],
+    "version": "1.0.0",
+    "path": "M5 21V5H12L13 6H19V15H13L12 14H5"
+  },
+  "flag-3": {
+    "category": "Map",
+    "tags": ["flag", "3", "pin", "marker", "warning", "alert"],
+    "version": "1.0.0",
+    "path": "M5 21V5H19V14H5"
+  },
+  "flag-4": {
+    "category": "Map",
+    "tags": ["flag", "4", "pin", "marker", "warning", "alert"],
+    "version": "1.0.0",
+    "path": "M5 21V5H19L14.5 9.5L19 14H5"
+  },
+  "flip-horizontal": {
+    "category": "Design",
+    "tags": ["flip", "horizontal", "mirror", "rotate"],
+    "version": "1.0.0",
+    "path": "M3 12H21M7 3 V8H17ZM7 21V16H17Z"
+  },
+  "flip-vertical": {
+    "category": "Design",
+    "tags": ["flip", "vertical", "mirror", "rotate"],
+    "version": "1.0.0",
+    "path": "M12 3V21M8 7V17H3ZM16 7V17H21Z"
+  },
+  "folder": {
+    "category": "Document",
+    "tags": ["folder", "directory", "dir"],
+    "version": "1.0.0",
+    "path": "M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5"
+  },
+  "folder-download": {
+    "category": "Document",
+    "tags": ["folder", "directory", "dir", "download"],
+    "version": "1.0.0",
+    "path": "M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M12 10V16M9 13L12 16L15 13"
+  },
+  "folder-minus": {
+    "category": "Document",
+    "tags": ["folder", "directory", "dir", "minus"],
+    "version": "1.0.0",
+    "path": "M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M9 13H 15"
+  },
+  "folder-plus": {
+    "category": "Document",
+    "tags": ["folder", "plus", "add", "new", "directory", "dir"],
+    "version": "1.0.0",
+    "path": "M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M12 10V16M9 13 H15"
+  },
+  "folder-x": {
+    "category": "Document",
+    "tags": ["folder", "directory", "dir", "x"],
+    "version": "1.0.0",
+    "path": "M5 5H10L12 7H19A2 2 0 0 1 21 9V17 A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V7A2 2 0 0 1 5 5M10 11L14 15M10 15L14 11"
+  },
+  "fullscreen": {
+    "category": "Media",
+    "tags": ["fullscreen", "video", "player", "maximize"],
+    "version": "1.0.0",
+    "path": "M3 9V4H8M16 4H21V9M21 15V20H16M8 20H3V15"
+  },
+  "fullscreen-exit": {
+    "category": "Media",
+    "tags": ["fullscreen", "exit", "video", "player", "minimize"],
+    "version": "1.0.0",
+    "path": "M7 4V8H3M17 4V8 H21M3 16H7V20M17 20V16H21"
+  },
+  "git-branch": {
+    "category": "Development",
+    "tags": ["git", "branch", "code", "version", "control", "command"],
+    "version": "1.0.0",
+    "path": "M6 8V16A4 4 0 0 1 10 12H14A4 4 0 0 0 18 8M6 4A2 2 0 0 1 6 8A2 2 0 0 1 6 4M6 16A2 2 0 0 1 6 20A2 2 0 0 1 6 16M18 4A2 2 0 0 1 18 8A2 2 0 0 1 18 4"
+  },
+  "git-commit": {
+    "category": "Development",
+    "tags": ["git", "commit", "version", "control", "code", "command"],
+    "version": "1.0.0",
+    "path": "M12 3V9M12 15 V21M12 9A3 3 0 0 1 12 15A3 3 0 0 1 12 9"
+  },
+  "git-commit-2": {
+    "category": "Development",
+    "tags": ["git", "commit", "version", "control", "code", "command", "2"],
+    "version": "1.0.0",
+    "path": "M3 12H9M15 12 H21M12 9A3 3 0 0 1 12 15A3 3 0 0 1 12 9"
+  },
+  "git-fork": {
+    "category": "Development",
+    "tags": ["git", "fork", "code", "version", "control", "command"],
+    "version": "1.0.0",
+    "path": "M7 8V10A2 2 0 0 0 9 12H15A2 2 0 0 0 17 10V8M12 12V16M7 4A2 2 0 0 1 7 8A2 2 0 0 1 7 4M12 16A2 2 0 0 1 12 20A2 2 0 0 1 12 16M17 4A2 2 0 0 1 17 8A2 2 0 0 1 17 4"
+  },
+  "git-merge": {
+    "category": "Development",
+    "tags": ["git", "merge", "code", "version", "control", "command"],
+    "version": "1.0.0",
+    "path": "M6 16V8A4 4 0 0 0 10 12H14A4 4 0 0 1 18 16M6 4A2 2 0 0 1 6 8A2 2 0 0 1 6 4M6 16A2 2 0 0 1 6 20A2 2 0 0 1 6 16M18 16A2 2 0 0 1 18 20A2 2 0 0 1 18 16"
+  },
+  "git-pull-request": {
+    "category": "Development",
+    "tags": ["git", "pull", "request", "code", "version", "control", "command"],
+    "version": "1.0.0",
+    "path": "M6 8V16M18 16V8A2 2 0 0 0 16 6H12M14 3L11 6L14 9M6 4A2 2 0 0 1 6 8A2 2 0 0 1 6 4M6 16A2 2 0 0 1 6 20A2 2 0 0 1 6 16M18 16A2 2 0 0 1 18 20A2 2 0 0 1 18 16"
+  },
+  "globe": {
+    "category": "Business",
+    "tags": ["globe", "world", "earth"],
+    "version": "1.0.0",
+    "path": "M4 9H20M4 15H20M12 3A14 14 0 0 0 12 21M12 3A14 14 0 0 1 12 21M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "gps": {
+    "category": "Map",
+    "tags": ["gps", "global", "positioning", "system", "navigation", "direction", "travel"],
+    "version": "1.0.0",
+    "path": "M7 12L16 8L12 17L11 13zM12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "half-horizontal-circle": {
+    "category": "System",
+    "tags": ["circle", "half", "horizontal"],
+    "version": "1.0.0",
+    "path": "M3.5 12H20.5M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "half-vertical-circle": {
+    "category": "System",
+    "tags": ["circle", "half", "vertical"],
+    "version": "1.0.0",
+    "path": "M12 3.5V20.5M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "hashtag": {
+    "category": "Text",
+    "tags": ["hashtag", "#"],
+    "version": "1.0.0",
+    "path": "M6 9H20M4 15H18M7 20L11 4M13 20L17 4"
+  },
+  "haze": {
+    "category": "Weather",
+    "tags": ["haze"],
+    "version": "1.0.0",
+    "path": "M3 16H21M3 20H21M3 12H4M5.6 5.6L6.3 6.3M12 3V4M18.4 5.6L17.7 6.3M20 12H21M8 12A4 4 0 0 1 16 12"
+  },
+  "heart": {
+    "category": "Health",
+    "tags": ["heart", "love", "favorite", "like", "emotion"],
+    "version": "1.0.0",
+    "path": "M4.5 12.572A5 5 0 1 1 12 6A5 5 0 1 1 19.5 12.572L12 20Z"
+  },
+  "identification": {
+    "category": "User",
+    "tags": ["identification", "license", "id"],
+    "version": "1.0.0",
+    "path": "M10 6V5A2 2 0 0 1 14 5V6A2 2 0 0 1 10 6V6H5A2 2 0 0 0 3 8V17A2 2 0 0 0 5 19H19A2 2 0 0 0 21 17V8A2 2 0 0 0 19 6H14M6 16.2A3.05 3.05 0 0 1 11.8 16M9 10A2 2 0 0 1 9 14A2 2 0 0 1 9 10M15 11H18M15 15H17"
+  },
+  "inbox": {
+    "category": "Business",
+    "tags": ["inbox", "mail", "gmail"],
+    "version": "1.0.0",
+    "path": "M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H16M4 13H7L10 16H14L17 13H20"
+  },
+  "inbox-in": {
+    "category": "Business",
+    "tags": ["inbox", "in", "mail", "gmail"],
+    "version": "1.0.0",
+    "path": "M16 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H8M4 13H7L10 16H14L17 13H20M12 3V11M9 8L12 11L15 8"
+  },
+  "keyboard": {
+    "category": "Device",
+    "tags": ["keyboard", "computer", "laptop"],
+    "version": "1.0.0",
+    "path": "M2 8A2 2 0 0 1 4 6H20A2 2 0 0 1 22 8V16A2 2 0 0 1 20 18H4A2 2 0 0 1 2 16V8M10 14H14M6 14H6.01M18 14H18.01M6 10H6.01M10 10H10.01M14 10H14.01M18 10H18.01"
+  },
+  "laptop": {
+    "category": "Device",
+    "tags": ["device", "laptop", "computer", "notebook", "mac", "portable"],
+    "version": "1.0.0",
+    "path": "M4 6A1 1 0 0 1 5 5H19A1 1 0 0 1 20 6V16A1 1 0 0 1 19 17H5A1 1 0 0 1 4 16V6M3 20H21"
+  },
+  "letter-a": {
+    "category": "Letters",
+    "tags": ["letter", "a", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V9A5 5 0 0 1 17 9V20M7 13H17"
+  },
+  "letter-b": {
+    "category": "Letters",
+    "tags": ["letter", "b", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V4H13A4 4 0 0 1 13 12A4 4 0 0 1 13 20ZM7 12H13"
+  },
+  "letter-c": {
+    "category": "Letters",
+    "tags": ["letter", "c", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15"
+  },
+  "letter-d": {
+    "category": "Letters",
+    "tags": ["letter", "d", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 10A6 6 0 0 0 11 4H7V20H11A6 6 0 0 0 17 14Z"
+  },
+  "letter-e": {
+    "category": "Letters",
+    "tags": ["letter", "e", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V4H17M7 12H15M7 20H17"
+  },
+  "letter-f": {
+    "category": "Letters",
+    "tags": ["letter", "f", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V4H17M7 12H15"
+  },
+  "letter-g": {
+    "category": "Letters",
+    "tags": ["letter", "g", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15V13H13"
+  },
+  "letter-h": {
+    "category": "Letters",
+    "tags": ["letter", "h", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4V20M7 12H17M17 4V20"
+  },
+  "letter-i": {
+    "category": "Letters",
+    "tags": ["letter", "i", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M12 4V20"
+  },
+  "letter-j": {
+    "category": "Letters",
+    "tags": ["letter", "j", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 4V15A 5 5 0 0 1 7 15"
+  },
+  "letter-k": {
+    "category": "Letters",
+    "tags": ["letter", "k", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4V20M17 4L9 12L17 20M7 12H9"
+  },
+  "letter-l": {
+    "category": "Letters",
+    "tags": ["letter", "l", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4V20H17"
+  },
+  "letter-m": {
+    "category": "Letters",
+    "tags": ["letter", "m", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M6 20V4L12 12L18 4V20"
+  },
+  "letter-n": {
+    "category": "Letters",
+    "tags": ["letter", "n", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V4L17 20V4"
+  },
+  "letter-o": {
+    "category": "Letters",
+    "tags": ["letter", "o", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15Z"
+  },
+  "letter-p": {
+    "category": "Letters",
+    "tags": ["letter", "p", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V4H13A4 4 0 0 1 13 12H7"
+  },
+  "letter-q": {
+    "category": "Letters",
+    "tags": ["letter", "q", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 9A5 5 0 0 0 7 9V15A5 5 0 0 0 17 15ZM13 15L18 20"
+  },
+  "letter-r": {
+    "category": "Letters",
+    "tags": ["letter", "r", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 20V4H13A4 4 0 0 1 13 12H7M11 12L17 20"
+  },
+  "letter-s": {
+    "category": "Letters",
+    "tags": ["letter", "s", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M17 8A4 4 0 0 0 13 4H11A4 4 0 0 0 11 12H13A4 4 0 0 1 13 20H11A4 4 0 0 1 7 16"
+  },
+  "letter-t": {
+    "category": "Letters",
+    "tags": ["letter", "s", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4H17M12 4V20"
+  },
+  "letter-u": {
+    "category": "Letters",
+    "tags": ["letter", "u", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4V15A5 5 0 0 0 17 15V4"
+  },
+  "letter-v": {
+    "category": "Letters",
+    "tags": ["letter", "v", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4L12 20L17 4"
+  },
+  "letter-w": {
+    "category": "Letters",
+    "tags": ["letter", "w", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M6 4L9 20L12 8L15 20L18 4"
+  },
+  "letter-x": {
+    "category": "Letters",
+    "tags": ["letter", "x", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4L17 20M7 20L17 4"
+  },
+  "letter-y": {
+    "category": "Letters",
+    "tags": ["letter", "y", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4L12 12V20M12 12L17 4"
+  },
+  "letter-z": {
+    "category": "Letters",
+    "tags": ["letter", "z", "alphabet", "text"],
+    "version": "1.1.0",
+    "path": "M7 4H17L7 20H17"
+  },
+  "lightning-bolt": {
+    "category": "Weather",
+    "tags": ["lightning", "bolt", "thunder"],
+    "version": "1.0.0",
+    "path": "M4 14H11V21L20 10H13V3L4 14"
+  },
+  "link": {
+    "category": "Text",
+    "tags": ["link", "chain", "url", "address"],
+    "version": "1.0.0",
+    "path": "M13 5L14 4A4.2 4.2 0 0 1 20 10L16 14A4.2 4.2 0 0 1 10 14M11 19L10 20A4.2 4.2 0 0 1 4 14L8 10A4.2 4.2 0 0 1 14 10"
+  },
+  "lock-locked": {
+    "category": "System",
+    "tags": ["lock", "locked", "closed"],
+    "version": "1.0.0",
+    "path": "M4 13A2 2 0 0 1 6 11H18A2 2 0 0 1 20 13V19A2 2 0 0 1 18 21H6A2 2 0 0 1 4 19V13M12 15V17M8 11V7A4 4 0 0 1 16 7V11"
+  },
+  "lock-open": {
+    "category": "System",
+    "tags": ["lock", "unlocked", "open"],
+    "version": "1.0.0",
+    "path": "M4 13A2 2 0 0 1 6 11H18A2 2 0 0 1 20 13V19A2 2 0 0 1 18 21H6A2 2 0 0 1 4 19V13M12 15V17M8 11V7A4 4 0 0 1 16 7"
+  },
+  "login": {
+    "category": "System",
+    "tags": ["login", "account", "password"],
+    "version": "1.0.0",
+    "path": "M16 16V17A3 3 0 0 1 13 20H6A3 3 0 0 1 3 17V7A3 3 0 0 1 6 4H13A3 3 0 0 1 16 7V8M7 12H21M11 8L7 12L11 16"
+  },
+  "logout": {
+    "category": "System",
+    "tags": ["logout", "account", "exit", "close"],
+    "version": "1.0.0",
+    "path": "M13 16V18A2 2 0 0 1 11 20H5A2 2 0 0 1 3 18V6A2 2 0 0 1 5 4H11A2 2 0 0 1 13 6V8M21 12H7M17 8L21 12L17 16"
+  },
+  "mail": {
+    "category": "Business",
+    "tags": ["mail", "inbox", "email", "gmail", "envelope"],
+    "version": "1.0.0",
+    "path": "M3 8A2 2 0 0 1 5 6H19A2 2 0 0 1 21 8V17A2 2 0 0 1 19 19H5A2 2 0 0 1 3 17V8M3 9L10.5 13.5A3 3 0 0 0 13.5 13.5L21 9"
+  },
+  "map": {
+    "category": "Map",
+    "tags": ["map", "location", "travel"],
+    "version": "1.0.0",
+    "path": "M3 7L9 4L15 7L21 4V17L15 20L9 17L3 20V7M9 4V17M15 7V20"
+  },
+  "menu": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation"],
+    "version": "1.0.0",
+    "path": "M4 6H20M4 12H20M4 18H20"
+  },
+  "menu-2": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "2"],
+    "version": "1.0.0",
+    "path": "M4 8H20M4 16H20"
+  },
+  "menu-3": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "3"],
+    "version": "1.0.0",
+    "path": "M4 6H20M4 12H12M4 18H20"
+  },
+  "menu-4": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "4"],
+    "version": "1.0.0",
+    "path": "M4 6H20M12 12H20M4 18H20"
+  },
+  "menu-5": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "5"],
+    "version": "1.0.0",
+    "path": "M4 6H20M4 12H20M4 18H12"
+  },
+  "menu-6": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "6"],
+    "version": "1.0.0",
+    "path": "M4 6H20M4 12H20M12 18H20"
+  },
+  "menu-7": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "7"],
+    "version": "1.0.0",
+    "path": "M10 6H18M4 12H20M6 18H14"
+  },
+  "menu-8": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "8"],
+    "version": "1.0.0",
+    "path": "M6 6H14M4 12H20M10 18H18"
+  },
+  "menu-9": {
+    "category": "System",
+    "tags": ["menu", "bars", "burger", "hamburger", "navigation", "9"],
+    "version": "1.0.0",
+    "path": "M8 6H16M4 12H20M8 18H16"
+  },
+  "message": {
+    "category": "Communication",
+    "tags": ["message", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6zM7 9L17 9M7 13L15 13"
+  },
+  "message-2": {
+    "category": "Communication",
+    "tags": ["message", "2", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14zM7 9L17 9M7 13L15 13"
+  },
+  "message-2-delete": {
+    "category": "Communication",
+    "tags": ["message", "2", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14zM10 9L14 13M14 9L10 13"
+  },
+  "message-2-dots": {
+    "category": "Communication",
+    "tags": ["message", "2", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14zM12 11V11.01M8 11V11.01M16 11V11.01"
+  },
+  "message-2-download": {
+    "category": "Communication",
+    "tags": ["message", "2", "download", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14zM12 14L12 8M14 12L12 14L10 12"
+  },
+  "message-2-forward": {
+    "category": "Communication",
+    "tags": ["message", "2", "forward", "share", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14zM7 11L17 11M15 9L17 11L15 13"
+  },
+  "message-2-upload": {
+    "category": "Communication",
+    "tags": ["message", "2", "upload", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H15L12 20L9 17H6A3 3 0 0 1 3 14zM12 14L12 8M14 10L12 8L10 10"
+  },
+  "message-delete": {
+    "category": "Communication",
+    "tags": ["message", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6zM10 9L14 13M14 9L10 13"
+  },
+  "message-dots": {
+    "category": "Communication",
+    "tags": ["message", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6zM12 11V11.01M8 11V11.01M16 11V11.01"
+  },
+  "message-download": {
+    "category": "Communication",
+    "tags": ["message", "download", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6zM12 14L12 8M14 12L12 14L10 12"
+  },
+  "message-forward": {
+    "category": "Communication",
+    "tags": ["message", "forward", "share", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6zM7 11L17 11M15 9L17 11L15 13"
+  },
+  "message-upload": {
+    "category": "Communication",
+    "tags": ["message", "upload", "chat", "comment", "reply", "conversation"],
+    "version": "1.2.0",
+    "path": "M3 20V8A3 3 0 0 1 6 5H18A3 3 0 0 1 21 8V14A3 3 0 0 1 18 17H6zM12 14L12 8M14 10L12 8L10 10"
+  },
+  "meteor": {
+    "category": "Weather",
+    "tags": ["meteor"],
+    "version": "1.0.0",
+    "path": "M4 13A8 8 0 0 0 20 13V2.5L13 5.75V3.25L8 6A8 8 0 0 0 4 13M12 8A4 4 0 0 1 12 16A4 4 0 0 1 12 8"
+  },
+  "microphone": {
+    "category": "Device",
+    "tags": ["microphone", "sound"],
+    "version": "1.0.0",
+    "path": "M5 11A7 7 0 0 0 19 11M12 18V22M8 22H16M9 11V5A3 3 0 0 1 15 5V11A3 3 0 0 1 9 11"
+  },
+  "minus": {
+    "category": "System",
+    "tags": ["minus", "subtract", "remove"],
+    "version": "1.0.0",
+    "path": "M5 12H19"
+  },
+  "minus-circle": {
+    "category": "System",
+    "tags": ["circle", "minus", "remove", "delete"],
+    "version": "1.0.0",
+    "path": "M9 12H15M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "mist": {
+    "category": "Weather",
+    "tags": ["mist"],
+    "version": "1.0.0",
+    "path": "M5 5H7M11 5H21M3 10H6M10 10H11M15 10H19M5 15H9M13 15H14M18 15H21M3 20H13M17 20H19"
+  },
+  "mobile": {
+    "category": "Device",
+    "tags": ["device", "mobile", "phone", "smartphone", "iphone", "cellphone"],
+    "version": "1.0.0",
+    "path": "M6 19V5A2 2 0 0 18 3H16A2 2 0 0 1 18 5V19A2 2 0 0 1 16 21H8A2 2 0 0 1 6 19M12 18V18.01"
+  },
+  "mood-angry": {
+    "category": "Mood",
+    "tags": ["mood", "angry", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 11V11.01M15 11V11.01M9.5 16A3.5 3.5 0 0 1 14.5 16M8 10L10 10.25M16 10L14 10.25"
+  },
+  "mood-blank": {
+    "category": "Mood",
+    "tags": ["mood", "blank", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9 15H15"
+  },
+  "mood-confused": {
+    "category": "Mood",
+    "tags": ["mood", "confused", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9.5 16A10 10 0 0 1 15.5 14.5"
+  },
+  "mood-happy": {
+    "category": "Mood",
+    "tags": ["mood", "happy", "smile", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 9V9.01M15 9V9.01M8 13H16A4 4 0 0 1 8 13"
+  },
+  "mood-laugh": {
+    "category": "Mood",
+    "tags": ["mood", "laugh", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M8 9A2 2 0 0 1 10 9M14 9A2 2 0 0 1 16 9M8 13A20 20 0 0 1 16 13A4 4 0 0 1 8 13"
+  },
+  "mood-nervous": {
+    "category": "Mood",
+    "tags": ["mood", "nervous", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8 16L10 14L12 16L14 14L16 16"
+  },
+  "mood-neutral": {
+    "category": "Mood",
+    "tags": ["mood", "neutral", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01"
+  },
+  "mood-relieved": {
+    "category": "Mood",
+    "tags": ["mood", "relieved", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M8 10A2 2 0 0 0 10 10M14 10A2 2 0 0 0 16 10M9.5 15A3.5 3.5 0 0 0 14.5 15"
+  },
+  "mood-sad": {
+    "category": "Mood",
+    "tags": ["mood", "sad", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 11V11.01M15 11V11.01M9.5 16A3.5 3.5 0 0 1 14.5 16"
+  },
+  "mood-smile": {
+    "category": "Mood",
+    "tags": ["mood", "smile", "happy", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M9.5 15A3.5 3.5 0 0 0 14.5 15"
+  },
+  "mood-suprised": {
+    "category": "Mood",
+    "tags": ["mood", "suprised", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 9V9.01M15 9V9.01M12 13A2 2 0 0 1 12 17A2 2 0 0 1 12 13"
+  },
+  "mood-tongue": {
+    "category": "Mood",
+    "tags": ["mood", "tongue", "emoji", "emotion", "face"],
+    "version": "1.0.0",
+    "path": "M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3M9 10V10.01M15 10V10.01M8.5 14H15.5M10 14V16A2 2 0 0 0 14 16V14"
+  },
+  "moon": {
+    "category": "Weather",
+    "tags": ["moon", "dark", "mode", "night"],
+    "version": "1.0.0",
+    "path": "M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646"
+  },
+  "mouse": {
+    "category": "Device",
+    "tags": ["mouse", "pointer", "cursor"],
+    "version": "1.0.0",
+    "path": "M6 7A4 4 0 0 1 10 3H14A4 4 0 0 1 18 7V17A4 4 0 0 1 14 21H10A4 4 0 0 1 6 17V7M12 7V11"
+  },
+  "number-0": {
+    "category": "Numbers",
+    "tags": ["number", "0", "zero", "digit"],
+    "version": "1.0.0",
+    "path": "M8 8A4 4 0 1 1 16 8V16A4 4 0 1 1 8 16Z"
+  },
+  "number-1": {
+    "category": "Numbers",
+    "tags": ["number", "1", "one", "digit"],
+    "version": "1.0.0",
+    "path": "M13 20V4L8 5.5"
+  },
+  "number-2": {
+    "category": "Numbers",
+    "tags": ["number", "2", "two", "digit"],
+    "version": "1.0.0",
+    "path": "M8 8A4 4 0 1 1 16 8C16 9.098 15.436 10.025 14.841 10.815L8 20H16"
+  },
+  "number-3": {
+    "category": "Numbers",
+    "tags": ["number", "3", "three", "digit"],
+    "version": "1.0.0",
+    "path": "M8 8 A4 4 0 1 1 12 12A4 4 0 1 1 8 16"
+  },
+  "number-4": {
+    "category": "Numbers",
+    "tags": ["number", "4", "four", "digit"],
+    "version": "1.0.0",
+    "path": "M15 20V5L7 16H17"
+  },
+  "number-5": {
+    "category": "Numbers",
+    "tags": ["number", "5", "five", "digit"],
+    "version": "1.0.0",
+    "path": "M16 4H8V12A5 5 0 1 1 8 18"
+  },
+  "number-6": {
+    "category": "Numbers",
+    "tags": ["number", "6", "six", "digit"],
+    "version": "1.0.0",
+    "path": "M8 15A4 4 0 0 1 16 15V16A4 4 0 0 1 8 16V8A4 4 0 0 1 16 8"
+  },
+  "number-7": {
+    "category": "Numbers",
+    "tags": ["number", "7", "seven", "digit"],
+    "version": "1.0.0",
+    "path": "M8 4H16L12 20"
+  },
+  "number-8": {
+    "category": "Numbers",
+    "tags": ["number", "8", "eight", "digit"],
+    "version": "1.0.0",
+    "path": "M12 4A4 4 0 0 1 12 12A4 4 0 0 0 12 20A4 4 0 0 0 12 12A4 4 0 0 1 12 4"
+  },
+  "number-9": {
+    "category": "Numbers",
+    "tags": ["number", "9", "nine", "digit"],
+    "version": "1.0.0",
+    "path": "M16 9A4 4 0 0 1 8 9V8A4 4 0 0 1 16 8V16A4 4 0 0 1 8 16"
+  },
+  "oval": {
+    "category": "Shapes",
+    "tags": ["oval"],
+    "version": "1.0.0",
+    "path": "M12 3A6 9 0 1 1 12 21A6 9 0 1 1 12 3"
+  },
+  "oval-horizontal": {
+    "category": "Shapes",
+    "tags": ["oval", "horizontal"],
+    "version": "1.0.0",
+    "path": "M3 12A9 6 0 1 1 21 12A9 6 0 1 1 3 12"
+  },
+  "parentheses": {
+    "category": "Development",
+    "tags": ["code", "brackets", "programming", "parenthesis", "punctuation"],
+    "version": "1.0.0",
+    "path": "M7 4A12 12 0 0 0 7 20M17 4A12 12 0 0 1 17 20"
+  },
+  "pause": {
+    "category": "Media",
+    "tags": ["pause", "stop", "video", "music", "player"],
+    "version": "1.0.0",
+    "path": "M6 17V7A2 2 0 0 1 10 7V17A2 2 0 0 1 6 17M14 17V7A2 2 0 0 1 18 7V17A2 2 0 0 1 14 17"
+  },
+  "pencil": {
+    "category": "Design",
+    "tags": ["write", "draw", "note", "edit"],
+    "version": "1.2.0",
+    "path": "M4 20V16L14.5 5.5A1.5 1.5 0 0 1 18.5 9.5L8 20H4M13.5 6.5L17.5 10.5"
+  },
+  "phone": {
+    "category": "Device",
+    "tags": ["phone", "call", "landline", "answer", "conversation", "number"],
+    "version": "1.0.0",
+    "path": "M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5Z"
+  },
+  "phone-incoming": {
+    "category": "Device",
+    "tags": ["phone", "incoming", "call", "landline", "answer", "conversation", "number"],
+    "version": "1.0.0",
+    "path": "M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM20 4L15 9V5M15 9H19"
+  },
+  "phone-outgoing": {
+    "category": "Device",
+    "tags": ["phone", "outgoing", "call", "landline", "answer", "conversation", "number"],
+    "version": "1.0.0",
+    "path": "M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM20 4L15 9M16 4H20V8"
+  },
+  "phone-x": {
+    "category": "Device",
+    "tags": ["phone", "x", "missed", "call", "landline", "answer", "conversation", "number"],
+    "version": "1.0.0",
+    "path": "M3 5A2 2 0 0 1 5 3H8.28A1 1 0 0 1 9.228 3.684L10.726 8.174A1 1 0 0 1 10.224 9.384L7.967 10.514A11.042 11.042 0 0 0 13.483 16.03L14.613 13.773A1 1 0 0 1 15.734 13.268L20.227 14.766A1 1 0 0 1 20.911 15.715V19A2 2 0 0 1 18.911 21H17.911C9.716 21 3 14.284 3 6V5ZM16 4L20 8M16 8L20 4"
+  },
+  "photo": {
+    "category": "Media",
+    "tags": ["photo", "picture", "camera", "image"],
+    "version": "1.0.0",
+    "path": "M4 15L8 11A3 5 0 0 1 11 11L16 16M14 14L15 13A3 5 0 0 1 18 13L20 15M4 17V7A3 3 0 0 1 7 4H17A3 3 0 0 1 20 7V17A3 3 0 0 1 17 20H7A3 3 0 0 1 4 17M15 8V8.01"
+  },
+  "pin": {
+    "category": "Map",
+    "tags": ["pin", "location", "marker", "travel", "navigation"],
+    "version": "1.0.0",
+    "path": "M9 11A3 3 0 0 1 15 11A3 3 0 0 1 9 11M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z"
+  },
+  "pin-2": {
+    "category": "Map",
+    "tags": ["pin", "2", "location", "marker", "travel", "navigation"],
+    "version": "1.0.0",
+    "path": "M12 10A1 1 0 0 1 12 12A1 1 0 0 1 12 10M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z"
+  },
+  "pin-plus": {
+    "category": "Map",
+    "tags": ["pin", "plus", "location", "marker", "travel", "navigation", "add"],
+    "version": "1.0.0",
+    "path": "M12 8V14M9 11H15M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z"
+  },
+  "pin-time": {
+    "category": "Map",
+    "tags": ["pin", "time", "location", "marker", "travel", "navigation"],
+    "version": "1.0.0",
+    "path": "M12 7V12H16M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657Z"
+  },
+  "pin-user": {
+    "category": "Map",
+    "tags": ["pin", "user", "marker", "travel", "navigation"],
+    "version": "1.0.0",
+    "path": "M12 7A2 2 0 0 1 12 11A2 2 0 0 1 12 7M17.657 16.657L13.414 20.9A2 2 0 0 1 10.587 20.9L6.343 16.657A8 8 0 1 1 17.657 16.657ZM7.25 17.564A4.9 4.9 0 0 1 16.75 17.654"
+  },
+  "pizza": {
+    "category": "Food",
+    "tags": ["pizza"],
+    "version": "1.0.0",
+    "path": "M12 3L3.5 19.5A20 20 0 0 0 20.5 19.5L12 3M5.5 16A17 17 0 0 0 18.5 16M13 11V11.01M11 14V14.01"
+  },
+  "play": {
+    "category": "Media",
+    "tags": ["play", "start", "video", "music", "player"],
+    "version": "1.0.0",
+    "path": "M7 4V20L20 12Z"
+  },
+  "plus": {
+    "category": "System",
+    "tags": ["plus", "add", "new", "create"],
+    "version": "1.0.0",
+    "path": "M12 5V19M5 12H19"
+  },
+  "plus-circle": {
+    "category": "System",
+    "tags": ["circle", "plus", "add", "create", "new"],
+    "version": "1.0.0",
+    "path": "M9 12H15M12 9V15M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  },
+  "power": {
+    "category": "Device",
+    "tags": ["power", "on", "off", "electricity"],
+    "version": "1.0.0",
+    "path": "M12 5V12M7 6A7.75 7.75 0 1 0 17 6"
+  },
+  "pulse": {
+    "category": "Health",
+    "tags": ["pulse", "health", "activity"],
+    "version": "1.0.0",
+    "path": "M2 12H6L9 5L15 19L18 12H22"
+  },
+  "qrcode": {
+    "category": "Device",
+    "tags": ["qrcode", "scan", "data"],
+    "version": "1.0.0",
+    "path": "M16 20H20M18 16H20M20 12H20.01M4 12H8M12 4V5M12 9V12H16M12 20V16H14M4 7V5A1 1 0 0 1 5 4H7A1 1 0 0 1 8 5V7A1 1 0 0 1 7 8H5A1 1 0 0 1 4 7M16 7V5A1 1 0 0 1 17 4H19A1 1 0 0 1 20 5V7A1 1 0 0 1 19 8H17A1 1 0 0 1 16 7 M4 19V17A1 1 0 0 1 5 16H7A1 1 0 0 1 8 17V19A1 1 0 0 1 7 20H5A1 1 0 0 1 4 19"
+  },
+  "qrcode-2": {
+    "category": "Device",
+    "tags": ["qrcode", "2", "scan", "data"],
+    "version": "1.0.0",
+    "path": "M4 5A1 1 0 0 1 5 4H9A1 1 0 0 1 10 5V9A1 1 0 0 1 9 10H5A 1 1 0 0 1 4 9V5M7 7V7.01M14 5A1 1 0 0 1 15 4H19A1 1 0 0 1 20 5V9A1 1 0 0 1 19 10H15A1 1 0 0 1 14 9V5M17 7V7.01M4 15A1 1 0 0 1 5 14H9A1 1 0 0 1 10 15V19A1 1 0 0 1 9 20H5A1 1 0 0 1 4 19V15M7 17V17.01M14 14V14.01M17 14H20M14 20V17H17M20 17V20H17"
+  },
+  "radius-bottom-left": {
+    "category": "Design",
+    "tags": ["radius", "bottom", "left", "round", "corner", "border", "style"],
+    "version": "1.0.0",
+    "path": "M5 5V11A8 8 0 0 0 13 19H19"
+  },
+  "radius-bottom-right": {
+    "category": "Design",
+    "tags": ["radius", "bottom", "right", "round", "corner", "border", "style"],
+    "version": "1.0.0",
+    "path": "M19 5V11A8 8 0 0 1 11 19H5"
+  },
+  "radius-top-left": {
+    "category": "Design",
+    "tags": ["radius", "top", "left", "round", "corner", "border", "style"],
+    "version": "1.0.0",
+    "path": "M5 19V13A8 8 0 0 1 13 5H19"
+  },
+  "radius-top-right": {
+    "category": "Design",
+    "tags": ["radius", "top", "right", "round", "corner", "border", "style"],
+    "version": "1.0.0",
+    "path": "M19 19V13A8 8 0 0 0 11 5H5"
+  },
+  "rainbow": {
+    "category": "Weather",
+    "tags": ["rainbow"],
+    "version": "1.0.0",
+    "path": "M2 17A10 10 0 0 1 22 17M6 17A6 6 0 0 1 18 17M10 17A2 2 0 0 1 14 17"
+  },
+  "refresh": {
+    "category": "System",
+    "tags": ["refresh", "reload", "restart", "update", "loader"],
+    "version": "1.0.0",
+    "path": "M4 4V9H9M4.5 9A8.1 8.1 0 0 1 20 11M15 15H20V20M19.5 15A8.1 8.1 0 0 1 4 13"
+  },
+  "repeat": {
+    "category": "Media",
+    "tags": ["repeat", "redo", "loop", "replay"],
+    "version": "1.0.0",
+    "path": "M4 12V9A3 3 0 0 1 7 6H20M17 3L20 6L17 9M20 12V15A3 3 0 0 1 17 18H4M7 21L4 18L7 15"
+  },
+  "repeat-once": {
+    "category": "Media",
+    "tags": ["repeat", "once", "redo", "loop", "replay"],
+    "version": "1.0.0",
+    "path": "M4 12V9A3 3 0 0 1 7 6H20M17 3L20 6L17 9M20 12V15A3 3 0 0 1 17 18H4M7 21L4 18L7 15M11 11L12 10V14"
+  },
+  "rewind": {
+    "category": "Media",
+    "tags": ["rewind", "previous", "video", "music", "player"],
+    "version": "1.0.0",
+    "path": "M2 12L10 5V19ZM13 12L21 5V19Z"
+  },
+  "row-insert-bottom": {
+    "category": "Database",
+    "tags": ["row", "insert", "bottom", "table", "cells"],
+    "version": "1.1.0",
+    "path": "M5 5H19A1 1 0 0 1 20 6V10A1 1 0 0 1 19 11H5A1 1 0 0 1 4 10V6A1 1 0 0 1 5 5M12 15V19M10 17H14"
+  },
+  "row-insert-top": {
+    "category": "Database",
+    "tags": ["row", "insert", "top", "table", "cells"],
+    "version": "1.1.0",
+    "path": "M5 13H19A1 1 0 0 1 20 14V18A1 1 0 0 1 19 19H5A1 1 0 0 1 4 18V14A1 1 0 0 1 5 13M12 5V9M10 7H14"
+  },
+  "scan": {
+    "category": "Device",
+    "tags": ["scan", "barcode", "qr", "code"],
+    "version": "1.0.0",
+    "path": "M4 7V6A2 2 0 0 1 6 4H8M16 4H18A2 2 0 0 1 20 6V7M20 17V18A2 2 0 0 1 18 20H16M8 20H6A2 2 0 0 1 4 18V17M5 12H19"
+  },
+  "sd-card": {
+    "category": "Device",
+    "tags": ["sd", "card", "storage"],
+    "version": "1.0.0",
+    "path": "M9.5 3H18A1 1 0 0 1 19 4V20A1 1 0 0 1 18 21H6A1 1 0 0 1 5 20V7.5ZM10 7V8M13 6V8M16 6V8"
+  },
+  "sd-card-mini": {
+    "category": "Device",
+    "tags": ["sd", "card", "mini", "storage"],
+    "version": "1.0.0",
+    "path": "M7 10V4A1 1 0 0 1 8 3H18A1 1 0 0 1 19 4V20A1 1 0 0 1 18 21H6A1 1 0 0 1 5 20V12ZM10 6V8M13 6V8M16 6V8"
+  },
+  "search": {
+    "category": "System",
+    "tags": ["search", "find", "magnify", "magnifier"],
+    "version": "1.0.0",
+    "path": "M15 15L21 21M10 3A7 7 0 0 1 10 17A7 7 0 0 1 10 3"
+  },
+  "send-plane": {
+    "category": "Business",
+    "tags": ["send", "plane", "email", "message", "paper", "airplane"],
+    "version": "1.0.0",
+    "path": "M4 9L20 4L15 20L12 12Z"
+  },
+  "send-plane-2": {
+    "category": "Business",
+    "tags": ["send", "plane", "2", "email", "message", "paper", "airplane"],
+    "version": "1.0.0",
+    "path": "M4 3V21L21 12ZM4 12H10"
+  },
+  "shuffle": {
+    "category": "Media",
+    "tags": ["shuffle"],
+    "version": "1.0.0",
+    "path": "M18 3L21 6L18 9M18 21L21 18L18 15M3 6C9 6 10 9 11 12S13 18 18 18H21M3 18C9 18 10 15 11 12S13 6 18 6H21"
+  },
+  "square": {
+    "category": "Shapes",
+    "tags": ["square"],
+    "version": "1.0.0",
+    "path": "M6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4"
+  },
+  "sun": {
+    "category": "Weather",
+    "tags": ["sun", "light", "bright", "mode", "day"],
+    "version": "1.0.0",
+    "path": "M3 12H4M12 3V4M21 12H20M12 21V20M5.63 5.63L6.343 6.343M18.364 18.364L17.65 17.65M18.364 5.6L17.65 6.343M5.6 18.364L6.343 17.65M12 8A4 4 0 0 1 12 16A4 4 0 0 1 12 8"
+  },
+  "switch-horizontal": {
+    "category": "Arrows",
+    "tags": ["arrows", "switch", "horizontal", "left", "right"],
+    "version": "1.0.0",
+    "path": "M8 7H20M16 3L20 7L16 11M4 17H16M8 13L4 17L8 20"
+  },
+  "switch-vertical": {
+    "category": "Arrows",
+    "tags": ["arrows", "switch", "vertical", "up", "down"],
+    "version": "1.0.0",
+    "path": "M7 4V16M3 8L7 4L11 8M17 8V20M13 16L17 20L21 16"
+  },
+  "table": {
+    "category": "Database",
+    "tags": ["table", "grid", "row", "column"],
+    "version": "1.0.0",
+    "path": "M4 6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H6A2 2 0 0 1 4 18ZM10 4V20M4 10H20"
+  },
+  "table-export": {
+    "category": "Database",
+    "tags": ["table", "export", "grid", "row", "column"],
+    "version": "1.0.0",
+    "path": "M11.5 20H6A2 2 0 0 1 4 18V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V13.5M10 5V20M4 10H20M14 19H21M18 16L21 19L18 22"
+  },
+  "table-import": {
+    "category": "Database",
+    "tags": ["table", "import", "grid", "row", "column"],
+    "version": "1.0.0",
+    "path": "M4 13.5V6A2 2 0 0 1 6 4H18A2 2 0 0 1 20 6V18A2 2 0 0 1 18 20H12M2 19H9M6 16L9 19L6 22M4 10H20M10 4V15.5"
+  },
+  "tablet": {
+    "category": "Device",
+    "tags": ["device", "tablet", "ipad", "mobile"],
+    "version": "1.0.0",
+    "path": "M5 19V5A2 2 0 0 17 3H17A2 2 0 0 1 19 5V19A2 2 0 0 1 17 21H7A2 2 0 0 1 5 19M12 18V18.01"
+  },
+  "tag": {
+    "category": "Finance",
+    "tags": ["tag", "label"],
+    "version": "1.0.0",
+    "path": "M7 3 H12Q13 3 14 4L20 10Q22 12 20 14L14 20Q12 22 10 20L4 14Q3 13 3 12L3 7A4 4 0 0 1 7 3M7 7V7.01"
+  },
+  "temperature": {
+    "category": "Weather",
+    "tags": ["temperature", "fahrenheit", "celcius", "cold", "hot", "weather"],
+    "version": "1.0.0",
+    "path": "M10 13.5V5A2 2 0 0 1 14 5V13.5A4 4 0 1 1 10 13.5M10 9H14"
+  },
+  "terminal": {
+    "category": "Development",
+    "tags": ["terminal", "command", "console"],
+    "version": "1.0.0",
+    "path": "M5 7L10 12L5 17M12 19H19"
+  },
+  "text-wrap": {
+    "category": "Text",
+    "tags": ["text", "wrap", "alignment"],
+    "version": "1.0.0",
+    "path": "M4 5H20M4 12H16.5A3 3 0 0 1 16.5 19H13M4 19H8M15 17L13 19L15 21"
+  },
+  "thermometer": {
+    "category": "Health",
+    "tags": ["thermometer", "temperature", "hot", "cold", "fever", "fahrenheit", "celcius"],
+    "version": "1.1.0",
+    "path": "M4 20L7 17V13L15 5A2 2 0 0 1 19 9L11 17H7M11 14L12.5 15.5M14 11L15.5 12.5M17 8L18.5 9.5"
+  },
+  "thumb-down": {
+    "category": "System",
+    "tags": ["thumb", "down", "dislike", "bad"],
+    "version": "1.0.0",
+    "path": "M3 5V12A1 1 0 0 0 4 13H7A4 4 0 0 1 11 17V18A2 2 0 0 0 15 18V13H18A 2 2 0 0 0 20 11L19 6A 4 4 0 0 0 16 3H12L7 4H4A1 1 0 0 0 3 5M7 4V13"
+  },
+  "thumb-up": {
+    "category": "System",
+    "tags": ["thumb", "up", "like", "good"],
+    "version": "1.0.0",
+    "path": "M3 19V12A1 1 0 0 1 4 11H7A4 4 0 0 0 11 7V6A2 2 0 0 1 15 6V11H18A2 2 0 0 1 20 13L19 18A4 4 0 0 1 16 21H12L7 20H4A1 1 0 0 1 3 19M7 11V20"
+  },
+  "tornado": {
+    "category": "Weather",
+    "tags": ["tornado", "Wind", "air", "spin", "spinning", "rotate"],
+    "version": "1.0.0",
+    "path": "M3 4H21M5 8H19M9 12H21M11 16H17M9 20H13"
+  },
+  "translate": {
+    "category": "Text",
+    "tags": [
+      "translate",
+      "language",
+      "word",
+      "dictionary",
+      "communicate",
+      "communication",
+      "speech",
+      "english"
+    ],
+    "version": "1.0.0",
+    "path": "M3 5H15M9 3V5M13 5A18 20 0 0 1 3 18M6.5 9A20 20 0 0 0 10 14.5M11 21L16 11L21 21M13 18H19"
+  },
+  "trash": {
+    "category": "System",
+    "tags": ["trash", "remove", "delete", "garbage", "bin"],
+    "version": "1.1.0",
+    "path": "M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M10 11V17M14 11V17M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7"
+  },
+  "trash-2": {
+    "category": "System",
+    "tags": ["trash", "2", "remove", "delete", "garbage", "bin"],
+    "version": "1.1.0",
+    "path": "M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M12 11V17M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7"
+  },
+  "trash-3": {
+    "category": "System",
+    "tags": ["trash", "3", "remove", "delete", "garbage", "bin"],
+    "version": "1.1.0",
+    "path": "M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7"
+  },
+  "trash-x": {
+    "category": "System",
+    "tags": ["trash", "x", "remove", "delete", "garbage", "bin"],
+    "version": "1.1.0",
+    "path": "M4 7H20M9 7V4A1 1 0 0 1 10 3H14A1 1 0 0 1 15 4V7M10 12L14 16M10 16L14 12M19 7L18.133 19.142A2 2 0 0 1 16.138 21H7.862A2 2 0 0 1 5.867 19.142L5 7"
+  },
+  "trending-down": {
+    "category": "Arrows",
+    "tags": ["trending", "down", "decrease"],
+    "version": "1.0.0",
+    "path": "M3 7L9 13L13 9L21 17M21 9V17H13"
+  },
+  "trending-up": {
+    "category": "Arrows",
+    "tags": ["trending", "up", "increase"],
+    "version": "1.0.0",
+    "path": "M3 17L9 11L13 15L21 7M13 7L21 7L21 15"
+  },
+  "triangle": {
+    "category": "Shapes",
+    "tags": ["triangle"],
+    "version": "1.0.0",
+    "path": "M5 19A2 2 0 0 1 3.16 16.25L10.24 4A2 2 0 0 1 13.74 4L20.84 16.25A2 2 0 0 1 19 19Z"
+  },
+  "tv": {
+    "category": "Device",
+    "tags": ["device", "tv", "video", "watch", "film", "screen", "media"],
+    "version": "1.0.0",
+    "path": "M3 9A2 2 0 0 1 5 7H19A2 2 0 0 1 21 9V18A2 2 0 0 1 19 20H5A2 2 0 0 1 3 18V9M8 3L12 7L16 3"
+  },
+  "upload": {
+    "category": "Arrows",
+    "tags": ["arrow", "upload"],
+    "version": "1.0.0",
+    "path": "M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 8L12 4L16 8"
+  },
+  "usb": {
+    "category": "Device",
+    "tags": ["usb"],
+    "version": "1.0.0",
+    "path": "M12 17A2 2 0 0 1 12 21 2 2 0 0 1 12 17V16L7 13V10A1 1 0 0 0 7 8 1 1 0 0 0 7 10M12 5.5H10L12 3L14 5.5ZV16M12 14.5L17 12.5V10H16V8H18V10H17"
+  },
+  "user": {
+    "category": "User",
+    "tags": ["user", "account", "person"],
+    "version": "1.0.0",
+    "path": "M6 21V19A4 4 0 0 1 10 15H14A4 4 0 0 1 18 19V21M12 3A4 4 0 0 1 12 11A4 4 0 0 1 12 3"
+  },
+  "user-2": {
+    "category": "User",
+    "tags": ["user", "2", "account", "person"],
+    "version": "1.0.0",
+    "path": "M19 21H5A5 5 0 0 1 19 21M12 3A4 4 0 0 1 12 11A4 4 0 0 1 12 3"
+  },
+  "user-3": {
+    "category": "User",
+    "tags": ["user", "3", "account", "person"],
+    "version": "1.0.0",
+    "path": "M12 3A6 6 0 0 1 12 17A6 6 0 0 1 12 3M6 21H18"
+  },
+  "user-check": {
+    "category": "User",
+    "tags": ["user", "check", "account", "person"],
+    "version": "1.0.0",
+    "path": "M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11L18 13L22 9"
+  },
+  "user-exclamation": {
+    "category": "User",
+    "tags": ["user", "exclamation", "account", "person"],
+    "version": "1.0.0",
+    "path": "M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M19 7V10M19 14V14.01"
+  },
+  "user-minus": {
+    "category": "User",
+    "tags": ["user", "minus", "account", "person", "cancel", "remove", "unsubscribe"],
+    "version": "1.0.0",
+    "path": "M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11H22"
+  },
+  "user-plus": {
+    "category": "User",
+    "tags": ["user", "plus", "account", "person", "create", "add", "new", "subscribe", "follow"],
+    "version": "1.0.0",
+    "path": "M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M16 11H22M19 8V14"
+  },
+  "user-x": {
+    "category": "User",
+    "tags": ["user", "x", "account", "person", "cancel", "remove", "unsibscribe"],
+    "version": "1.0.0",
+    "path": "M3 21V19A4 4 0 0 1 7 15H11A4 4 0 0 1 15 19V21M9 3A4 4 0 0 1 9 11A4 4 0 0 1 9 3M17 9L21 13M17 13L21 9"
+  },
+  "volume-off": {
+    "category": "Media",
+    "tags": ["volume", "mute", "music", "off", "sound", "volume"],
+    "version": "1.0.0",
+    "path": "M3 14V10A1 1 0 0 1 4 9H6 L10 5C12 3 12 4 12 5V19C12 20 12 21 10 19L6 15H4A1 1 0 0 1 3 14M17 10L21 14M17 14L21 10"
+  },
+  "volume-up": {
+    "category": "Media",
+    "tags": ["volume", "music", "up", "music"],
+    "version": "1.0.0",
+    "path": "M3 14V10A1 1 0 0 1 4 9H6 L10 5C12 3 12 4 12 5V19C12 20 12 21 10 19L6 15H4A1 1 0 0 1 3 14M15.5 8.5A5 5 0 0 1 15.5 15.5M18 5.5A9 9 0 0 1 18 18.5"
+  },
+  "wallet": {
+    "category": "Finance",
+    "tags": ["wallet", "money", "card", "payment"],
+    "version": "1.0.0",
+    "path": "M4 18V6A2 2 0 0 1 6 4H16A1 1 0 0 1 17 5V8H19A1 1 0 0 1 20 9V19A1 1 0 0 1 19 20H6A2 2 0 0 1 4 18M4 6A2 2 0 0 0 6 8H17M14 14H17"
+  },
+  "wallet-2": {
+    "category": "Finance",
+    "tags": ["wallet", "2", "money", "card", "payment"],
+    "version": "1.0.0",
+    "path": "M4 18V6A2 2 0 0 1 6 4H16A1 1 0 0 1 17 5V8H18A1 1 0 0 1 19 9V12H20V16H16A2 2 0 0 1 16 12H19M19 16V19A1 1 0 0 1 18 20H6A2 2 0 0 1 4 18M4 6A2 2 0 0 0 6 8H17"
+  },
+  "wifi": {
+    "category": "Device",
+    "tags": ["wifi", "connection", "signal", "online"],
+    "version": "1.0.0",
+    "path": "M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12M3 9A12 12 0 0 1 21 9"
+  },
+  "wifi-0": {
+    "category": "Device",
+    "tags": ["wifi", "0", "connection", "signal", "online"],
+    "version": "1.0.0",
+    "path": "M12 18V18.01"
+  },
+  "wifi-1": {
+    "category": "Device",
+    "tags": ["wifi", "1", "connection", "signal", "online"],
+    "version": "1.0.0",
+    "path": "M12 18V18.01M9 15A4 4 0 0 1 15 15"
+  },
+  "wifi-2": {
+    "category": "Device",
+    "tags": ["wifi", "2", "connection", "signal", "online"],
+    "version": "1.0.0",
+    "path": "M12 18V18.01M9 15A4 4 0 0 1 15 15M6 12A8 8 0 0 1 18 12"
+  },
+  "windy": {
+    "category": "Weather",
+    "tags": ["windy", "wind", "breeze"],
+    "version": "1.0.0",
+    "path": "M11.5 4A2.5 2.5 0 1 1 13.5 8H5A2 2 0 0 0 5 12H18.5A2.5 2.5 0 1 1 16.5 16M4 16H10.5A2.5 2.5 0 1 1 8.5 20"
+  },
+  "x-circle": {
+    "category": "System",
+    "tags": ["circle", "x", "cancel"],
+    "version": "1.0.0",
+    "path": "M10 10L14 14M14 10L10 14M12 3A9 9 0 0 1 12 21A9 9 0 0 1 12 3"
+  }
+}

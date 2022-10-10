@@ -1,0 +1,20 @@
+import * as React from 'react';
+
+function DotsVertical({size=24, color="currentColor", stroke=2, ...props}) {
+  return <svg 
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    width={size}
+    height={size}
+    strokeWidth={stroke}
+    stroke={color}
+    fill="none"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    {...props}>
+      <path fill="none" stroke="none" d="M0 0h24v24H0z"/>
+      <path d="M12 4A1 1 0 0 1 12 6A1 1 0 0 1 12 4M12 11A1 1 0 0 1 12 13A1 1 0 0 1 12 11M12 18A1 1 0 0 1 12 20A1 1 0 0 1 12 18"/>
+  </svg>
+}
+        
+export default DotsVertical
