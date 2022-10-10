@@ -34,7 +34,7 @@ const Navbar = () => {
           />
           <NavItem
             name='Download'
-            link='https://github.com/lukeaelder/eldicons/releases/download/v1.1.0/eldicons-1.1.0.zip'
+            link='https://github.com/lukeaelder/eldicons/releases/download/v1.2.0/eldicons-1.2.0.zip'
             svg='M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 12L12 16L16 12'
           />
           <div className='mx-2 my-auto h-8 w-[1px] bg-slate-300/90 dark:bg-slate-300/20 lg:mx-3'></div>
@@ -47,19 +47,3 @@ const Navbar = () => {
 
 export default Navbar;
 
-{
-  /* <svg
-  xmlns='http://www.w3.org/2000/svg'
-  width={24}
-  height={24}
-  viewBox='0 0 24 24'
-  strokeWidth={2}
-  stroke='currentColor'
-  fill='none'
-  strokeLinecap='round'
-  strokeLinejoin='round'
->
-  <path fill='none' stroke='none' d='M0 0h24v24H0z' />
-  <path d='M4 16V17A3 3 0 0 0 7 20L17 20A3 3 0 0 0 20 17V16M12 4V16M8 12L12 16L16 12' />
-</svg>; */
-}
