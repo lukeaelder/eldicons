@@ -1,6 +1,6 @@
 {
 	"name": "eldicons",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"author": "Luke Elder",
 	"description": "React SVG icon components",
 	"type": "module",
@@ -14,6 +14,7 @@
 	],
 	"module": "dist/esm/index.js",
 	"main": "dist/cjs/index.js",
+	"types": "dist/types/index.d.ts",
 	"license": "MIT",
 	"repository": {
 		"type": "git",

@@ -18,7 +18,7 @@ const Navbar = () => {
             href='https://github.com/lukeaelder/eldicons/releases'
             className='rounded-md border-[1px] border-indigo-500 px-2 py-[.1875rem] text-sm font-normal text-indigo-600 shadow-[0_0_0_0px] shadow-indigo-500/0 transition hover:border-indigo-600 hover:text-indigo-700 hover:shadow-[0_0_0_3px] hover:shadow-indigo-500/30 dark:text-indigo-500 dark:hover:border-indigo-400 dark:hover:text-indigo-400'
           >
-            v1.2.0
+            v1.2.1
           </a>{' '}
         </div>
         <div className='flex'>
